@@ -1,0 +1,6 @@
+// 헤더 파일 : 파일 이름외에는 바꾸지 마세요.
+2
+data\\back\\roomlogin\\roomlogin.map		
+data\\back\\roomlogin\\height257.ht			
+data\\back\\roomlogin\\dcolor.tbl			
+data\\back\\roomlogin\\roomlogin_cli.att

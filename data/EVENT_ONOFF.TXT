@@ -1,0 +1,9 @@
+a_event_name	a_onoff
+end of skip	
+yutnori	1
+fishing	1
+lotto	1
+bingo	1
+baseball	1
+lottery	0
+dicegame	1

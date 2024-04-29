@@ -1,0 +1,6 @@
+// 헤더 파일 : 파일 이름외에는 바꾸지 마세요.
+2
+data/back/roomselect/room1_30.map		
+data\\back\\roomselect\\height257.ht			
+data\\back\\roomselect\\dcolor.tbl			
+data\\back\\roomselect\\room_cli.att

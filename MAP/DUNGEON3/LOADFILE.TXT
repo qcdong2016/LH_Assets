@@ -1,0 +1,8 @@
+// 헤더 파일 : 파일 이름외에는 바꾸지 마세요.
+1						// 맵의 종류 0, 1은 던전.
+map\\dungeon3\\dungeon3.raw			// 맵 타일 배치이름
+map\\dungeon3\\d1_height257.ht			// 높이 정보를 가지고 있는 화일 이름.
+data\wave.lol				// 물 오브젝트 파일네임.
+map\\dungeon3\\dcolor.tbl			// 지형의 색깔. rgb_conv실행.. param.txt참조.
+map\\dungeon3\\dungeon_cli.att			// 갈수있고없고..
+map\\dungeon3\\d1_al.raw			// 알파값.

@@ -1,0 +1,27 @@
+PetActNum: 25		PetClassNum: 4				
+						
+Act0(fly):         		0		24		38		38
+Act1(down):	        	1		25		39		39
+Act2(up):		        2		26		40		40
+Act3(die):		        3		27		41		41
+Act4(eat):		        4		28		42		42
+Act5(att_nail1):		5		29		43		43
+Act6(att_nail2):		6		-		-		-
+Act7(att_kick1):		7		30		44		44
+Act8(att_kick2):		8		31		45		45
+Act9(att_heading):		9		32		46		46
+Act10(att_bite):		10		-		-		-
+Act11(att_strike1):		11		-		-		-
+Act12(att_strike2):		12		-		-		-
+Act13(att_fire):		13		-		-		-
+Act14(att_light):		14		-		-		-
+Act15(att_relics1):		15		-		-		-
+Act16(att_gas):		    16		-		-		-
+Act17(att_relics2):		17		-		-		-
+Act18(devolt1):		    18		33		47		47
+Act19(devolt2):		    19		-		-		-
+Act20(devolt3):		    20		34		48		48
+Act21(devolt4):		    21		-		-		-
+Act22(devolt6):		    22		35		49		49
+Act23(devolt7):		    23		36		50		50
+Act24(skill1):		    -		37		51		51

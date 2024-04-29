@@ -1,0 +1,7 @@
+// 헤더 파일 : 파일 이름외에는 바꾸지 마세요.
+0
+map\\base\\base.map			
+map\\base\\height257.ht			
+data\gwave.lol				
+map\\base\\dcolor.tbl			
+map\\base\\field_cli.att

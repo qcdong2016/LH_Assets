@@ -1,0 +1,14 @@
+RACE	FACE	BODY	ARMS	LEGS	FEET	HAIR
+end of skip						
+0	b_m_face.csy	b_m_body.csy	b_m_arms.csy	b_m_legs.csy	b_m_feet.csy	b_m_hair%d.csy
+1	b_w_face.csy	b_w_body.csy	b_w_arms.csy	b_w_legs.csy	b_w_feet.csy	b_w_hair%d.csy
+2	k_m_face.csy	k_m_body.csy	k_m_arms.csy	k_m_legs.csy	k_m_feet.csy	k_m_hair%d.csy
+3	k_w_face.csy	k_w_body.csy	k_w_arms.csy	k_w_legs.csy	k_w_feet.csy	k_w_hair%d.csy
+4	a_m_face.csy	a_m_body.csy	a_m_arms.csy	a_m_legs.csy	a_m_feet.csy	a_m_hair%d.csy
+5	a_w_face.csy	a_w_body.csy	a_w_arms.csy	a_w_legs.csy	a_w_feet.csy	a_w_hair%d.csy
+6	h_m_face.csy	h_m_body.csy	h_m_arms.csy	h_m_legs.csy	h_m_feet.csy	h_m_hair%d.csy
+7	h_w_face.csy	h_w_body.csy	h_w_arms.csy	h_w_legs.csy	h_w_feet.csy	h_w_hair%d.csy
+8	f_m_face.csy	f_m_body.csy	f_m_arms.csy	f_m_legs.csy	f_m_feet.csy	f_m_hair%d.csy
+9	f_w_face.csy	f_w_body.csy	f_w_arms.csy	f_w_legs.csy	f_w_feet.csy	f_w_hair%d.csy
+10	pm_fa00.csy	pm_ub00.csy	pm_hn00.csy	pm_lb00.csy	pm_ft00.csy	pm_hr%02d.csy
+11	pw_fa00.csy	pw_ub00.csy	pw_hn00.csy	pw_lb00.csy	pw_ft00.csy	pw_hr%02d.csy

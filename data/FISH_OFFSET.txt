@@ -1,0 +1,12 @@
+FILENAME	OFFSETX	OFFSETY
+end of skip		
+image_minnow	12	165
+image_mandarinfish	57	197
+image_anchovy	2	154
+image_mangdoong	16	186
+image_trout	63	219
+image_snakehead	67	194
+image_cutlassfish	73	218
+image_flounder	97	194
+image_shark	163	277
+image_whale	181	281

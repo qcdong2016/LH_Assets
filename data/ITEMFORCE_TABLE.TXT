@@ -1,0 +1,5 @@
+WEAR	WIDTH	GRADE1	COLOR1	GRADE2	COLOR2	GRADE3	COLOR3
+end of skip					
+9	0.2	5	8fffffff	10	8fffe400	15	8f2ba5ba
+20	0.2	0	8fffff00	0	8fffff00	0	8fffff00
+21	0.2	0	8fff0000	0	8fff0000	0	8fff0000

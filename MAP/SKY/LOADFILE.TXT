@@ -1,0 +1,8 @@
+// 헤더 파일 : 파일 이름외에는 바꾸지 마세요.
+3
+map\\sky\\earth_0514_256.map			
+map\\sky\\height257.ht			
+data\wave.lol				
+map\\sky\\dcolor.tbl			
+map\\sky\\field_cli.att
+map\\sky\\sky.ut

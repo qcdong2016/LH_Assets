@@ -1,0 +1,27 @@
+zone index	Description	filename	map path	deco path	dungeon	Detail Ground	new dungeon	new terrain	music id	snow	Floor
+end of skip											
+0	로스트렐름	neogeo	map/neogeo/	data/building/neogeo/	0	1	0	1	0	0	-1
+1	데카렌	dungeon1	map/dungeon1/	data/building/dungeon1/	0	1	1	1	1	0	-1
+2	데카둔	dungeon1.lod	map/dungeon2/	data/building/dungeon2/	1	1	0	0	2	0	0
+3	화이트혼	base	map/base/	data/building/base/	0	1	0	1	3	0	-1
+4	라그라미아	start	map/start/	data/building/start/	0	1	0	1	4	0	-1
+5	시루스트	mapdungeon3.lod	map/dungeon3/	data/building/dungeon3/	1	1	0	0	5	0	-1
+6	천공의성	mapsky.lod	map/sky/	data/building/sky/	0	0	0	0	6	0	-1
+7	화이트혼	whitehorn	map/whitehorn/	data/building/whitehorn/	0	1	0	1	4	1	-1
+8	제누스레버너티	dungeon4	map/dungeon4/	data/building/dungeon4/	0	1	1	1	0	1	-1
+9	드미트론	dmitron	map/dmitron/	data/building/dmitron/	0	1	0	1	0	0	-1
+10	매트릭스(미사용)	matrix	map/matrix/	data/building/matrix/	0	1	0	1	4	0	-1
+11	길드배틀	gbattle	map/gbattle/	data/building/gbattle/	0	1	0	1	4	0	-1
+12	드미트론 점령전	dmitron_battle	map/dmitron/	data/building/dmitron/	0	1	0	1	0	0	-1
+13	불칸보스존	bulkan_boss	map/bulkan_boss/	data/building/bulkan_boss/	0	1	0	1	0	0	-1
+14	카이보스존	kailipton_boss	map/kailipton_boss/	data/building/kailipton_boss/	0	1	0	1	0	0	-1
+15	에이디아보스존	aidia_boss	map/aidia_boss/	data/building/aidia_boss/	0	1	0	1	0	0	-1
+16	휴먼보스존	human_boss	map/human_boss/	data/building/human_boss/	0	1	0	1	0	0	-1
+17	하이브리더보스존	hybrid_boss	map/hybrid_boss/	data/building/hybrid_boss/	0	1	0	1	0	1	-1
+18	최종보스전	final_boss	map/final_boss/	data/building/final_boss/	0	1	0	1	0	0	-1
+19	뫼비우스아래나	moebius	map/moebius/	data/building/moebius/	0	1	0	1	0	0	-1
+20	펄론루인	forlom_zon01	map/forlom_zon01/	data/building/forlom_zon01/	0	1	0	1	0	0	-1
+21	유피텔	aidia	map/aidia/	data/building/aidia/	0	1	0	1	0	0	-1
+22	펄론루인S2	forlorn_zone02	map/forlorn_zone02/	data/building/forlorn_zone02/	0	1	0	1	0	0	-1
+23	오염된 사막	forlorn_zone03	map/forlorn_zone03/	data/building/forlorn_zone03/	0	1	0	1	0	0	-1
+24	펄론루인S4	forlorn_zone04	map/forlorn_zone04/	data/building/forlorn_zone04/	0	1	0	1	0	0	-1

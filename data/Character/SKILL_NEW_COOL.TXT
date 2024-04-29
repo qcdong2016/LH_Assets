@@ -1,0 +1,159 @@
+a_index	a_name	a_level_min	a_energy_min	a_energy_max	a_which	a_app0_min	a_app0_max	a_app1_min	a_app1_max	a_left	a_right	a_attack	a_kind	a_app_num	a_step_max	a_money_min	a_money_max	a_race	a_cooltime_ori	a_desc
+end of skip
+0	Basic Attacks	1	-1	-1	-1	-1	-1	-1	-1	1	1	1	1	0	25	0	0	-1	0	Basic Attacks
+1	Sword Mastery	5	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	0	0	A Skill Used For Using A Sword. Higher Skills Levels Will Increase The Damage And Radius Of The Attack.
+2	Axe Mastery	5	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	0	0	A Skill For Using An Axe. Higher Skills Levels Will Increase The Damage And Radius Of The Axe Attack.
+3	Fireball	1	5	25	1	15	95	145	170	1	1	1	1	2	25	0	0	1	0	Balls Of Flame Will Descend On The Enemy. Higher Skills Levels Will Increase The Damage And Radius Of The Attack.
+4	Lightning Ball	1	3	15	1	15	95	145	170	1	1	1	1	0	25	0	0	1	0	Balls Of Lightning Will Descend On The Enemy. Higher Skills Levels Will Increase The Damage And Radius Of The Attack.
+5	Lightning	38	10	30	1	6	150	145	170	1	1	1	1	0	25	0	0	1	0	Lightning Will Strike Your Enemy.
+6	Recovery	5	10	30	1	40	100	0	0	0	1	0	3	0	25	0	0	2	0	Will Help Recover Vitality. Higher Skill Levels Will Increase The Speed Of Recovery.
+7	Mana Shield	15	10	60	1	1	14	10	52	0	1	0	3	0	25	0	0	1	0	Damage Sustained By A Special Attack Will Take Away Magic Power Instead Of Vitality. Physical Damage Will Be Reduced By 60%.
+8	Fire Mastery	25	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	1	0	Increases Enemy Damage When Using Species Of Fire Magic Attacks.
+9	Glow of Peace	25	10	20	1	10	100	0	0	0	1	0	3	0	25	0	0	-1	0	Increases The Speed Of Mana Recovery.
+10	Fire Pillar	38	22	66	1	6	150	145	170	1	1	1	1	4	25	0	0	1	0	Surrounds Enemy With Pillars Of Fire.
+11	Stone Mastery	25	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	1	0	Will Increase The Stone Damage Inflicted On The Enemy.
+12	Pebble Shot	1	3	15	1	15	90	145	170	1	1	1	1	0	25	0	0	1	0	Small Pebbles Will Pelt Your Enemy.
+13	Hail	38	10	30	1	6	145	145	170	1	1	1	1	0	25	0	0	1	0	A Hail Of Stones Will Rain Down On The Enemy From The Sky.
+14	Lightning Mastery	25	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	1	0	Will Increase The Lightning Damage Inflicted On The Enemy.
+15	Return to Village	35	10	10	1	20	100	0	0	0	1	0	3	0	5	0	0	1	0	Special Skill That Allows You To Return To The Village Instantly
+16	Power-up Stamina	10	10	20	1	10	40	0	0	0	0	0	3	0	25	0	0	-1	0	Increases Stamina To The Maximum Level.
+17	Iron Skin	80	0	0	-1	1	20	0	0	0	0	0	3	0	10	0	0	0	0	Your Body Will Become As Hard As Steel Which Will Increase Your Defense Rating. Your Defense Rating Will Increase According To Your Constitution Level.
+18	Overhead Blow	45	10	40	2	10	200	140	170	1	1	1	1	0	25	0	0	0	0	Attacking With A Sweeping Downward Motion.
+19	Recovery Boost	25	-1	-1	-1	5	25	0	0	0	0	0	3	0	5	0	0	0	0	Your Vitality Will Recovery Automatically At A Faster Rate.
+20	Marksmanship	5	-1	-1	-1	10	250	0	0	0	0	0	0	0	25	0	0	3	0	A Vital Skill For Using Gun Weapons. Higher Skills Levels Will Increase Damage To The Enemy
+21	Gem Cutting Skill	20	-1	-1	-1	5	95	0	0	0	0	0	0	0	25	0	0	3	0	A Skill For Cutting A Rough Gem. Higher Skills Levels Will Increase The Success Rate Of Cutting The Gem.
+22	Teleport	55	50	100	1	50	200	0	0	0	1	0	3	0	10	0	0	2	0	Character Can Teleport To A Designated Location Instantly. The Character Will Be Unable To Use Any Magic For 2 Seconds After Teleporting.
+23	Party Summon Skill	40	10	20	1	3	100	0	0	0	1	0	3	0	25	0	0	-1	0	Will Help Recover Vitality. Higher Skill Levels Will Increase The Speed Of Recovery.
+24	Bug Summon Skill	1	0	0	-1	10	100	0	0	0	0	0	0	0	25	0	0	2	0	You Can Inflict Great Damage On Enemies By Summoning A Bug For Attacking The Enemy.
+25	Healing	1	10	20	1	10	40	100	120	0	1	0	1	0	25	0	0	-1	0	Will Heal A Comrade?S Vitality. Higher Skill Levels Will Increase The Speed Of Recovery.
+26	Star Flare	50	56	121	1	6	160	145	170	1	1	1	1	5	25	0	0	1	0	Fire Flares Will Surround Your Enemy And Inflict Damage.
+27	Shock Sphere	50	21	45	1	6	160	145	170	1	1	1	1	0	25	0	0	1	0	A Sphere Of Electric Energy Will Be Hurled Towards Your Enemy.
+28	Stone Lance	50	21	45	1	6	155	145	170	1	1	1	1	0	25	0	0	1	0	Sharp Rocks Will Emerge From The Ground To Inflict Damage On The Enemy.
+29	Semi-automatic skill	50	0	0	-1	5	100	5	100	0	0	0	0	0	25	0	0	3	0	With This Skill Your Gun Weapon Will Become A Semi-Automatic. Higher Skills Levels Will Increase The Chance Of A Semi-Automatic Spray Of Bullets.
+30	Electric Shield	15	10	60	3	1	30	5	50	0	1	0	3	0	25	0	0	3	0	Damage Sustained By The Enemy Will Take Away Electric Energy Instead Of Vitality. Absorbs Some Physical Damage. 40% Of The Damage Will Be Taken From The Electric Energy.
+31	Whirlwind Slash	45	7	30	2	10	200	140	170	1	1	1	1	0	25	0	0	0	0	Slashing The Enemy By Cutting Through It In A Circular Motion
+32	Safety Shield	15	10	60	1	1	20	10	70	0	1	0	3	0	25	0	0	2	0	All Damage Taken Will Take Away Mana Instead Of Vitality. Damage Will Be Inflicted On Attacker For Each Mana Lost.
+33	Beast Summon Skill	45	0	0	-1	10	100	0	0	0	0	0	0	0	25	0	0	2	0	You Can Inflict Great Damage On Enemies By Summoning A Beast For Attacking The Enemy.
+34	Phenomenon	80	0	0	-1	10	100	0	0	0	0	0	0	0	25	0	0	2	0	Strengthens Bond Between Summoned Being Which Increases The Attack Rating.
+35	Sniper Skill	70	0	0	-1	12	20	20	90	1	0	0	1	0	5	0	0	3	0	It Helps You Shoot An Enemy From Far Away. However The Speed At Which You Can Attack Decreases.
+36	Stealth Skill	80	30	40	3	30	40	20	100	0	1	0	3	0	5	0	0	3	0	Enables You To Hide Underneath The Ground. No Damage Can Be Inflicted On Your Character. No Attack Can Be Mounted Against The Enemy. Range Of Vision Is Limited.
+37	Body of Steel	120	0	0	2	15	15	15	75	0	1	0	3	30	5	0	0	0	0	Your Upper Body Muscles Become As Hard As Steel. Increases Defense Rating. Lasts For 60 Seconds. 
+38	Exploding Rage	140	0	0	2	3	16	6	50	0	1	0	3	40	10	0	0	0	0	A Sudden Raging Attack Will Inflict More Damge To Enemies. Defense Rating Will Go Down. Lasts For 50 Seconds.
+39	Eye of Insight	170	0	0	-1	4	13	4	40	0	0	0	0	0	10	0	0	0	0	Defends Player From Long-Distance Attacks. Decreases Attack Damage From Long-Distance Attacks. Able To Avoid Attack. 
+40	Second Attack	150	30	30	2	20	500	20	500	0	1	1	1	0	25	0	0	0	0	Gives You The Ability To Use Weapons That Slayer And Chakram Monsters Use. The Weapon Will Be More Powerful If Your Skill Level Is High.
+41	Concentrated Attack	180	0	0	-1	2	10	18	90	0	0	0	0	0	5	0	0	0	0	Gives You The Ability To Destroy Hard Barrier Species Defenses. Will Also Weaken The Enemys Defenses.
+42	Marksmanship Skill	80	0	0	-1	3	30	15	60	0	0	0	0	0	10	0	0	3	0	Increases Shooting Accuracy. Inflicts More Damage To Enemy. Shooting Accuracy Will Increase If Gun Is Shot In Short Bursts.
+43	Penetration	110	0	0	3	3	30	3	15	0	1	0	3	40	5	0	0	3	0	Shot The Strong Bullet Which Make Enemys Defense Pierce Supplying More Electricity. Objects Attack Power Is Not Allowed At All. Hold Time 70Sec.
+44	Machine Operation Skill	150	0	0	0	10	500	40	250	0	1	1	1	0	10	0	0	3	0	Gives You The Ability To Operate Many Kinds Machines Correctly.
+45	Assembly Skill	130	0	0	-1	-1	-1	0	0	0	0	0	0	0	10	0	0	3	0	Gives You The Ability To Make Equipment. If You Have A High Skill Level You Can Make More Powerful Weapons.
+46	Absorb Magic	170	0	0	0	6	21	6	60	0	0	0	0	0	10	0	0	3	0	Adds A Magic Attack Deflecting Ability To The Electric Shield. Gives You The Ability To Absorb Or Deflect Magic Attacks.
+47	Concentration	110	0	0	-1	4	20	0	0	0	0	0	0	0	5	0	0	1	0	Increases Your Concentration And Decreases The Mana Used For Magic Attacks Or The Mana Shield.
+48	Hurricane of Psychokinetic Energy	130	100	200	1	4	22	7	80	0	1	1	3	50	10	0	0	1	0	Uses Vitality To Trigger An Extreme Psychokinetic Attack. Increases Magic Attack Damage To Enemy. Lasts For 60 Seconds.
+49	Translate Ancient Languages	150	0	0	-1	-1	-1	170	170	0	0	0	0	0	6	0	0	1	0	Gives You The Ability To Decipher The Magical Letters Written On Ancient Scrolls. If You Have A High Skill Level You Can Decipher High-Level Magic Scrolls.
+50	Transfer Magical Power	160	50	50	1	5	200	5	200	0	1	1	1	0	9	0	0	1	0	Transfers The Magical Powers Of A Magic Wand To The Character. The Magic Wand Will Be More Powerful If The Skill Level Of The Character Is Higher.
+51	Confusion	170	0	0	-1	3	17	3	45	0	0	0	0	0	10	0	0	1	0	Confuses A Close Distance Attacker. Decreases Attack Damage Or Makes The Attacker Miss Their Target. 
+52	Regain	180	50	100	1	16	80	9	90	0	1	1	4	5	5	0	0	1	3000	Cures Spells Cast By Fuzzy Species Monsters. Characters That Cannot Use Their Full Powers Will Be Able To Regain Their Powers.
+53	Blessing from the Earth	120	50	100	1	4	40	1	10	0	1	1	4	15	10	0	0	2	7000	Bless All Party Members To Increase Their Attack Rating. Last For 50 Seconds.
+54	Share Vitality	100	100	200	1	5	50	180	180	0	1	1	4	60	10	0	0	2	60000	Share Vitality And Mana With One Party Member. Any Damage Taken Will Be Distributed Among You And The Party Member. Experience Levels Attained Will Also Be Shared
+55	Wind of Enchantment	65	0	0	-1	10	50	0	0	0	0	0	0	0	15	0	0	2	0	Summon Monsters Or High Level Beasts. If You Have A High Skill Level You Can Summon More Powerful Monsters.
+56	Obedience	140	10	100	-1	20	300	20	230	0	0	0	0	0	10	0	0	2	0	Extends The Summoning Time Limit And Increases Your Attack Rating.
+57	Glow of Life	160	50	100	1	10	50	6	30	0	1	1	4	5	5	0	0	2	5000	Can Give Damage To Spirit-Affiliate Monsters Temporarily. When Used To Characters It Pacifies The Conflicted Attribute Skills
+58	Tranquility	150	300	400	1	0	0	12	120	0	1	0	3	30	10	0	0	2	0	Player Will Not Be Attack For A Certain Amount Of Time. If Player Attacks A Mob Or Other People Enemies Will Start Attacking Again.
+59	Sub Attack	1	0	0	-1	-1	-1	-1	-1	1	1	1	1	0	25	0	0	-1	0	Attack With Sub Item
+60	Force attack	250	30	100	2	60	250	100	100	1	1	1	1	0	20	0	0	0	6000	Give Big Attacking When Collecting The Power For A Moment
+61	Force control	255	0	0	-1	56	95	0	0	0	0	0	0	0	20	0	0	0	0	Increases The Chance Of Successful Force Attack.
+62	Bloody Mana	250	2	20	4	3	30	0	0	0	1	0	3	5	10	0	0	1	0	Switch Its Vitality To Mana.
+63	Vampire Touch	255	100	100	1	1	10	120	120	0	1	1	1	30	10	0	0	1	50000	Absorb The Part Of Enemys Vitality As Its Vitality.
+64	Hell Touch	265	0	0	0	100	1000	120	120	0	1	1	1	300	10	0	0	1	20000	Give Big Attacking Using All Of Magic Power They Have
+65	Deep attack	250	15	15	2	30	120	20	20	0	1	1	1	0	10	0	0	3	0	Inflicts High Damage By Deep Slashing Attack In A Close Distance.
+66	Chain attack	265	40	40	2	4	40	20	20	0	1	1	1	0	10	0	0	3	0	Inflicts Multiple And Continuous Attack Within A Short Period In A Close Distance.
+67	Scales of protection	250	100	100	1	2	20	100	100	0	1	1	4	30	10	0	0	2	7000	Increases Defensive Power Of A Character With A Wall Of A Sound Wave.
+68	Scales of guardian	255	200	200	1	10	80	0	0	0	1	0	3	60	10	0	0	2	0	Prevents A Character From Curses For A While.
+69	Passion of Music	260	0	0	-1	5	75	0	0	0	0	0	0	0	15	0	0	2	0	Increases Duration Of Scales Of Protection And Scales Of Guardian
+70	Fight of Music	265	0	0	-1	2	40	0	0	0	0	0	0	0	10	0	0	2	0	Make Its Attack Power Increase Through Passionate Music.
+71	Hell Cry	200	50	200	2	5	50	145	170	0	1	1	1	10	20	0	0	0	6000	Inflicts High Damage To The Surrounding By Striking The Earth With Strong Force.
+72	Tornado Ruin	200	20	200	1	20	220	145	170	0	1	1	1	10	20	0	0	1	10000	Sweep Away The Surrounding By Summonning A Strong Tornado
+73	Summon Fission	200	300	200	1	30	100	0	0	0	1	1	1	10	20	0	0	2	10000	Inflicts High Damage To The Surrounding By The Summoned Creature
+74	Air Raid	200	50	250	3	5	100	145	170	0	1	1	1	10	20	0	0	3	12000	Inflicts High Damage In Front Of The Player With A Air Strike.
+75	Hell Cry control	210	0	0	-1	5	100	0	0	0	0	0	0	0	10	0	0	0	0	Increases The Attack Power Of Hell Cry.
+76	Tornado Operation	210	0	0	-1	10	200	0	0	0	0	0	0	0	10	0	0	1	0	Able To Summone A Stronger Tornado.
+77	Air Raid Concent	210	0	0	-1	10	150	0	0	0	0	0	0	0	10	0	0	3	0	Increase The Damage Of The Air Raid With A Elaborate Missile Attack.
+78	Fission Control	210	0	0	-1	10	200	0	0	0	0	0	0	0	10	0	0	2	0	Inflicts High Damage To The Surrounding By The Summoned Creature
+79	Dual Sword Mastery	171	0	0	-1	20	400	0	0	0	0	0	0	0	30	0	0	4	0	Increases Attaking Power By Using The Dual Sword Mastery
+80	Recovery power increase	181	0	0	-1	5	25	0	0	0	0	0	3	0	20	0	0	4	0	Further Increases Vitality By Using The Vitality Recovery
+81	Haste	201	0	0	-1	20	300	0	0	0	0	0	0	0	30	0	0	4	0	Increases Attacking Power And Speed When Mastered The Skill By Using The Dual Sword Mastery
+82	Double Slash	190	30	300	2	10	200	0	0	0	1	1	1	3	30	0	0	4	3000	Increases Intensiry Of Momentary Damage
+83	Evasion	215	0	0	-1	1	25	0	0	0	0	0	0	0	30	0	0	4	0	Obtains Basic Evasion Power
+84	Bleed	220	20	300	2	3	100	0	0	0	1	0	3	10	30	0	0	4	0	Hit To Increase 100% Damage With Specific Rate  And Attack With Ignoring The Defensive Power
+85	Dash	260	10	100	2	0	0	70	120	0	1	0	3	2	10	0	0	4	2000	Rapidly Moves To The Assigned Position
+86	Assault	220	10	300	2	10	150	0	0	0	1	1	1	3	30	0	0	4	7000	Additionally Attacks The Target With Strong Energy
+87	Dual Assault	245	20	300	2	10	200	0	0	0	0	1	1	3	20	0	0	4	0	Additionally Inflicts Random Attacks After Assult Attack
+88	Hide	275	100	600	2	6	110	5	50	0	1	1	3	150	10	100000	550000	4	110000	Being Protected From Monsters For A While
+89	Hammer Mastery	171	0	0	-1	10	450	0	0	0	0	0	0	0	30	0	0	4	0	Increases Attacking Power By Using A Hammer
+90	Vital Expansion	181	0	0	-1	50	1000	200	1000	0	0	0	0	0	20	0	0	4	0	Increases Vitality
+91	Heavy Mastery	201	0	0	-1	10	300	0	0	0	0	0	0	0	30	0	0	4	0	Further Increases Attacking Power By Using A Hammer
+92	Bash	190	100	200	1	10	200	0	0	0	1	1	1	5	20	0	0	4	2500	Inflicts Damage And Chaos To The Surrounding 
+93	Iron Skin	215	0	0	-1	1	20	0	0	0	0	0	3	0	20	0	0	4	0	Increases Defence Power With Iron Skin. Higher Defence Power Depending On Physical Constitution
+94	Divine Stone	235	50	50	1	117	30	0	0	0	1	0	3	30	30	0	0	4	30000	Uses Divine Stone A Supplement Weapon
+95	Stone Increase	240	0	0	-1	1	5	45	70	0	0	0	0	0	20	0	0	4	0	Increases The Number Of Targets And The Range Of Application Of Divine Stone
+96	Time Charge	240	20	400	1	0	0	10	40	0	1	0	3	200	20	0	0	4	10000	Prolongs The Duration Of Divine Stone
+97	Stone Brust	250	0	0	0	10	300	145	170	0	0	0	0	0	30	0	0	4	0	Inflicts Damage To The Surrounding With A Fixed Possibility When Using Time Charge
+98	Reflection	275	40	400	1	5	30	5	30	0	1	0	3	300	20	40000	230000	4	20000	Increases Defence At A Given Time And Inflicts Reflection Damage To The Surrounding
+99	Stamina-Up	275	0	0	-1	5	80	0	0	0	0	0	0	0	20	100000	290000	0	0	Improve Stamina Permantly
+100	Burning Crash	275	1	65	2	20	6	100	100	0	1	1	1	230	30	40000	330000	0	20000	Destroy The Enemy To Hit  Repeatedly Using Slayer
+101	Hell-Mastery	275	0	0	-1	5	200	0	0	0	0	0	0	0	20	40000	230000	1	0	Increase The Attacking And Time Of Concentration For Helldown
+102	Helldown	275	50	1500	1	35	1	145	200	0	1	1	1	65	30	40000	330000	1	30000	Attack With Powerful Energy To Concentrate The Spirit
+103	Process Skill	275	50	500	3	10	82	0	0	0	0	0	0	0	10	150000	240000	3	0	As Processing The Spell Bookmake More Powerful Equipment 
+104	Auto Mine	275	80	450	3	1	2	8	290	0	1	1	1	17	20	100000	480000	3	4000	Give Powerful Attack Using Mine
+105	Summon Squad	275	30	300	1	1	100	0	0	0	1	0	3	0	10	100000	550000	2	600000	Summon The Party Member Around Us
+106	Life Expansion	275	50	340	1	1	40	5	600	0	1	0	4	0	20	40000	230000	2	0	Increase Vitiality Of Party Member During Specific Time
+107	Flying Crash	175	10	250	2	20	140	70	166	0	1	1	1	15	30	40000	280000	0	15000	After Jumpingattack The Enemy At A Long Range
+108	Poison	175	10	250	1	6	150	145	170	0	1	1	1	15	25	40000	280000	1	15000	Continually Attack Enemy To Give Posion
+109	Electric Shot	175	50	290	3	8	200	70	170	0	1	1	1	15	25	40000	280000	3	15000	Attack Using The Energy Of  Atmosphere
+110	Summon Flower	175	30	270	1	2	50	0	0	0	0	0	0	0	30	40000	280000	2	0	Be Able To Summon It As It Have Affinity  Between Plant
+111	Shadow Slash	175	10	250	2	6	150	70	170	0	1	1	1	15	30	40000	280000	4	15000	Attack Eneny Suddenly
+112	Adrenalin	175	10	250	1	2	60	0	0	0	1	0	3	15	25	40000	280000	4	15000	After Concentrating Then Increase The Rate Of Giving The Powerful Damage. Inrease In Critical
+113	Wild smash	300	10	300	2	12	302	5	30	0	1	1	1	8	35	40000	330000	0	18000	Cut Enemy In Half With Great Power
+114	Flamespear	300	20	310	1	9	270	145	170	0	1	1	1	10	30	40000	330000	1	18000	Spear Of Flame Drops From The Sky And Burns Enemy
+115	Fire Blindly	300	10	300	3	10	120	145	170	0	1	1	1	12	35	40000	330000	3	8000	Attacks Enemy Randomly For A While
+116	Summon Fire	300	50	340	1	10	320	145	170	0	1	1	1	10	35	40000	330000	2	10000	Summons Fairy In Friendship With Spirit Of Fire
+117	Space Slash	300	8	240	2	10	200	5	30	0	1	1	1	7	35	40000	330000	4	10000	Attack Rapidly And Cut Through The Space
+118	Electronic Hammer	300	6	150	1	14	400	5	30	0	1	1	1	10	35	40000	330000	4	10000	Gathers Electric Energy To The Hammer And Give Great Damage
+119	Protection Shield	100	6	150	2	3	75	0	0	0	1	1	3	15	25	8000	80000	0	120000	Defends One Single Attack Using Shields For A While
+120	Ice Bolt	100	10	75	1	5	125	145	170	0	1	1	1	5	30	8000	80000	1	4000	Attacks Opponent Using Ice Arrows
+121	Frozen Shot	100	4	85	3	7	127	145	170	0	1	1	1	0	30	8000	80000	3	8000	Freeze The Wounded Place Using Bullets Condensed With Liquid Nitrogen
+122	Ressrrection	100	10	150	1	3	75	145	170	0	1	1	1	10	25	8000	80000	2	0	Resurrect Dead Characters At The Same Place
+123	Merciless Smash	215	10	150	2	5	75	5	30	0	1	1	1	7	25	8000	80000	4	10000	Cut Enemy Several Times With No Mercy
+124	Tornado Hammer	215	10	150	1	10	330	170	170	0	1	1	1	7	30	8000	80000	4	5000	Attacks Surrounded Enemys With Great Speed Of Spin
+125	Spear mastery	200	-1	-1	-1	5	100	0	0	0	0	0	0	0	20	100000	100000	5	0	When Use Spear. Attack Power Is Increased.
+126	Tolerance increase	250	-1	-1	-1	1	20	0	0	0	0	0	0	0	20	100000	100000	5	0	Tolerance Is Increased In Abnormal Status.
+127	PL - spin	250	3	60	3	5	100	20	60	1	1	1	1	0	20	200000	200000	5	0	Brandish Weapon And Make Damage To Surrounding.
+128	PL - thrust	250	10	300	3	10	300	20	60	0	1	1	1	0	30	200000	200000	5	2000	Make Strong Three Continuous Attack To Designated Target.
+129	PL - blader	300	25	750	3	25	750	20	60	0	1	1	1	0	30	400000	400000	5	3000	Make Strong Five Continuous Attack To Designated Target.
+130	PL - strike	300	20	500	3	20	500	150	400	0	1	1	1	0	25	400000	400000	5	5000	Give Penetration Damage To The Object In Front Of. Stocastically Slow Is Operating
+131	PL - pierce	300	15	450	3	15	450	20	70	0	1	1	1	0	30	400000	400000	5	5000	Pierce To Designated Target Strongly. Stocastically Faint Is Operating
+132	PL - boom	350	10	300	3	10	300	20	300	0	1	1	1	0	30	800000	800000	5	5000	Put Weapon In To The Ground And Give Surrounding Explosion Damage.
+133	PL - shotgun	350	20	600	3	20	600	20	60	0	1	1	1	0	30	800000	800000	5	5000	Pierce Fast The Object In Front Of And Give Them Damage.
+134	PL - field	250	1	30	3	1	30	5	30	0	1	0	3	0	30	1000000	1000000	5	200000	Operate The Field Which Can Make Peroms Defense Power Increase. Hold For 2Min 30Sec.
+135	PL - pierce bomber	300	25	750	3	25	750	20	70	0	1	1	1	0	30	1600000	1600000	5	2500	Pierce To Designated Target Strongly Then Explode Weapon And Make Big Damage. When Got Attacked, Fall In Slow.
+136	PL - wheel wind	350	20	600	3	20	600	20	400	0	1	1	1	0	30	1600000	1600000	5	5000	Throw Weapon And Give Penetration Damage To Enemy In Surroundings.
+137	PL - alpha strike	350	25	750	3	25	750	20	70	0	1	1	1	0	30	1600000	1600000	5	5000	Using Centrifugal Force Of Body, Cut Off The Object Strongly. 
+138	PL - corss	350	10	300	3	10	300	20	70	0	1	1	1	0	30	1600000	1600000	5	25000	Cross The Balde Of Front & Back, Cut Off The Object. Stocastically Faint Is Operating
+139	D - system	250	1	30	3	1	30	5	30	0	1	0	3	0	30	3000000	3000000	5	5000	Operate Dsystem Which Is Overdrive System Of Perom.(Toggle Type)
+140	D - overload	250	40	1000	3	10	250	150	500	0	1	1	1	0	25	3000000	3000000	5	300000	Only Available During Dsystem Is Operating. Release Omnidirectional Thunder & Lightning. Stocastically Faint Is Operating
+141	D - clear	200	5	100	3	5	100	5	30	0	1	1	3	0	20	1600000	1600000	5	3000	Stocastically Make All Abnormal Status With Itself Clear. Only Available During Dsystem Is Operating.
+142	D system - hit	250	-1	-1	-1	2	40	0	0	0	0	0	0	0	20	800000	800000	5	0	Make Faint Rate Of Skill Increase. Apply During Dsystem Is Operating.
+143	D system - shock	250	-1	-1	-1	2	40	0	0	0	0	0	0	0	20	800000	800000	5	0	Make Slow Rate Of Skill Increase. Apply During Dsystem Is Operating.
+144	D system - evasion	250	-1	-1	-1	2	60	0	0	0	0	0	0	0	30	800000	800000	5	0	When Dsystem Is Operating, Evasion Is Increased.
+145	D system - tolerance	250	-1	-1	-1	1	30	0	0	0	0	0	0	0	30	800000	800000	5	0	When Dsystem Is Operating, Additional Abnomal Status Resistence Is Increased.
+146	D system - defense	250	-1	-1	-1	1	20	0	0	0	0	0	0	0	20	800000	800000	5	0	When Dsystem Is Operating, Additional Defense Power Is Increased.
+147	D system - attack	250	-1	-1	-1	15	300	0	0	0	0	0	0	0	20	800000	800000	5	0	When Dsystem Is Operating, Additional Offense Power Is Increased.
+148	Critical strike	200	20	40	3	2	40	5	30	0	1	1	3	0	20	600000	600000	5	10000	Make Critical Rate Of Character Increase. 
+149	Engage	200	20	40	3	2	40	5	30	0	1	1	3	0	20	600000	600000	5	10000	Make Attack Power Of Character Increase. 
+150	D system - field	250	20	40	3	1	20	5	30	0	1	0	3	0	20	800000	800000	5	10000	Make Ability Of Pl Field Increase. Only Available During Dsystem Is Operating. When Dsystem Is Close, Buff Clear.
+151	Master of Evasion	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	0	0	Passive Skill
+152	Defense Shield	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	1	0	Passive Skill
+153	Blessings of heaven	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	2	0	Passive Skill
+154	Penetration 2	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	3	0	Passive Skill
+155	Damage Mastery	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	4	0	Passive Skill
+156	PVP Defense	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	5	0	Passive Skill

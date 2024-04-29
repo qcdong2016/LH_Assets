@@ -1,0 +1,68 @@
+[ d9a_art26.LOL ]
+ d9a_art26.bmp 
+
+[ d9a_art27.LOL ]
+ d9a_gate02.bmp 
+ d9a_gate01.bmp 
+
+[ d9a_art27a.LOL ]
+ d9a_art27b.bmp 
+
+[ d9b_building06.LOL ]
+ d9b_building02b.tga 
+ d9a_art05.bmp 
+
+[ device01.LOL ]
+ device01.tga 
+
+[ Flag_AA.LOL ]
+ Flag_AA.tga 
+
+[ forlorn_pipe01.LOL ]
+ pa02.tga 
+
+[ forlorn_pipe02.LOL ]
+ pa01.tga 
+
+[ forlorn_pipe03.LOL ]
+ pa01.tga 
+
+[ p04_cabinet_AA.LOL ]
+ p04_cabinet_AA.tga 
+
+[ P04_column_AA.LOL ]
+ P04_column_wall01.tga 
+ P04_column_wall02.tga 
+ P04_column_pipe01.tga 
+ P04_column_pipe02.tga 
+ P04_column_pipe03.tga 
+ P04_column_pipe04.tga 
+
+[ P04_Ironwall_AA.LOL ]
+ P04_Ironwall_AA.tga 
+
+[ P04_Ironwall_BA.LOL ]
+ P04_Ironwall_BA.tga 
+
+[ P04_Ironwall_BB.LOL ]
+ P04_Ironwall_BA.tga 
+
+[ P04_Ironwall_BC.LOL ]
+ P04_Ironwall_BA.tga 
+
+[ P04_Ironwall_BD.LOL ]
+ P04_Ironwall_BA.tga 
+
+[ P04_matal_gun.LOL ]
+ P04_matal_gun.tga 
+
+[ P04_silinder_AA.LOL ]
+ P04_silinder_AA.tga 
+
+[ P04_silinder_AB.LOL ]
+ P04_silinder_AA.tga 
+ P04_silinder_AB.tga 
+
+[ P04_Silinder_BA.LOL ]
+ P04_Silinder_BA.tga 
+
