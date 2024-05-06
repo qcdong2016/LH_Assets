@@ -1,159 +1,159 @@
-a_index	a_name	a_level_min	a_energy_min	a_energy_max	a_which	a_app0_min	a_app0_max	a_app1_min	a_app1_max	a_left	a_right	a_attack	a_kind	a_app_num	a_step_max	a_money_min	a_money_max	a_race	a_cooltime_ori	a_desc
+﻿a_index	a_name	a_level_min	a_energy_min	a_energy_max	a_which	a_app0_min	a_app0_max	a_app1_min	a_app1_max	a_left	a_right	a_attack	a_kind	a_app_num	a_step_max	a_money_min	a_money_max	a_race	a_cooltime_ori	a_desc
 end of skip
-0	Basic Attacks	1	-1	-1	-1	-1	-1	-1	-1	1	1	1	1	0	25	0	0	-1	0	Basic Attacks
-1	Sword Mastery	5	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	0	0	A Skill Used For Using A Sword. Higher Skills Levels Will Increase The Damage And Radius Of The Attack.
-2	Axe Mastery	5	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	0	0	A Skill For Using An Axe. Higher Skills Levels Will Increase The Damage And Radius Of The Axe Attack.
-3	Fireball	1	5	25	1	15	95	145	170	1	1	1	1	2	25	0	0	1	0	Balls Of Flame Will Descend On The Enemy. Higher Skills Levels Will Increase The Damage And Radius Of The Attack.
-4	Lightning Ball	1	3	15	1	15	95	145	170	1	1	1	1	0	25	0	0	1	0	Balls Of Lightning Will Descend On The Enemy. Higher Skills Levels Will Increase The Damage And Radius Of The Attack.
-5	Lightning	38	10	30	1	6	150	145	170	1	1	1	1	0	25	0	0	1	0	Lightning Will Strike Your Enemy.
-6	Recovery	5	10	30	1	40	100	0	0	0	1	0	3	0	25	0	0	2	0	Will Help Recover Vitality. Higher Skill Levels Will Increase The Speed Of Recovery.
-7	Mana Shield	15	10	60	1	1	14	10	52	0	1	0	3	0	25	0	0	1	0	Damage Sustained By A Special Attack Will Take Away Magic Power Instead Of Vitality. Physical Damage Will Be Reduced By 60%.
-8	Fire Mastery	25	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	1	0	Increases Enemy Damage When Using Species Of Fire Magic Attacks.
-9	Glow of Peace	25	10	20	1	10	100	0	0	0	1	0	3	0	25	0	0	-1	0	Increases The Speed Of Mana Recovery.
-10	Fire Pillar	38	22	66	1	6	150	145	170	1	1	1	1	4	25	0	0	1	0	Surrounds Enemy With Pillars Of Fire.
-11	Stone Mastery	25	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	1	0	Will Increase The Stone Damage Inflicted On The Enemy.
-12	Pebble Shot	1	3	15	1	15	90	145	170	1	1	1	1	0	25	0	0	1	0	Small Pebbles Will Pelt Your Enemy.
-13	Hail	38	10	30	1	6	145	145	170	1	1	1	1	0	25	0	0	1	0	A Hail Of Stones Will Rain Down On The Enemy From The Sky.
-14	Lightning Mastery	25	-1	-1	-1	10	200	0	0	0	0	0	0	0	25	0	0	1	0	Will Increase The Lightning Damage Inflicted On The Enemy.
-15	Return to Village	35	10	10	1	20	100	0	0	0	1	0	3	0	5	0	0	1	0	Special Skill That Allows You To Return To The Village Instantly
-16	Power-up Stamina	10	10	20	1	10	40	0	0	0	0	0	3	0	25	0	0	-1	0	Increases Stamina To The Maximum Level.
-17	Iron Skin	80	0	0	-1	1	20	0	0	0	0	0	3	0	10	0	0	0	0	Your Body Will Become As Hard As Steel Which Will Increase Your Defense Rating. Your Defense Rating Will Increase According To Your Constitution Level.
-18	Overhead Blow	45	10	40	2	10	200	140	170	1	1	1	1	0	25	0	0	0	0	Attacking With A Sweeping Downward Motion.
-19	Recovery Boost	25	-1	-1	-1	5	25	0	0	0	0	0	3	0	5	0	0	0	0	Your Vitality Will Recovery Automatically At A Faster Rate.
-20	Marksmanship	5	-1	-1	-1	10	250	0	0	0	0	0	0	0	25	0	0	3	0	A Vital Skill For Using Gun Weapons. Higher Skills Levels Will Increase Damage To The Enemy
-21	Gem Cutting Skill	20	-1	-1	-1	5	95	0	0	0	0	0	0	0	25	0	0	3	0	A Skill For Cutting A Rough Gem. Higher Skills Levels Will Increase The Success Rate Of Cutting The Gem.
-22	Teleport	55	50	100	1	50	200	0	0	0	1	0	3	0	10	0	0	2	0	Character Can Teleport To A Designated Location Instantly. The Character Will Be Unable To Use Any Magic For 2 Seconds After Teleporting.
-23	Party Summon Skill	40	10	20	1	3	100	0	0	0	1	0	3	0	25	0	0	-1	0	Will Help Recover Vitality. Higher Skill Levels Will Increase The Speed Of Recovery.
-24	Bug Summon Skill	1	0	0	-1	10	100	0	0	0	0	0	0	0	25	0	0	2	0	You Can Inflict Great Damage On Enemies By Summoning A Bug For Attacking The Enemy.
-25	Healing	1	10	20	1	10	40	100	120	0	1	0	1	0	25	0	0	-1	0	Will Heal A Comrade?S Vitality. Higher Skill Levels Will Increase The Speed Of Recovery.
-26	Star Flare	50	56	121	1	6	160	145	170	1	1	1	1	5	25	0	0	1	0	Fire Flares Will Surround Your Enemy And Inflict Damage.
-27	Shock Sphere	50	21	45	1	6	160	145	170	1	1	1	1	0	25	0	0	1	0	A Sphere Of Electric Energy Will Be Hurled Towards Your Enemy.
-28	Stone Lance	50	21	45	1	6	155	145	170	1	1	1	1	0	25	0	0	1	0	Sharp Rocks Will Emerge From The Ground To Inflict Damage On The Enemy.
-29	Semi-automatic skill	50	0	0	-1	5	100	5	100	0	0	0	0	0	25	0	0	3	0	With This Skill Your Gun Weapon Will Become A Semi-Automatic. Higher Skills Levels Will Increase The Chance Of A Semi-Automatic Spray Of Bullets.
-30	Electric Shield	15	10	60	3	1	30	5	50	0	1	0	3	0	25	0	0	3	0	Damage Sustained By The Enemy Will Take Away Electric Energy Instead Of Vitality. Absorbs Some Physical Damage. 40% Of The Damage Will Be Taken From The Electric Energy.
-31	Whirlwind Slash	45	7	30	2	10	200	140	170	1	1	1	1	0	25	0	0	0	0	Slashing The Enemy By Cutting Through It In A Circular Motion
-32	Safety Shield	15	10	60	1	1	20	10	70	0	1	0	3	0	25	0	0	2	0	All Damage Taken Will Take Away Mana Instead Of Vitality. Damage Will Be Inflicted On Attacker For Each Mana Lost.
-33	Beast Summon Skill	45	0	0	-1	10	100	0	0	0	0	0	0	0	25	0	0	2	0	You Can Inflict Great Damage On Enemies By Summoning A Beast For Attacking The Enemy.
-34	Phenomenon	80	0	0	-1	10	100	0	0	0	0	0	0	0	25	0	0	2	0	Strengthens Bond Between Summoned Being Which Increases The Attack Rating.
-35	Sniper Skill	70	0	0	-1	12	20	20	90	1	0	0	1	0	5	0	0	3	0	It Helps You Shoot An Enemy From Far Away. However The Speed At Which You Can Attack Decreases.
-36	Stealth Skill	80	30	40	3	30	40	20	100	0	1	0	3	0	5	0	0	3	0	Enables You To Hide Underneath The Ground. No Damage Can Be Inflicted On Your Character. No Attack Can Be Mounted Against The Enemy. Range Of Vision Is Limited.
-37	Body of Steel	120	0	0	2	15	15	15	75	0	1	0	3	30	5	0	0	0	0	Your Upper Body Muscles Become As Hard As Steel. Increases Defense Rating. Lasts For 60 Seconds. 
-38	Exploding Rage	140	0	0	2	3	16	6	50	0	1	0	3	40	10	0	0	0	0	A Sudden Raging Attack Will Inflict More Damge To Enemies. Defense Rating Will Go Down. Lasts For 50 Seconds.
-39	Eye of Insight	170	0	0	-1	4	13	4	40	0	0	0	0	0	10	0	0	0	0	Defends Player From Long-Distance Attacks. Decreases Attack Damage From Long-Distance Attacks. Able To Avoid Attack. 
-40	Second Attack	150	30	30	2	20	500	20	500	0	1	1	1	0	25	0	0	0	0	Gives You The Ability To Use Weapons That Slayer And Chakram Monsters Use. The Weapon Will Be More Powerful If Your Skill Level Is High.
-41	Concentrated Attack	180	0	0	-1	2	10	18	90	0	0	0	0	0	5	0	0	0	0	Gives You The Ability To Destroy Hard Barrier Species Defenses. Will Also Weaken The Enemys Defenses.
-42	Marksmanship Skill	80	0	0	-1	3	30	15	60	0	0	0	0	0	10	0	0	3	0	Increases Shooting Accuracy. Inflicts More Damage To Enemy. Shooting Accuracy Will Increase If Gun Is Shot In Short Bursts.
-43	Penetration	110	0	0	3	3	30	3	15	0	1	0	3	40	5	0	0	3	0	Shot The Strong Bullet Which Make Enemys Defense Pierce Supplying More Electricity. Objects Attack Power Is Not Allowed At All. Hold Time 70Sec.
-44	Machine Operation Skill	150	0	0	0	10	500	40	250	0	1	1	1	0	10	0	0	3	0	Gives You The Ability To Operate Many Kinds Machines Correctly.
-45	Assembly Skill	130	0	0	-1	-1	-1	0	0	0	0	0	0	0	10	0	0	3	0	Gives You The Ability To Make Equipment. If You Have A High Skill Level You Can Make More Powerful Weapons.
-46	Absorb Magic	170	0	0	0	6	21	6	60	0	0	0	0	0	10	0	0	3	0	Adds A Magic Attack Deflecting Ability To The Electric Shield. Gives You The Ability To Absorb Or Deflect Magic Attacks.
-47	Concentration	110	0	0	-1	4	20	0	0	0	0	0	0	0	5	0	0	1	0	Increases Your Concentration And Decreases The Mana Used For Magic Attacks Or The Mana Shield.
-48	Hurricane of Psychokinetic Energy	130	100	200	1	4	22	7	80	0	1	1	3	50	10	0	0	1	0	Uses Vitality To Trigger An Extreme Psychokinetic Attack. Increases Magic Attack Damage To Enemy. Lasts For 60 Seconds.
-49	Translate Ancient Languages	150	0	0	-1	-1	-1	170	170	0	0	0	0	0	6	0	0	1	0	Gives You The Ability To Decipher The Magical Letters Written On Ancient Scrolls. If You Have A High Skill Level You Can Decipher High-Level Magic Scrolls.
-50	Transfer Magical Power	160	50	50	1	5	200	5	200	0	1	1	1	0	9	0	0	1	0	Transfers The Magical Powers Of A Magic Wand To The Character. The Magic Wand Will Be More Powerful If The Skill Level Of The Character Is Higher.
-51	Confusion	170	0	0	-1	3	17	3	45	0	0	0	0	0	10	0	0	1	0	Confuses A Close Distance Attacker. Decreases Attack Damage Or Makes The Attacker Miss Their Target. 
-52	Regain	180	50	100	1	16	80	9	90	0	1	1	4	5	5	0	0	1	3000	Cures Spells Cast By Fuzzy Species Monsters. Characters That Cannot Use Their Full Powers Will Be Able To Regain Their Powers.
-53	Blessing from the Earth	120	50	100	1	4	40	1	10	0	1	1	4	15	10	0	0	2	7000	Bless All Party Members To Increase Their Attack Rating. Last For 50 Seconds.
-54	Share Vitality	100	100	200	1	5	50	180	180	0	1	1	4	60	10	0	0	2	60000	Share Vitality And Mana With One Party Member. Any Damage Taken Will Be Distributed Among You And The Party Member. Experience Levels Attained Will Also Be Shared
-55	Wind of Enchantment	65	0	0	-1	10	50	0	0	0	0	0	0	0	15	0	0	2	0	Summon Monsters Or High Level Beasts. If You Have A High Skill Level You Can Summon More Powerful Monsters.
-56	Obedience	140	10	100	-1	20	300	20	230	0	0	0	0	0	10	0	0	2	0	Extends The Summoning Time Limit And Increases Your Attack Rating.
-57	Glow of Life	160	50	100	1	10	50	6	30	0	1	1	4	5	5	0	0	2	5000	Can Give Damage To Spirit-Affiliate Monsters Temporarily. When Used To Characters It Pacifies The Conflicted Attribute Skills
-58	Tranquility	150	300	400	1	0	0	12	120	0	1	0	3	30	10	0	0	2	0	Player Will Not Be Attack For A Certain Amount Of Time. If Player Attacks A Mob Or Other People Enemies Will Start Attacking Again.
-59	Sub Attack	1	0	0	-1	-1	-1	-1	-1	1	1	1	1	0	25	0	0	-1	0	Attack With Sub Item
-60	Force attack	250	30	100	2	60	250	100	100	1	1	1	1	0	20	0	0	0	6000	Give Big Attacking When Collecting The Power For A Moment
-61	Force control	255	0	0	-1	56	95	0	0	0	0	0	0	0	20	0	0	0	0	Increases The Chance Of Successful Force Attack.
-62	Bloody Mana	250	2	20	4	3	30	0	0	0	1	0	3	5	10	0	0	1	0	Switch Its Vitality To Mana.
-63	Vampire Touch	255	100	100	1	1	10	120	120	0	1	1	1	30	10	0	0	1	50000	Absorb The Part Of Enemys Vitality As Its Vitality.
-64	Hell Touch	265	0	0	0	100	1000	120	120	0	1	1	1	300	10	0	0	1	20000	Give Big Attacking Using All Of Magic Power They Have
-65	Deep attack	250	15	15	2	30	120	20	20	0	1	1	1	0	10	0	0	3	0	Inflicts High Damage By Deep Slashing Attack In A Close Distance.
-66	Chain attack	265	40	40	2	4	40	20	20	0	1	1	1	0	10	0	0	3	0	Inflicts Multiple And Continuous Attack Within A Short Period In A Close Distance.
-67	Scales of protection	250	100	100	1	2	20	100	100	0	1	1	4	30	10	0	0	2	7000	Increases Defensive Power Of A Character With A Wall Of A Sound Wave.
-68	Scales of guardian	255	200	200	1	10	80	0	0	0	1	0	3	60	10	0	0	2	0	Prevents A Character From Curses For A While.
-69	Passion of Music	260	0	0	-1	5	75	0	0	0	0	0	0	0	15	0	0	2	0	Increases Duration Of Scales Of Protection And Scales Of Guardian
-70	Fight of Music	265	0	0	-1	2	40	0	0	0	0	0	0	0	10	0	0	2	0	Make Its Attack Power Increase Through Passionate Music.
-71	Hell Cry	200	50	200	2	5	50	145	170	0	1	1	1	10	20	0	0	0	6000	Inflicts High Damage To The Surrounding By Striking The Earth With Strong Force.
-72	Tornado Ruin	200	20	200	1	20	220	145	170	0	1	1	1	10	20	0	0	1	10000	Sweep Away The Surrounding By Summonning A Strong Tornado
-73	Summon Fission	200	300	200	1	30	100	0	0	0	1	1	1	10	20	0	0	2	10000	Inflicts High Damage To The Surrounding By The Summoned Creature
-74	Air Raid	200	50	250	3	5	100	145	170	0	1	1	1	10	20	0	0	3	12000	Inflicts High Damage In Front Of The Player With A Air Strike.
-75	Hell Cry control	210	0	0	-1	5	100	0	0	0	0	0	0	0	10	0	0	0	0	Increases The Attack Power Of Hell Cry.
-76	Tornado Operation	210	0	0	-1	10	200	0	0	0	0	0	0	0	10	0	0	1	0	Able To Summone A Stronger Tornado.
-77	Air Raid Concent	210	0	0	-1	10	150	0	0	0	0	0	0	0	10	0	0	3	0	Increase The Damage Of The Air Raid With A Elaborate Missile Attack.
-78	Fission Control	210	0	0	-1	10	200	0	0	0	0	0	0	0	10	0	0	2	0	Inflicts High Damage To The Surrounding By The Summoned Creature
-79	Dual Sword Mastery	171	0	0	-1	20	400	0	0	0	0	0	0	0	30	0	0	4	0	Increases Attaking Power By Using The Dual Sword Mastery
-80	Recovery power increase	181	0	0	-1	5	25	0	0	0	0	0	3	0	20	0	0	4	0	Further Increases Vitality By Using The Vitality Recovery
-81	Haste	201	0	0	-1	20	300	0	0	0	0	0	0	0	30	0	0	4	0	Increases Attacking Power And Speed When Mastered The Skill By Using The Dual Sword Mastery
-82	Double Slash	190	30	300	2	10	200	0	0	0	1	1	1	3	30	0	0	4	3000	Increases Intensiry Of Momentary Damage
-83	Evasion	215	0	0	-1	1	25	0	0	0	0	0	0	0	30	0	0	4	0	Obtains Basic Evasion Power
-84	Bleed	220	20	300	2	3	100	0	0	0	1	0	3	10	30	0	0	4	0	Hit To Increase 100% Damage With Specific Rate  And Attack With Ignoring The Defensive Power
-85	Dash	260	10	100	2	0	0	70	120	0	1	0	3	2	10	0	0	4	2000	Rapidly Moves To The Assigned Position
-86	Assault	220	10	300	2	10	150	0	0	0	1	1	1	3	30	0	0	4	7000	Additionally Attacks The Target With Strong Energy
-87	Dual Assault	245	20	300	2	10	200	0	0	0	0	1	1	3	20	0	0	4	0	Additionally Inflicts Random Attacks After Assult Attack
-88	Hide	275	100	600	2	6	110	5	50	0	1	1	3	150	10	100000	550000	4	110000	Being Protected From Monsters For A While
-89	Hammer Mastery	171	0	0	-1	10	450	0	0	0	0	0	0	0	30	0	0	4	0	Increases Attacking Power By Using A Hammer
-90	Vital Expansion	181	0	0	-1	50	1000	200	1000	0	0	0	0	0	20	0	0	4	0	Increases Vitality
-91	Heavy Mastery	201	0	0	-1	10	300	0	0	0	0	0	0	0	30	0	0	4	0	Further Increases Attacking Power By Using A Hammer
-92	Bash	190	100	200	1	10	200	0	0	0	1	1	1	5	20	0	0	4	2500	Inflicts Damage And Chaos To The Surrounding 
-93	Iron Skin	215	0	0	-1	1	20	0	0	0	0	0	3	0	20	0	0	4	0	Increases Defence Power With Iron Skin. Higher Defence Power Depending On Physical Constitution
-94	Divine Stone	235	50	50	1	117	30	0	0	0	1	0	3	30	30	0	0	4	30000	Uses Divine Stone A Supplement Weapon
-95	Stone Increase	240	0	0	-1	1	5	45	70	0	0	0	0	0	20	0	0	4	0	Increases The Number Of Targets And The Range Of Application Of Divine Stone
-96	Time Charge	240	20	400	1	0	0	10	40	0	1	0	3	200	20	0	0	4	10000	Prolongs The Duration Of Divine Stone
-97	Stone Brust	250	0	0	0	10	300	145	170	0	0	0	0	0	30	0	0	4	0	Inflicts Damage To The Surrounding With A Fixed Possibility When Using Time Charge
-98	Reflection	275	40	400	1	5	30	5	30	0	1	0	3	300	20	40000	230000	4	20000	Increases Defence At A Given Time And Inflicts Reflection Damage To The Surrounding
-99	Stamina-Up	275	0	0	-1	5	80	0	0	0	0	0	0	0	20	100000	290000	0	0	Improve Stamina Permantly
-100	Burning Crash	275	1	65	2	20	6	100	100	0	1	1	1	230	30	40000	330000	0	20000	Destroy The Enemy To Hit  Repeatedly Using Slayer
-101	Hell-Mastery	275	0	0	-1	5	200	0	0	0	0	0	0	0	20	40000	230000	1	0	Increase The Attacking And Time Of Concentration For Helldown
-102	Helldown	275	50	1500	1	35	1	145	200	0	1	1	1	65	30	40000	330000	1	30000	Attack With Powerful Energy To Concentrate The Spirit
-103	Process Skill	275	50	500	3	10	82	0	0	0	0	0	0	0	10	150000	240000	3	0	As Processing The Spell Bookmake More Powerful Equipment 
-104	Auto Mine	275	80	450	3	1	2	8	290	0	1	1	1	17	20	100000	480000	3	4000	Give Powerful Attack Using Mine
-105	Summon Squad	275	30	300	1	1	100	0	0	0	1	0	3	0	10	100000	550000	2	600000	Summon The Party Member Around Us
-106	Life Expansion	275	50	340	1	1	40	5	600	0	1	0	4	0	20	40000	230000	2	0	Increase Vitiality Of Party Member During Specific Time
-107	Flying Crash	175	10	250	2	20	140	70	166	0	1	1	1	15	30	40000	280000	0	15000	After Jumpingattack The Enemy At A Long Range
-108	Poison	175	10	250	1	6	150	145	170	0	1	1	1	15	25	40000	280000	1	15000	Continually Attack Enemy To Give Posion
-109	Electric Shot	175	50	290	3	8	200	70	170	0	1	1	1	15	25	40000	280000	3	15000	Attack Using The Energy Of  Atmosphere
-110	Summon Flower	175	30	270	1	2	50	0	0	0	0	0	0	0	30	40000	280000	2	0	Be Able To Summon It As It Have Affinity  Between Plant
-111	Shadow Slash	175	10	250	2	6	150	70	170	0	1	1	1	15	30	40000	280000	4	15000	Attack Eneny Suddenly
-112	Adrenalin	175	10	250	1	2	60	0	0	0	1	0	3	15	25	40000	280000	4	15000	After Concentrating Then Increase The Rate Of Giving The Powerful Damage. Inrease In Critical
-113	Wild smash	300	10	300	2	12	302	5	30	0	1	1	1	8	35	40000	330000	0	18000	Cut Enemy In Half With Great Power
-114	Flamespear	300	20	310	1	9	270	145	170	0	1	1	1	10	30	40000	330000	1	18000	Spear Of Flame Drops From The Sky And Burns Enemy
-115	Fire Blindly	300	10	300	3	10	120	145	170	0	1	1	1	12	35	40000	330000	3	8000	Attacks Enemy Randomly For A While
-116	Summon Fire	300	50	340	1	10	320	145	170	0	1	1	1	10	35	40000	330000	2	10000	Summons Fairy In Friendship With Spirit Of Fire
-117	Space Slash	300	8	240	2	10	200	5	30	0	1	1	1	7	35	40000	330000	4	10000	Attack Rapidly And Cut Through The Space
-118	Electronic Hammer	300	6	150	1	14	400	5	30	0	1	1	1	10	35	40000	330000	4	10000	Gathers Electric Energy To The Hammer And Give Great Damage
-119	Protection Shield	100	6	150	2	3	75	0	0	0	1	1	3	15	25	8000	80000	0	120000	Defends One Single Attack Using Shields For A While
-120	Ice Bolt	100	10	75	1	5	125	145	170	0	1	1	1	5	30	8000	80000	1	4000	Attacks Opponent Using Ice Arrows
-121	Frozen Shot	100	4	85	3	7	127	145	170	0	1	1	1	0	30	8000	80000	3	8000	Freeze The Wounded Place Using Bullets Condensed With Liquid Nitrogen
-122	Ressrrection	100	10	150	1	3	75	145	170	0	1	1	1	10	25	8000	80000	2	0	Resurrect Dead Characters At The Same Place
-123	Merciless Smash	215	10	150	2	5	75	5	30	0	1	1	1	7	25	8000	80000	4	10000	Cut Enemy Several Times With No Mercy
-124	Tornado Hammer	215	10	150	1	10	330	170	170	0	1	1	1	7	30	8000	80000	4	5000	Attacks Surrounded Enemys With Great Speed Of Spin
-125	Spear mastery	200	-1	-1	-1	5	100	0	0	0	0	0	0	0	20	100000	100000	5	0	When Use Spear. Attack Power Is Increased.
-126	Tolerance increase	250	-1	-1	-1	1	20	0	0	0	0	0	0	0	20	100000	100000	5	0	Tolerance Is Increased In Abnormal Status.
-127	PL - spin	250	3	60	3	5	100	20	60	1	1	1	1	0	20	200000	200000	5	0	Brandish Weapon And Make Damage To Surrounding.
-128	PL - thrust	250	10	300	3	10	300	20	60	0	1	1	1	0	30	200000	200000	5	2000	Make Strong Three Continuous Attack To Designated Target.
-129	PL - blader	300	25	750	3	25	750	20	60	0	1	1	1	0	30	400000	400000	5	3000	Make Strong Five Continuous Attack To Designated Target.
-130	PL - strike	300	20	500	3	20	500	150	400	0	1	1	1	0	25	400000	400000	5	5000	Give Penetration Damage To The Object In Front Of. Stocastically Slow Is Operating
-131	PL - pierce	300	15	450	3	15	450	20	70	0	1	1	1	0	30	400000	400000	5	5000	Pierce To Designated Target Strongly. Stocastically Faint Is Operating
-132	PL - boom	350	10	300	3	10	300	20	300	0	1	1	1	0	30	800000	800000	5	5000	Put Weapon In To The Ground And Give Surrounding Explosion Damage.
-133	PL - shotgun	350	20	600	3	20	600	20	60	0	1	1	1	0	30	800000	800000	5	5000	Pierce Fast The Object In Front Of And Give Them Damage.
-134	PL - field	250	1	30	3	1	30	5	30	0	1	0	3	0	30	1000000	1000000	5	200000	Operate The Field Which Can Make Peroms Defense Power Increase. Hold For 2Min 30Sec.
-135	PL - pierce bomber	300	25	750	3	25	750	20	70	0	1	1	1	0	30	1600000	1600000	5	2500	Pierce To Designated Target Strongly Then Explode Weapon And Make Big Damage. When Got Attacked, Fall In Slow.
-136	PL - wheel wind	350	20	600	3	20	600	20	400	0	1	1	1	0	30	1600000	1600000	5	5000	Throw Weapon And Give Penetration Damage To Enemy In Surroundings.
-137	PL - alpha strike	350	25	750	3	25	750	20	70	0	1	1	1	0	30	1600000	1600000	5	5000	Using Centrifugal Force Of Body, Cut Off The Object Strongly. 
-138	PL - corss	350	10	300	3	10	300	20	70	0	1	1	1	0	30	1600000	1600000	5	25000	Cross The Balde Of Front & Back, Cut Off The Object. Stocastically Faint Is Operating
-139	D - system	250	1	30	3	1	30	5	30	0	1	0	3	0	30	3000000	3000000	5	5000	Operate Dsystem Which Is Overdrive System Of Perom.(Toggle Type)
-140	D - overload	250	40	1000	3	10	250	150	500	0	1	1	1	0	25	3000000	3000000	5	300000	Only Available During Dsystem Is Operating. Release Omnidirectional Thunder & Lightning. Stocastically Faint Is Operating
-141	D - clear	200	5	100	3	5	100	5	30	0	1	1	3	0	20	1600000	1600000	5	3000	Stocastically Make All Abnormal Status With Itself Clear. Only Available During Dsystem Is Operating.
-142	D system - hit	250	-1	-1	-1	2	40	0	0	0	0	0	0	0	20	800000	800000	5	0	Make Faint Rate Of Skill Increase. Apply During Dsystem Is Operating.
-143	D system - shock	250	-1	-1	-1	2	40	0	0	0	0	0	0	0	20	800000	800000	5	0	Make Slow Rate Of Skill Increase. Apply During Dsystem Is Operating.
-144	D system - evasion	250	-1	-1	-1	2	60	0	0	0	0	0	0	0	30	800000	800000	5	0	When Dsystem Is Operating, Evasion Is Increased.
-145	D system - tolerance	250	-1	-1	-1	1	30	0	0	0	0	0	0	0	30	800000	800000	5	0	When Dsystem Is Operating, Additional Abnomal Status Resistence Is Increased.
-146	D system - defense	250	-1	-1	-1	1	20	0	0	0	0	0	0	0	20	800000	800000	5	0	When Dsystem Is Operating, Additional Defense Power Is Increased.
-147	D system - attack	250	-1	-1	-1	15	300	0	0	0	0	0	0	0	20	800000	800000	5	0	When Dsystem Is Operating, Additional Offense Power Is Increased.
-148	Critical strike	200	20	40	3	2	40	5	30	0	1	1	3	0	20	600000	600000	5	10000	Make Critical Rate Of Character Increase. 
-149	Engage	200	20	40	3	2	40	5	30	0	1	1	3	0	20	600000	600000	5	10000	Make Attack Power Of Character Increase. 
-150	D system - field	250	20	40	3	1	20	5	30	0	1	0	3	0	20	800000	800000	5	10000	Make Ability Of Pl Field Increase. Only Available During Dsystem Is Operating. When Dsystem Is Close, Buff Clear.
-151	Master of Evasion	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	0	0	Passive Skill
-152	Defense Shield	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	1	0	Passive Skill
-153	Blessings of heaven	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	2	0	Passive Skill
-154	Penetration 2	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	3	0	Passive Skill
-155	Damage Mastery	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	4	0	Passive Skill
-156	PVP Defense	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	5	0	Passive Skill
+0	基本攻击	1	-1	-1	-1	-1	-1	-1	-1	1	1	1	1	0	25	0	0	-1	0	基本方式的攻击
+1	精通剑术	5	-1	-1	-1	20	400	0	0	0	0	0	0	0	25	0	0	0	0	用剑者必备的技能。技能值越高，剑的伤害力越大。
+2	精通斧术	5	-1	-1	-1	20	400	0	0	0	0	0	0	0	25	0	0	0	0	用斧头者必备的技能。技能值越高，斧头的伤害力越大。
+3	火球术	1	5	25	1	15	95	145	170	1	1	1	1	2	25	0	0	1	0	造出火球进行攻击。技能级数越高，攻击范围与造成的伤害也越大。
+4	闪电团	1	3	15	1	15	95	145	170	1	1	1	1	0	25	0	0	1	0	造出闪电团进行攻击。技能级数越高，攻击时造成的伤害也越大。
+5	闪电术	38	10	30	1	6	150	145	170	1	1	1	1	0	25	0	0	1	0	从天上召唤出闪电攻击对方。
+6	恢复术	5	10	30	1	40	2000	0	0	0	1	0	3	0	25	0	0	2	0	恢复本身的生命力。技能等级越高，恢复程度也越高。
+7	魔法盾	15	10	60	1	1	28	10	60	0	1	0	3	0	25	0	0	1	0	利用加在自己身上的超能力，让伤害减少的数值从生命力变为玛那。物理伤害最多可挡掉70%。
+8	精通火魔法	25	-1	-1	-1	15	250	0	0	0	0	0	0	0	25	0	0	1	0	增加使用火系魔法的伤害力。
+9	平静术	25	10	20	1	10	100	0	0	0	1	0	3	0	25	0	0	-1	0	加快魔法的恢复速度。
+10	火柱术	38	22	66	1	6	150	145	170	1	1	1	1	4	25	0	0	1	0	造出火柱焚烧对方。
+11	精通岩石魔法	25	-1	-1	-1	15	250	0	0	0	0	0	0	0	25	0	0	1	0	增加使用岩石系列魔法的伤害力。
+12	石块飞射	1	3	15	1	15	90	145	170	1	1	1	1	0	25	0	0	1	0	造出小石块射向敌人。
+13	崩石术	38	10	30	1	6	145	145	170	1	1	1	1	0	25	0	0	1	0	从空中落下石块攻击敌人。
+14	精通闪电魔法	25	-1	-1	-1	15	250	0	0	0	0	0	0	0	25	0	0	1	0	增加使用闪电系魔法的伤害力。
+15	回归村庄	35	10	10	1	20	100	0	0	0	1	0	3	0	5	0	0	1	0	传送到村庄的技能。
+16	增强耐力	10	10	20	1	10	40	0	0	0	0	0	3	0	25	0	0	-1	0	提高耐力的最大值。
+17	铁肤术	80	0	0	-1	1	15	0	0	0	0	0	3	0	10	0	0	0	0	让身体像钢铁般坚硬，提高防御力。依照体质不同，提升的防御力也跟着不同。
+18	开山斩	45	10	40	2	10	200	140	170	1	1	1	1	0	25	0	0	0	0	轻轻跳起之后向下劈。
+19	增加恢复力	25	-1	-1	-1	5	25	0	0	0	0	0	3	0	5	0	0	0	0	使用药剂时生命力的恢复量增加。
+20	射击术	5	-1	-1	-1	15	300	0	0	0	0	0	0	0	25	0	0	3	0	使用枪类武器必备的技术。能力值越高，用枪时造成的伤害也越大。
+21	宝石加工术	20	-1	-1	-1	5	95	0	0	0	0	0	0	0	25	0	0	3	0	将原石加工成宝石的技术。技术值越高，加工成功的机率也越高。
+22	瞬间移动	55	50	100	1	50	200	0	0	0	1	0	3	0	10	0	0	2	2000	绿绿的快速瞬移
+23	召唤队伍	40	10	20	1	3	100	0	0	0	1	0	3	0	25	0	0	-1	0	恢复本身的生命力。技能等级越高，恢复程度也越高。
+24	昆虫召唤术	1	0	0	-1	50	300	0	0	0	0	0	0	0	25	0	0	2	0	召唤昆虫，给予敌人相当大的伤害。
+25	治愈术	1	10	20	1	10	40	100	120	0	1	0	1	0	25	0	0	-1	0	恢复他人的生命力。技能等级越高，恢复程度也越高。
+26	烈焰流星	50	56	121	1	6	160	145	170	1	1	1	1	5	25	0	0	1	0	在敌人周围造出无数巨大火花焚烧对方。
+27	电击球	50	21	45	1	6	160	145	170	1	1	1	1	0	25	0	0	1	0	用充满电能的球体将敌人整个包围。
+28	岩枪阵	50	21	45	1	6	155	145	170	1	1	1	1	0	25	0	0	1	0	从地底长出尖锐的岩石攻击敌人。
+29	连射	50	0	0	-1	5	100	5	100	0	0	0	0	0	25	0	0	3	0	使用枪类武器时可以连续射击两次。技能级数越高，连射成功率也越高。
+30	电子盾	15	10	60	3	1	35	5	55	0	1	0	3	0	25	0	0	3	0	用电力代替生命力承受自己受到的伤害。可以吸收一部分的物理伤害，最多可用电力代替40%。
+31	回旋斩	45	7	30	2	10	200	140	170	1	1	1	1	0	25	0	0	0	0	武器回旋的同时劈向对方。
+32	魔法刺盾	15	10	60	1	1	20	10	40	0	1	0	3	0	25	0	0	2	0	让魔法力代替生命力承受伤害，其中一部份减少的魔法力对敌人造成伤害。
+33	动物召唤术	45	0	0	-1	50	300	0	0	0	0	0	0	0	25	0	0	2	0	召唤动物，给予敌人相当大的伤害。
+34	变异术	80	0	0	-1	50	300	0	0	0	0	0	0	0	25	0	0	2	0	提高与召唤来的昆虫间的亲和度，使其拥有更高的攻击力。
+35	狙击术	70	0	0	-1	12	20	20	90	1	0	0	1	0	5	0	0	3	0	使用枪类武器攻击更远的敌人。但相对地攻击速度会降低。
+36	潜伏术	80	30	40	3	30	40	40	200	0	1	0	3	0	5	0	0	3	0	躲在地底下的技能。虽然不会遭到敌人攻击，但也无法攻击敌人，且视野会变得狭窄。
+37	铜筋铁骨	120	0	0	2	35	35	3	15	0	1	0	3	30	5	0	0	0	0	一定时间内大幅提升防御力，持续时间60秒。
+38	怒气炸裂	140	0	0	2	3	15	5	35	0	1	0	3	40	10	0	0	0	0	利用瞬间怒气给予敌人强烈的伤害，使用期间防御力会降低，持续时间50秒。
+39	洞察之眼	170	0	0	-1	4	13	4	40	0	0	0	0	0	10	0	0	0	0	以锐利的洞察力保护来自远距离的攻击，可减少远距离攻击的伤害，增加回避率。
+40	精通副武器	150	30	30	2	20	450	20	500	0	1	1	1	0	28	0	0	0	0	赋予使用大砍刀与恰克兰种类武器之能力，等级愈高，该武器会愈强。
+41	集中攻击	180	0	0	-1	2	10	18	90	0	0	0	0	0	5	0	0	0	0	可破坏硬皮系列的技能，除此之外，攻击时，可减少对方的防御力。
+42	瞄准力	80	0	0	-1	6	60	15	60	0	0	0	0	0	10	0	0	3	0	提高瞄准率给予对方较强烈的伤害，当连射次数愈少时，愈能瞄准目标。
+43	贯穿力	110	0	0	3	5	50	3	15	0	1	0	3	40	5	0	0	3	0	用更多的电力供给来发射可穿透对方防御的射击，对方的防御力完全无法使用，持续时间70秒。
+44	操作术	150	0	0	0	50	500	40	250	0	1	1	1	0	13	0	0	3	0	可更有效的使用小型装置与重兵器之能力。
+45	装配术	130	0	0	-1	-1	-1	0	0	0	0	0	0	0	10	0	0	3	0	以生产装备的能力制作武器，技能等级愈高，所制作的武器之性能愈好。
+46	魔法吸收	170	0	0	0	6	21	6	60	0	0	0	0	0	10	0	0	3	0	在使用电子盾上赋予魔法分解能力，并进行受魔法攻击的伤害吸收或完全分解。
+47	集中力	110	0	0	-1	4	20	0	0	0	0	0	0	0	5	0	0	1	0	可提升集中力，使用魔法时，可减少魔法盾的魔力消耗量。
+48	意志风暴	130	100	200	1	4	22	7	80	0	1	1	3	50	10	0	0	1	0	以生命力为担保，并利用全身能源来使用魔法攻击，持续时间60秒。
+49	古文解读	150	0	0	-1	-1	-1	170	170	0	0	0	0	0	10	0	0	1	0	具有可解读古代流传下来，写在滚动条的魔法文字之能力，技能等级愈高，愈能使用强烈的魔法滚动条。
+50	魔法转移	160	50	50	1	5	150	5	200	0	1	1	1	0	10	0	0	1	0	具有使用魔杖充电的魔法，是透过自己的身体发放出来的能力，技能等级愈高，可使用越强的魔杖。
+51	扰乱术	170	0	0	-1	3	17	3	45	0	0	0	0	0	10	0	0	1	0	扰乱近距离攻击者的判断，可以在被攻击时减少伤害或让对方攻击失败。
+52	状态解除	180	50	100	1	16	80	9	90	0	1	1	4	5	5	0	0	1	3000	解除浑沌系列的诅咒或让特殊状态恢复原状。
+53	大地的祝福	120	50	100	1	2	20	1	5	0	1	1	4	15	10	0	0	2	7000	给予队员祝福，在一定时间内提升角色的攻击力与抵抗力，持续时间50秒。
+54	生命共享术	100	100	200	1	5	50	180	180	0	1	1	4	60	10	0	0	2	60000	共享自己的生命力和魔法值给一个对的队员，所有的伤害将均等分担到各队员身上，得到的经验也同样的均分。
+55	魅惑之风	65	0	0	-1	10	50	0	0	0	0	0	0	0	15	0	0	2	0	利用召唤石叫出召唤兽或高等生命体，等级愈高，愈能召唤出较高等级的怪物。
+56	顺从术	140	10	100	-1	40	400	20	230	0	0	0	0	0	10	0	0	2	0	提升魅惑之风的召唤时间，并强化其攻击力。
+57	生命之光	160	50	100	1	10	50	6	30	0	1	1	4	5	5	0	0	2	5000	一定时间内可攻击灵魂系列的怪物。
+58	平静术	150	300	400	1	0	0	12	120	0	1	0	3	30	10	0	0	2	0	在一定时间内不会受任何攻击，但是攻击怪物或其他角色时，技能会自动解除。
+59	次要攻击	1	0	0	-1	-1	-1	-1	-1	1	1	1	1	0	25	0	0	-1	0	使用次要道具的攻击。
+60	神力之击	250	30	100	2	60	250	100	100	1	1	1	1	0	20	0	0	0	6000	消耗耐力并以剑气攻击敌人
+61	神力操控术	255	0	0	-1	56	95	0	0	0	0	0	0	0	20	0	0	0	0	学习了神力之击的技能，能够让剑气命中率提高
+62	杀戮神力	250	2	20	4	3	30	0	0	0	1	0	3	5	10	0	0	1	0	将自己的生命力转换为魔力。
+63	吸血鬼之吻	255	100	100	1	1	10	120	120	0	1	1	1	30	10	0	0	1	10000	将敌人部分的生命力转换为自己的生命力。
+64	伤害之触	265	0	0	0	100	1000	120	120	0	1	1	1	300	10	0	0	1	5000	将所有的生命力转换为致命的一击。
+65	破碎重击	250	15	15	2	4	40	20	20	0	1	1	1	0	0	0	0	3	3000	近距离使用此技能时能给予敌人强力的一击。
+66	锁链攻击	265	40	40	2	4	40	20	20	0	1	1	1	0	0	0	0	3	5000	在敌人在近距离时，可连续性的攻击。
+67	守护者笛音	250	100	100	1	1	9	30	30	0	1	1	4	30	13	0	0	2	7000	使用守护者笛音后，将会出现保护角色的音符，可降低敌人攻击角色的意识。
+68	守护者之音	255	200	200	1	10	80	0	0	0	1	0	3	60	10	0	0	2	0	在音乐的保护时间内，角色的状态能值不会降低。
+69	狂热之音	260	0	0	-1	5	75	0	0	0	0	0	0	0	15	0	0	2	0	使用狂热之音技能，能够增加技能使用的时间。
+70	斗志的音阶	265	0	0	-1	1	10	0	0	0	0	0	0	0	10	0	0	2	0	透过斗志的音阶技能，能够提升攻击力。
+71	原罪解放	200	50	200	2	15	150	145	170	0	1	1	1	10	20	0	0	0	6000	利用强烈之气打击大地让周围一切受到强力一击。
+72	火雨炼狱	200	20	200	1	30	340	145	170	0	1	1	1	10	20	0	0	1	10000	召唤强烈龙卷风横扫周围。
+73	魔兽分裂	200	0	0	1	15	150	0	0	0	1	1	1	10	20	0	0	2	5000	利用自己的召唤兽,对召唤兽附近带来强烈一击。
+74	原子风暴	200	50	250	3	30	300	145	300	0	1	1	1	10	20	0	0	3	12000	对自己前方的攻击给予相当的伤害。
+75	原罪操控术	210	0	0	-1	10	200	0	0	0	0	0	0	0	10	0	0	0	0	可提高原罪解放的攻击力。
+76	火雨烈焰	210	0	0	-1	55	575	0	0	0	0	0	0	0	10	0	0	1	0	可召唤出更强烈的龙卷风。
+77	原子操控术	210	0	0	-1	30	300	0	0	0	0	0	0	0	10	0	0	3	0	以更精准之飞弹攻击提高原子风暴的杀伤力。
+78	魔兽控制术	210	0	0	-1	30	175	0	0	0	0	0	0	0	10	0	0	2	0	利用自己的召唤兽,对召唤兽附近带来强烈一击。
+79	精通双刀	171	0	0	-1	80	780	0	0	0	0	0	0	0	30	0	0	4	0	使用双刀时可提高攻击力。
+80	提高恢复力	181	0	0	-1	5	25	0	0	0	0	0	3	0	20	0	0	4	0	使用生命力恢复剂时可增加恢复的幅度。
+81	雷迅	201	0	0	-1	50	550	0	0	0	0	0	0	0	30	0	0	4	0	在使用双刀类时可提升攻击力并精通后可提高攻击速度。
+82	连击	190	30	300	2	25	225	0	0	0	1	1	1	3	30	0	0	4	3000	可增强瞬间性的杀伤力。
+83	闪避	215	0	0	-1	5	35	0	0	0	0	0	0	0	30	0	0	4	0	可获得基本的回避能力。
+84	沸血术	220	20	300	2	3	200	0	0	0	1	0	3	10	30	0	0	4	0	有概率增加1倍攻击伤害并无视对方的防御能力。
+85	空间异移	260	10	100	2	0	0	170	240	0	1	0	3	2	10	0	0	4	2000	可快速移动到敌人所在地。
+86	突击	220	10	300	2	20	250	0	0	0	1	1	1	3	30	0	0	4	7000	以强烈之气给敌人再次的杀伤力。
+87	双重突击	245	20	300	2	20	250	0	0	0	0	1	1	3	20	0	0	4	0	突击攻击后以随机方式再次攻击敌人。
+88	暗隐术	275	100	600	2	6	110	2	12	0	1	1	3	150	10	100000	550000	4	40000	技能时间内不会被怪物攻击。
+89	精通重锤	171	0	0	-1	90	900	0	0	0	0	0	0	0	30	0	0	4	0	使用铁锤时可提高攻击力。
+90	增加生命力	181	0	0	-1	50	1000	200	1000	0	0	0	0	0	20	0	0	4	0	可增加生命力。
+91	铁锤重击	201	0	0	-1	25	450	0	0	0	0	0	0	0	30	0	0	4	0	使用铁锤时可发挥更强大之攻击力。
+92	猛击	190	100	200	1	10	200	0	0	0	1	1	1	5	20	0	0	4	2500	对周围加以杀伤并带来混乱。
+93	钢铁护身	215	0	0	-1	1	17	0	0	0	0	0	3	0	20	0	0	4	0	可让身体钢铁化提高防御力,以体质可发挥更高的防御能力。
+94	圣石之力	235	50	50	1	117	30	0	0	0	1	0	3	30	33	0	0	4	45000	使用辅助物器神圣石。
+95	圣石操控术	240	0	0	-1	1	5	45	70	0	0	0	0	0	20	0	0	4	0	可提高神圣石的范围以及影响更多的敌人。
+96	延长神石力	240	20	400	1	0	0	10	40	0	1	0	3	200	20	0	0	4	10000	可延长神圣石的使用时间。
+97	圣石爆裂	250	0	0	0	10	300	145	170	0	0	0	0	0	30	0	0	4	0	在使用圣石操控术时,以一定机率对神圣石的周围加以伤害。
+98	反射伤害	275	40	400	1	5	20	4	25	0	1	0	3	300	20	40000	230000	4	20000	一定时间内提高防御力与对周围给予反射伤害。
+99	耐力提升	275	0	0	-1	5	80	0	0	0	0	0	0	0	20	100000	290000	0	0	永久性的耐力提升。
+100	猛烈爆击	275	1	65	2	20	6	100	100	0	1	1	1	230	30	40000	330000	0	20000	使用大砍刀连续的攻击破坏对象。
+101	火狱烈炎	275	0	0	-1	40	400	0	0	0	0	0	0	0	20	40000	230000	1	0	增加火狱气息集中时间和攻击力
+102	火狱气息	275	50	1500	1	35	1	145	200	0	1	1	1	65	30	40000	330000	1	15000	利用「集中精神吸收宇宙能量和大地生命」的气来进行强烈的攻击
+103	加工术	275	50	500	3	10	82	0	0	0	0	0	0	0	10	150000	240000	3	0	加工咒文书可以生产更有威力的装备
+104	爆破诡雷	275	80	450	3	3	6	30	400	0	1	1	1	17	20	100000	480000	3	4000	利用移动的地雷，强烈的攻击敌人
+105	队员召唤	275	30	300	1	1	100	0	0	0	1	0	3	0	10	100000	550000	2	600000	召唤本身周围的队伍成员
+106	治愈同伴	275	50	340	1	1	10	5	600	0	1	0	4	0	20	40000	230000	2	0	一定的时间之内大量提升队伍成员的生命力
+107	飞跃烈击	175	10	250	2	40	240	80	180	0	1	1	1	15	30	40000	280000	0	5000	跳跃起来对远距离的敌人施加伤害。
+108	毒雾召唤术	175	0	0	1	30	300	145	170	0	1	1	1	15	30	40000	280000	1	15000	给予周遭的敌方持续性的毒雾伤害。
+109	闪雷电击	175	50	290	3	8	200	70	420	0	1	1	1	15	25	40000	280000	3	15000	收集大地的能量后给予敌人猛力的一击。
+110	植物召唤术	175	30	270	1	2	50	0	0	0	0	0	0	0	30	40000	280000	2	0	收集对植物的亲和力并且召唤他们共同作战。
+111	影刺术	175	10	250	2	6	150	70	170	0	1	1	1	15	30	40000	280000	4	15000	快速移动到敌人面前并且伤害敌人。
+112	集中猛击	175	10	250	1	2	55	0	0	0	1	0	3	15	25	40000	280000	4	15000	集中精神给予敌人强烈的伤害，并且提高关键性一击的机率。
+113	狂乱一击	300	10	300	2	20	350	5	30	0	1	1	1	8	35	40000	330000	0	18000	战士300技能强力一击，容易秒脆皮
+114	焰之矛	300	0	0	1	9	270	145	170	0	1	1	1	10	30	40000	330000	1	18000	召唤火枪，烧死敌人。
+115	疯狂扫射	300	10	300	3	30	300	145	170	0	1	1	1	12	35	40000	330000	3	8000	不钻地就显示不了疯狂二字，哈哈
+116	召唤火精灵	300	0	0	1	10	270	145	170	0	1	1	1	10	35	40000	330000	2	5000	使用和火精灵的亲和力，召唤精灵。
+117	空间撕裂	300	8	240	2	50	200	5	30	0	1	1	1	7	35	40000	330000	4	8000	快速攻击，把对方的空间一切为二
+118	雷神之怒	300	6	150	1	20	330	5	30	0	1	1	1	10	35	40000	330000	4	8000	将空中的电能聚集起来，给与对手强大的伤害。
+119	斗气之盾	100	6	150	2	2	10	0	0	0	1	1	3	15	25	8000	80000	0	120000	一定时间，阻止使用盾攻击。技能使用后，移动速度会减慢。
+120	暴风之柱	100	10	75	1	15	300	145	170	0	1	1	1	5	30	8000	80000	1	4000	释放冰箭，攻击敌人
+121	冷冻弹	100	4	85	3	15	250	145	170	0	1	1	1	0	30	8000	80000	3	4000	使用冷冻弹，瞬间冻结对方某个部位.
+122	复活术	100	10	150	1	3	75	145	170	0	1	1	1	10	25	8000	80000	2	0	让死亡的角色复活。
+123	次元斩	215	10	150	2	5	175	5	30	0	1	1	1	7	25	8000	80000	4	10000	有效利用 二刀流 ，瞬时将敌人砍碎。
+124	魍魉之舞	215	10	150	1	20	310	170	170	0	1	1	1	7	30	8000	80000	4	5000	技能值越高，攻击力就越高。无视敌人的防御力，可贯穿布砍所使用的钢筋铁骨技能，此技能不能受凯立顿的状态接触技能影响。
+125	精通球术	200	-1	-1	-1	5	100	0	0	0	0	0	0	0	20	100000	100000	5	0	使用球攻击时，攻击力加大。
+126	抗力增强	200	-1	-1	-1	1	30	0	0	0	0	0	0	0	20	100000	100000	5	0	增加对异常状态的抵抗力。
+127	PL -旋转	200	3	60	3	25	450	20	60	1	1	1	1	0	20	200000	200000	5	0	旋转武器发动群攻。
+128	PL -猛掷	200	10	300	3	10	300	20	60	0	1	1	1	0	30	200000	200000	5	2000	对指定目标发动3连击。
+129	PL -刀削	275	25	750	3	25	750	20	60	0	1	1	1	0	30	400000	400000	5	3000	对指定目标发动强力5连击。
+130	PL -正面贯穿	300	20	500	3	20	800	150	400	0	1	1	1	0	25	400000	400000	5	5000	对正面敌人发动贯穿性攻击。一定概率使敌人减速。
+131	PL -狂刺	300	15	450	3	30	900	20	70	0	1	1	1	0	30	400000	400000	5	5000	对指定目标进行狂刺。一定概率使敌人晕厥。
+132	PL -爆炸群攻	700	10	300	3	250	2250	60	600	0	1	1	1	0	30	800000	800000	5	9000	将武器插进地里，对周围产生爆炸性伤害。
+133	PL -猎枪	350	20	600	3	20	1300	20	60	0	1	1	1	0	30	800000	800000	5	5000	快速射击正面敌人造成伤害。
+134	PL -防护盾	200	1	30	3	1	40	5	40	0	1	0	3	0	30	1000000	1000000	5	5000	提高婆罗姆的防御技能。持续2分30秒。
+135	PL -猛烈暴击	300	25	750	3	50	1400	20	70	0	1	1	1	0	30	1600000	1600000	5	2500	对指定对象进行强力攻击后，发动武器爆炸性伤害造成巨量伤害。使敌人减速。
+136	PL -旋风	350	20	600	3	60	1500	20	400	0	1	1	1	0	30	1600000	1600000	5	5000	抛出武器对周围敌人发动贯穿性伤害。
+137	PL -顶级攻击	400	25	750	3	70	1700	20	70	0	1	1	1	0	30	1600000	1600000	5	6000	利用身体的离心力猛砍对方。 
+138	PL -交叉	450	10	300	3	80	2000	20	70	0	1	1	1	0	30	1600000	1600000	5	7000	交换前后刀刃砍杀对方。一定概率使敌人晕厥。
+139	D -系统	200	1	30	3	1	30	5	30	0	1	0	3	0	33	3000000	3000000	5	5000	机器人的起始技能
+140	D - 超负荷	200	40	1000	3	30	1000	150	500	0	1	1	1	0	25	3000000	3000000	5	5000	只能在D系统开启的时候使用。全方位发射雷电。一定概率使敌人晕厥。
+141	D -异常清除	200	5	100	3	5	100	5	30	0	1	1	3	0	20	1600000	1600000	5	1000	一定概率清除自身所有异常状态。只能在D系统开启时使用。
+142	D系统 - 打击	200	-1	-1	-1	3	60	0	0	0	0	0	0	0	20	800000	800000	5	0	增加令敌人晕厥的概率。在D系统开启时使用。
+143	D系统 - 冲击	200	-1	-1	-1	3	60	0	0	0	0	0	0	0	20	800000	800000	5	0	增加令敌人减速的概率。在D系统开启时使用。
+144	D系统 - 闪避	200	-1	-1	-1	2	60	0	0	0	0	0	0	0	30	800000	800000	5	0	D系统开启时闪避能力增强。
+145	D系统 - 抗力	200	-1	-1	-1	1	35	0	0	0	0	0	0	0	30	800000	800000	5	0	系统正在运行时。 额外的异常状态抵抗会增加。
+146	D系统 - 防御	200	-1	-1	-1	1	30	0	0	0	0	0	0	0	20	800000	800000	5	0	D系统开启时追加防御力提升。
+147	D系统 - 攻击	200	-1	-1	-1	15	300	0	0	0	0	0	0	0	20	800000	800000	5	0	D系统开启时追加攻击力增强。
+148	瞬间暴击加强	200	20	40	3	2	40	5	30	0	1	1	3	0	20	600000	600000	5	5000	增加角色瞬间暴击的概率。
+149	攻击力加强	200	20	40	3	2	40	5	30	0	1	1	3	0	20	600000	600000	5	5000	增强角色攻击力。
+150	D系统 - 防护盾	200	20	40	3	1	20	5	30	0	1	0	3	0	20	800000	800000	5	5000	增加PL防护盾的能量值。只能在D系统开启时使用。D系统关闭时自动解除。
+151	闪避大师	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	0	0	被动技能
+152	防御盾	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	1	0	被动技能
+153	天堂的祝福	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	2	0	被动技能
+154	贯穿力 2	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	3	0	被动技能
+155	精通伤害	500	-1	-1	-1	0	0	0	0	0	0	0	0	0	20	50000	1000000	4	0	被动技能
+156	PVP防御	500	-1	-1	-1	1	20	0	0	0	0	0	0	0	20	50000	1000000	5	0	防御被动技能每技能等级增加1％防御

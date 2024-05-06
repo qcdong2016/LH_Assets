@@ -1,873 +1,988 @@
-a_index	a_name	a_name	a_name	a_name
+﻿a_index	a_name	a_name	a_name	a_name
 end of skip
-23	Wolf	Wolf	Wolf	Wolf
-24	White Tiger	White Tiger	White Tiger	White Tiger
-25	Lada	Lada	Lada	Lada
-26	Hell Cobra	Hell Cobra	Hell Cobra	Hell Cobra
-31	Dino	Dino	Dino	Dino
-37	Oniam	Oniam	Oniam	Oniam
-38	War Giant	War Giant	War Giant	War Giant
-39	Moke	Moke	Moke	Moke
-40	Grem	Grem	Grem	Grem
-41	Pro Giant	Pro Giant	Pro Giant	Pro Giant
-46	x_0 Bar Madam	x_0 Bar Madam	x_0 Bar Madam	x_0 Bar Madam
-47	x_0 Sand Fairy	x_0 Sand Fairy	x_0 Sand Fairy	x_0 Sand Fairy
-48	Brain Warrior	Brain Warrior	Brain Warrior	Brain Warrior
-50	x_0 Skulleon	x_0 Skulleon	x_0 Skulleon	x_0 Skulleon
-51	Machine Shop Owner	Machine Shop Owner	Machine Shop Owner	Machine Shop Owner
-52	Master Blacksmith	Master Blacksmith	Master Blacksmith	Master Blacksmith
-53	Aidia Magic Potion Merchant	Aidia Magic Potion Merchant	Aidia Magic Potion Merchant	Aidia Magic Potion Merchant
-54	Gremlin	Gremlin	Gremlin	Gremlin
-55	Pretty Girl	Pretty Girl	Pretty Girl	Pretty Girl
-56	x_0 Weapon Shopkeeper	x_0 Weapon Shopkeeper	x_0 Weapon Shopkeeper	x_0 Weapon Shopkeeper
-57	Guard Captain	Guard Captain	Guard Captain	Guard Captain
-58	Zombie	Zombie	Zombie	Zombie
-59	Skeleton Captain	Skeleton Captain	Skeleton Captain	Skeleton Captain
-60	Skeleton Soldier	Skeleton Soldier	Skeleton Soldier	Skeleton Soldier
-61	Skeleton Wizard	Skeleton Wizard	Skeleton Wizard	Skeleton Wizard
-62	Horn Beast	Horn Beast	Horn Beast	Horn Beast
-63	Drarion	Drarion	Drarion	Drarion
-64	Merchant	Merchant	Merchant	Merchant
-65	Human Mechanics Merchant	Human Mechanics Merchant	Human Mechanics Merchant	Human Mechanics Merchant
-66	Human Bargirl	Human Bargirl	Human Bargirl	Human Bargirl
-67	Human Pet researcher	Human Pet researcher	Human Pet researcher	Human Pet researcher
-68	Human Blacksmith	Human Blacksmith	Human Blacksmith	Human Blacksmith
-69	x_Human Magic Potion Merchant	x_Human Magic Potion Merchant	x_Human Magic Potion Merchant	x_Human Magic Potion Merchant
-70	Bulkan Armory Shopkeeper	Bulkan Armory Shopkeeper	Bulkan Armory Shopkeeper	Bulkan Armory Shopkeeper
-71	Bulkan Blacksmith	Bulkan Blacksmith	Bulkan Blacksmith	Bulkan Blacksmith
-72	Bulkan Cutey	Bulkan Cutey	Bulkan Cutey	Bulkan Cutey
-73	Kailipton Armory Shopkeeper	Kailipton Armory Shopkeeper	Kailipton Armory Shopkeeper	Kailipton Armory Shopkeeper
-74	x_Kailipton Bargirl	x_Kailipton Bargirl	x_Kailipton Bargirl	x_Kailipton Bargirl
-75	Kailipton Weapon seller	Kailipton Weapon seller	Kailipton Weapon seller	Kailipton Weapon seller
-76	Platinum maker	Platinum maker	Platinum maker	Platinum maker
-77	[LHGN] Heblossom	[LHGN] Heblossom	[LHGN] Heblossom	[LHGN] Heblossom
-78	[LHGN] Blossom	[LHGN] Blossom	[LHGN] Blossom	[LHGN] Blossom
-79	[LHGN] X-Kabal	[LHGN] X-Kabal	[LHGN] X-Kabal	[LHGN] X-Kabal
-80	[LHGN] Horn Fist Kabal	[LHGN] Horn Fist Kabal	[LHGN] Horn Fist Kabal	[LHGN] Horn Fist Kabal
-81	[LHGN] Xpier Kabal	[LHGN] Xpier Kabal	[LHGN] Xpier Kabal	[LHGN] Xpier Kabal
-82	[LHGN] Mace torturer	[LHGN] Mace torturer	[LHGN] Mace torturer	[LHGN] Mace torturer
-83	[LHGN] Hammer Kabal	[LHGN] Hammer Kabal	[LHGN] Hammer Kabal	[LHGN] Hammer Kabal
-84	[LHGN] Hell Scissor Kabal	[LHGN] Hell Scissor Kabal	[LHGN] Hell Scissor Kabal	[LHGN] Hell Scissor Kabal
-85	[LHGN] Triple Spear Halfer	[LHGN] Triple Spear Halfer	[LHGN] Triple Spear Halfer	[LHGN] Triple Spear Halfer
-86	[LHGN] Round Saw Halfer	[LHGN] Round Saw Halfer	[LHGN] Round Saw Halfer	[LHGN] Round Saw Halfer
-87	[LHGN] Steel Pliers Halfer	[LHGN] Steel Pliers Halfer	[LHGN] Steel Pliers Halfer	[LHGN] Steel Pliers Halfer
-88	[LHGN] Dupe Rack Harpoon	[LHGN] Dupe Rack Harpoon	[LHGN] Dupe Rack Harpoon	[LHGN] Dupe Rack Harpoon
-89	[LHGN] Iron Bug	[LHGN] Iron Bug	[LHGN] Iron Bug	[LHGN] Iron Bug
-90	Blacksmith	Blacksmith	Blacksmith	Blacksmith
-91	Machine Dealer	Machine Dealer	Machine Dealer	Machine Dealer
-92	Barmaid	Barmaid	Barmaid	Barmaid
-93	Doctor	Doctor	Doctor	Doctor
-94	Magic Shopkeeper	Magic Shopkeeper	Magic Shopkeeper	Magic Shopkeeper
-95	Assistant	Assistant	Assistant	Assistant
-96	x_0 Trader	x_0 Trader	x_0 Trader	x_0 Trader
-97	Armored Mouse	Armored Mouse	Armored Mouse	Armored Mouse
-98	Armored Crab	Armored Crab	Armored Crab	Armored Crab
-99	Poison Crab	Poison Crab	Poison Crab	Poison Crab
-100	Sea Scorpion	Sea Scorpion	Sea Scorpion	Sea Scorpion
-101	Poison Scorpion	Poison Scorpion	Poison Scorpion	Poison Scorpion
-102	Chmero	Chmero	Chmero	Chmero
-104	Dark Soldier	Dark Soldier	Dark Soldier	Dark Soldier
-105	Devil Giant	Devil Giant	Devil Giant	Devil Giant
-106	Battle Giant	Battle Giant	Battle Giant	Battle Giant
-107	Mad Cyborg	Mad Cyborg	Mad Cyborg	Mad Cyborg
-108	Mace Kabal	Mace Kabal	Mace Kabal	Mace Kabal
-109	Mad Cyborg	Mad Cyborg	Mad Cyborg	Mad Cyborg
-110	Skewer Halfer	Skewer Halfer	Skewer Halfer	Skewer Halfer
-111	Drakion	Drakion	Drakion	Drakion
-112	Drakion	Drakion	Drakion	Drakion
-113	Santa Monster	Santa Monster	Santa Monster	Santa Monster
-114	Nose Santa	Nose Santa	Nose Santa	Nose Santa
-115	Nose Santa	Nose Santa	Nose Santa	Nose Santa
-116	x_0 Nose Santa	x_0 Nose Santa	x_0 Nose Santa	x_0 Nose Santa
-117	Guard Master	Guard Master	Guard Master	Guard Master
-119	Ark Jackal	Ark Jackal	Ark Jackal	Ark Jackal
-120	Claw Jackal	Claw Jackal	Claw Jackal	Claw Jackal
-121	Gonetor	Gonetor	Gonetor	Gonetor
-122	Wolfen	Wolfen	Wolfen	Wolfen
-123	Gonma	Gonma	Gonma	Gonma
-124	Cutter Khan	Cutter Khan	Cutter Khan	Cutter Khan
-125	Dark Soul	Dark Soul	Dark Soul	Dark Soul
-126	Sickle Khan	Sickle Khan	Sickle Khan	Sickle Khan
-127	Skull Fighter	Skull Fighter	Skull Fighter	Skull Fighter
-128	Sad Shadow	Sad Shadow	Sad Shadow	Sad Shadow
-130	Wild Skull	Wild Skull	Wild Skull	Wild Skull
-131	x_0 Blood Jakal	x_0 Blood Jakal	x_0 Blood Jakal	x_0 Blood Jakal
-132	Gondra	Gondra	Gondra	Gondra
-133	Khan	Khan	Khan	Khan
-135	Shilon Master	Shilon Master	Shilon Master	Shilon Master
-136	Shilon Castle Gatekeeper	Shilon Castle Gatekeeper	Shilon Castle Gatekeeper	Shilon Castle Gatekeeper
-137	Shilon Sorcerer	Shilon Sorcerer	Shilon Sorcerer	Shilon Sorcerer
-138	Tradesman	Tradesman	Tradesman	Tradesman
-139	Aisian Bandor	Aisian Bandor	Aisian Bandor	Aisian Bandor
-140	Magician	Magician	Magician	Magician
-141	Gypsy	Gypsy	Gypsy	Gypsy
-142	Shilon Swordsman	Shilon Swordsman	Shilon Swordsman	Shilon Swordsman
-143	Shilon Spear Man	Shilon Spear Man	Shilon Spear Man	Shilon Spear Man
-144	Shilon Swordsman	Shilon Swordsman	Shilon Swordsman	Shilon Swordsman
-145	Shilon Spear Man	Shilon Spear Man	Shilon Spear Man	Shilon Spear Man
-146	Shilon Sorcerer	Shilon Sorcerer	Shilon Sorcerer	Shilon Sorcerer
-147	Tyranoid	Tyranoid	Tyranoid	Tyranoid
-148	Parkikepaloid	Parkikepaloid	Parkikepaloid	Parkikepaloid
-149	Uokepaloid	Uokepaloid	Uokepaloid	Uokepaloid
-150	Raptoroid	Raptoroid	Raptoroid	Raptoroid
-151	Styrokonoid	Styrokonoid	Styrokonoid	Styrokonoid
-152	Karmaroid	Karmaroid	Karmaroid	Karmaroid
-153	Cutter Lizard	Cutter Lizard	Cutter Lizard	Cutter Lizard
-154	Horror Lizard	Horror Lizard	Horror Lizard	Horror Lizard
-155	Torres	Torres	Torres	Torres
-156	Minot	Minot	Minot	Minot
-157	X-Lizard	X-Lizard	X-Lizard	X-Lizard
-158	Sauron	Sauron	Sauron	Sauron
-159	Tauron	Tauron	Tauron	Tauron
-160	Rexroid	Rexroid	Rexroid	Rexroid
-161	Sheep	Sheep	Sheep	Sheep
-162	Shilon Swrodsman	Shilon Swrodsman	Shilon Swrodsman	Shilon Swrodsman
-163	Shilon Spear Man	Shilon Spear Man	Shilon Spear Man	Shilon Spear Man
-164	Shilon Magician	Shilon Magician	Shilon Magician	Shilon Magician
-166	Gem Shopkeeper	Gem Shopkeeper	Gem Shopkeeper	Gem Shopkeeper
-167	Gem Gambler	Gem Gambler	Gem Gambler	Gem Gambler
-168	Tumbling Chimpanzee	Tumbling Chimpanzee	Tumbling Chimpanzee	Tumbling Chimpanzee
-169	Director	Director	Director	Director
-170	x_0 Guard Tower	x_0 Guard Tower	x_0 Guard Tower	x_0 Guard Tower
-171	x_0 Goalkeeper Khan	x_0 Goalkeeper Khan	x_0 Goalkeeper Khan	x_0 Goalkeeper Khan
-172	x_0 Striker Khan	x_0 Striker Khan	x_0 Striker Khan	x_0 Striker Khan
-173	Ball	Ball	Ball	Ball
-175	Tragates	Tragates	Tragates	Tragates
-176	Hairia	Hairia	Hairia	Hairia
-177	Monster Damage Controller	Monster Damage Controller	Monster Damage Controller	Monster Damage Controller
-178	Monster Defense Power Controller	Monster Defense Power Controller	Monster Defense Power Controller	Monster Defense Power Controller
-179	Fire Clay Guard Tower	Fire Clay Guard Tower	Fire Clay Guard Tower	Fire Clay Guard Tower
-180	Fire Stone Guard Tower	Fire Stone Guard Tower	Fire Stone Guard Tower	Fire Stone Guard Tower
-181	Fire Steel Guard Tower	Fire Steel Guard Tower	Fire Steel Guard Tower	Fire Steel Guard Tower
-182	Lightning Clay Guard Tower	Lightning Clay Guard Tower	Lightning Clay Guard Tower	Lightning Clay Guard Tower
-183	Lightning Stone Guard Tower	Lightning Stone Guard Tower	Lightning Stone Guard Tower	Lightning Stone Guard Tower
-184	Lightning Steel Guard Tower	Lightning Steel Guard Tower	Lightning Steel Guard Tower	Lightning Steel Guard Tower
-185	Stone Clay Guard Tower	Stone Clay Guard Tower	Stone Clay Guard Tower	Stone Clay Guard Tower
-186	Stone Stone Guard Tower	Stone Stone Guard Tower	Stone Stone Guard Tower	Stone Stone Guard Tower
-187	Stone Steel Guard Tower	Stone Steel Guard Tower	Stone Steel Guard Tower	Stone Steel Guard Tower
-188	Egg Seller	Egg Seller	Egg Seller	Egg Seller
-189	Veterinary	Veterinary	Veterinary	Veterinary
-190	Drill Instructor	Drill Instructor	Drill Instructor	Drill Instructor
-191	Assembling Merchant	Assembling Merchant	Assembling Merchant	Assembling Merchant
-192	x_Descon Wolf	x_Descon Wolf	x_Descon Wolf	x_Descon Wolf
-193	Giant Worm	Giant Worm	Giant Worm	Giant Worm
-194	Shining Jackal	Shining Jackal	Shining Jackal	Shining Jackal
-195	Magma Punch	Magma Punch	Magma Punch	Magma Punch
-196	Spit worm	Spit worm	Spit worm	Spit worm
-197	Shock Rinch	Shock Rinch	Shock Rinch	Shock Rinch
-198	A Falling Rock	A Falling Rock	A Falling Rock	A Falling Rock
-199	Big Thorn	Big Thorn	Big Thorn	Big Thorn
-201	x_Lightning Bomb	x_Lightning Bomb	x_Lightning Bomb	x_Lightning Bomb
-202	Dart Pitcher	Dart Pitcher	Dart Pitcher	Dart Pitcher
-203	Volcanic Punch	Volcanic Punch	Volcanic Punch	Volcanic Punch
-204	Volt Rinch	Volt Rinch	Volt Rinch	Volt Rinch
-205	Volcanic risk	Volcanic risk	Volcanic risk	Volcanic risk
-206	Antros	Antros	Antros	Antros
-207	King Antros	King Antros	King Antros	King Antros
-208	Devil King	Devil King	Devil King	Devil King
-209	Dread Knight	Dread Knight	Dread Knight	Dread Knight
-210	Dread Templar	Dread Templar	Dread Templar	Dread Templar
-211	TeamBattle Manager	TeamBattle Manager	TeamBattle Manager	TeamBattle Manager
-212	Summoned Chmero	Summoned Chmero	Summoned Chmero	Summoned Chmero
-213	Summoned Devil Giant	Summoned Devil Giant	Summoned Devil Giant	Summoned Devil Giant
-214	Summoned Ark Jackal	Summoned Ark Jackal	Summoned Ark Jackal	Summoned Ark Jackal
-215	Summoned Sad shadow	Summoned Sad shadow	Summoned Sad shadow	Summoned Sad shadow
-216	Summoned Drakion	Summoned Drakion	Summoned Drakion	Summoned Drakion
-217	Descon Wolf	Descon Wolf	Descon Wolf	Descon Wolf
-218	Small Mine	Small Mine	Small Mine	Small Mine
-219	Raven Mage	Raven Mage	Raven Mage	Raven Mage
-220	Head Dragon	Head Dragon	Head Dragon	Head Dragon
-221	Iron Dragon	Iron Dragon	Iron Dragon	Iron Dragon
-222	Earth Dragon	Earth Dragon	Earth Dragon	Earth Dragon
-223	Sky Dragon	Sky Dragon	Sky Dragon	Sky Dragon
-224	Mother Dragon	Mother Dragon	Mother Dragon	Mother Dragon
-225	Summoned White Tiger	Summoned White Tiger	Summoned White Tiger	Summoned White Tiger
-226	Armor Rat of contrition	Armor Rat of contrition	Armor Rat of contrition	Armor Rat of contrition
-227	Jailer Khan	Jailer Khan	Jailer Khan	Jailer Khan
-228	King Chmero	King Chmero	King Chmero	King Chmero
-229	King Pro Giant	King Pro Giant	King Pro Giant	King Pro Giant
-230	King Battle Giant	King Battle Giant	King Battle Giant	King Battle Giant
-231	Blue Fish	Blue Fish	Blue Fish	Blue Fish
-232	Yellow fish	Yellow fish	Yellow fish	Yellow fish
-233	Red Guphy	Red Guphy	Red Guphy	Red Guphy
-234	Blue Guphy	Blue Guphy	Blue Guphy	Blue Guphy
-235	Dolphine	Dolphine	Dolphine	Dolphine
-236	Shark	Shark	Shark	Shark
-237	Turtle	Turtle	Turtle	Turtle
-238	Paros Grocer	Paros Grocer	Paros Grocer	Paros Grocer
-239	Paros Weapon Seller	Paros Weapon Seller	Paros Weapon Seller	Paros Weapon Seller
-240	Paros Bullet Seller	Paros Bullet Seller	Paros Bullet Seller	Paros Bullet Seller
-241	Paros Magic Seller	Paros Magic Seller	Paros Magic Seller	Paros Magic Seller
-242	Paros Potion Seller	Paros Potion Seller	Paros Potion Seller	Paros Potion Seller
-243	Ghost Hydra	Ghost Hydra	Ghost Hydra	Ghost Hydra
-244	Raven Valkyrie	Raven Valkyrie	Raven Valkyrie	Raven Valkyrie
-245	Bat Dragon	Bat Dragon	Bat Dragon	Bat Dragon
-247	Ghost Raven	Ghost Raven	Ghost Raven	Ghost Raven
-249	Flying Devil King	Flying Devil King	Flying Devil King	Flying Devil King
-250	Shadow Armor Dragon	Shadow Armor Dragon	Shadow Armor Dragon	Shadow Armor Dragon
-251	Angler	Angler	Angler	Angler
-252	Piranha	Piranha	Piranha	Piranha
-253	[LHGN] Master Kabal	[LHGN] Master Kabal	[LHGN] Master Kabal	[LHGN] Master Kabal
-254	[LHGN] Guard Halfer	[LHGN] Guard Halfer	[LHGN] Guard Halfer	[LHGN] Guard Halfer
-255	Event Old Man	Event Old Man	Event Old Man	Event Old Man
-256	Summoned Eyren	Summoned Eyren	Summoned Eyren	Summoned Eyren
-257	Archeologist	Archeologist	Archeologist	Archeologist
-258	Pitcher	Pitcher	Pitcher	Pitcher
-259	Rinch	Rinch	Rinch	Rinch
-260	Risk	Risk	Risk	Risk
-261	Punch	Punch	Punch	Punch
-262	Ant	Ant	Ant	Ant
-263	Templar	Templar	Templar	Templar
-264	Iron Dragon	Iron Dragon	Iron Dragon	Iron Dragon
-265	Earth Dragon	Earth Dragon	Earth Dragon	Earth Dragon
-266	Son	Son	Son	Son
-267	Father	Father	Father	Father
-268	Mother	Mother	Mother	Mother
-269	Daughter	Daughter	Daughter	Daughter
-271	Frogmare	Frogmare	Frogmare	Frogmare
-272	Matrix Death Tower	Matrix Death Tower	Matrix Death Tower	Matrix Death Tower
-273	Matrix Grocer	Matrix Grocer	Matrix Grocer	Matrix Grocer
-274	Matrix Weapon Seller	Matrix Weapon Seller	Matrix Weapon Seller	Matrix Weapon Seller
-275	Matrix bullet Seller	Matrix bullet Seller	Matrix bullet Seller	Matrix bullet Seller
-276	Matrix Magic Seller	Matrix Magic Seller	Matrix Magic Seller	Matrix Magic Seller
-277	Matrix Summon Stone Seller	Matrix Summon Stone Seller	Matrix Summon Stone Seller	Matrix Summon Stone Seller
-278	Giant Reaper	Giant Reaper	Giant Reaper	Giant Reaper
-279	Sickle Reaper	Sickle Reaper	Sickle Reaper	Sickle Reaper
-280	Ebony Assassin	Ebony Assassin	Ebony Assassin	Ebony Assassin
-281	Soul Reaper	Soul Reaper	Soul Reaper	Soul Reaper
-284	Gangster Shark	Gangster Shark	Gangster Shark	Gangster Shark
-285	Wolf Wing	Wolf Wing	Wolf Wing	Wolf Wing
-286	Rapier Fencer	Rapier Fencer	Rapier Fencer	Rapier Fencer
-287	Axe Wing	Axe Wing	Axe Wing	Axe Wing
-288	Sorceress Wing	Sorceress Wing	Sorceress Wing	Sorceress Wing
-289	Storm Fencer	Storm Fencer	Storm Fencer	Storm Fencer
-290	Hell Wing	Hell Wing	Hell Wing	Hell Wing
-291	Battle Dragon	Battle Dragon	Battle Dragon	Battle Dragon
-292	Wolf Dragon	Wolf Dragon	Wolf Dragon	Wolf Dragon
-293	Gem Shopkeeper	Gem Shopkeeper	Gem Shopkeeper	Gem Shopkeeper
-294	Winter Knight	Winter Knight	Winter Knight	Winter Knight
-295	Ice Collector	Ice Collector	Ice Collector	Ice Collector
-296	Ice Cracker	Ice Cracker	Ice Cracker	Ice Cracker
-297	Hail Wizard	Hail Wizard	Hail Wizard	Hail Wizard
-298	Ice Harper	Ice Harper	Ice Harper	Ice Harper
-299	Clay Soul	Clay Soul	Clay Soul	Clay Soul
-300	Frozen Head	Frozen Head	Frozen Head	Frozen Head
-301	Snow Cat	Snow Cat	Snow Cat	Snow Cat
-302	Ice Risk	Ice Risk	Ice Risk	Ice Risk
-303	Dekardi Guild Master	Dekardi Guild Master	Dekardi Guild Master	Dekardi Guild Master
-304	Perky Socks	Perky Socks	Perky Socks	Perky Socks
-305	Snowman	Snowman	Snowman	Snowman
-306	Crystal Sealing Tower	Crystal Sealing Tower	Crystal Sealing Tower	Crystal Sealing Tower
-307	Outer Castle Door	Outer Castle Door	Outer Castle Door	Outer Castle Door
-308	North-Eastern Outer Castle Door	North-Eastern Outer Castle Door	North-Eastern Outer Castle Door	North-Eastern Outer Castle Door
-309	South-Western Outer Castle Door	South-Western Outer Castle Door	South-Western Outer Castle Door	South-Western Outer Castle Door
-310	South-Eastern Outer Castle Door	South-Eastern Outer Castle Door	South-Eastern Outer Castle Door	South-Eastern Outer Castle Door
-311	Inner Castle Door	Inner Castle Door	Inner Castle Door	Inner Castle Door
-312	North-Eastern Inner Castle Door	North-Eastern Inner Castle Door	North-Eastern Inner Castle Door	North-Eastern Inner Castle Door
-313	South Western Inner Castle Door	South Western Inner Castle Door	South Western Inner Castle Door	South Western Inner Castle Door
-314	South-Eastern Inner Castle Door	South-Eastern Inner Castle Door	South-Eastern Inner Castle Door	South-Eastern Inner Castle Door
-315	Monkey	Monkey	Monkey	Monkey
-316	White Horn Nail	White Horn Nail	White Horn Nail	White Horn Nail
-317	Elder Man	Elder Man	Elder Man	Elder Man
-318	Elder Woman	Elder Woman	Elder Woman	Elder Woman
-319	White Horn Doorkeeper	White Horn Doorkeeper	White Horn Doorkeeper	White Horn Doorkeeper
-320	Attractive Girl	Attractive Girl	Attractive Girl	Attractive Girl
-321	Bunnygirl	Bunnygirl	Bunnygirl	Bunnygirl
-322	Bunny Girl	Bunny Girl	Bunny Girl	Bunny Girl
-323	Arbor Day_Tree	Arbor Day_Tree	Arbor Day_Tree	Arbor Day_Tree
-324	Evil King Dior	Evil King Dior	Evil King Dior	Evil King Dior
-325	Summoned Sad shadow	Summoned Sad shadow	Summoned Sad shadow	Summoned Sad shadow
-326	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-327	Crystal Guard Tower	Crystal Guard Tower	Crystal Guard Tower	Crystal Guard Tower
-328	Crystal Guard Tower	Crystal Guard Tower	Crystal Guard Tower	Crystal Guard Tower
-329	Crystal Guard Tower	Crystal Guard Tower	Crystal Guard Tower	Crystal Guard Tower
-330	Aidia Mixing Merchant	Aidia Mixing Merchant	Aidia Mixing Merchant	Aidia Mixing Merchant
-331	War Giant Boss	War Giant Boss	War Giant Boss	War Giant Boss
-333	Mother Dragon Boss	Mother Dragon Boss	Mother Dragon Boss	Mother Dragon Boss
-334	Dark Soul Boss	Dark Soul Boss	Dark Soul Boss	Dark Soul Boss
-335	Space Crystal	Space Crystal	Space Crystal	Space Crystal
-336	Guild Hunt Manager	Guild Hunt Manager	Guild Hunt Manager	Guild Hunt Manager
-337	Extremely Skeleton Captain	Extremely Skeleton Captain	Extremely Skeleton Captain	Extremely Skeleton Captain
-338	Extremely Skull Fighter	Extremely Skull Fighter	Extremely Skull Fighter	Extremely Skull Fighter
-339	Extremely Horn Beast	Extremely Horn Beast	Extremely Horn Beast	Extremely Horn Beast
-340	Extremely Drakion	Extremely Drakion	Extremely Drakion	Extremely Drakion
-341	Extremely Uokepaloid	Extremely Uokepaloid	Extremely Uokepaloid	Extremely Uokepaloid
-342	Extremely Styrokonoid	Extremely Styrokonoid	Extremely Styrokonoid	Extremely Styrokonoid
-343	Extremely Rexroid	Extremely Rexroid	Extremely Rexroid	Extremely Rexroid
-344	Extremely Head Dragon	Extremely Head Dragon	Extremely Head Dragon	Extremely Head Dragon
-345	Extremely Armor Dragon	Extremely Armor Dragon	Extremely Armor Dragon	Extremely Armor Dragon
-346	Extremely Ice Cracker	Extremely Ice Cracker	Extremely Ice Cracker	Extremely Ice Cracker
-347	Extremely Mad Cyborg	Extremely Mad Cyborg	Extremely Mad Cyborg	Extremely Mad Cyborg
-348	Khan Boss	Khan Boss	Khan Boss	Khan Boss
-349	Extremely Drarion	Extremely Drarion	Extremely Drarion	Extremely Drarion
-350	Extremely Hale Wizard	Extremely Hale Wizard	Extremely Hale Wizard	Extremely Hale Wizard
-351	Santa Claus	Santa Claus	Santa Claus	Santa Claus
-352	Mouel	Mouel	Mouel	Mouel
-353	Kisare	Kisare	Kisare	Kisare
-354	Sicrin	Sicrin	Sicrin	Sicrin
-355	Sharklord	Sharklord	Sharklord	Sharklord
-356	Beradin	Beradin	Beradin	Beradin
-357	Garpon Guardman	Garpon Guardman	Garpon Guardman	Garpon Guardman
-358	Garpon Spearhead	Garpon Spearhead	Garpon Spearhead	Garpon Spearhead
-359	Garpon Speadman	Garpon Speadman	Garpon Speadman	Garpon Speadman
-360	Ice Tower	Ice Tower	Ice Tower	Ice Tower
-361	Lighting Tower	Lighting Tower	Lighting Tower	Lighting Tower
-362	Frozen Yeti	Frozen Yeti	Frozen Yeti	Frozen Yeti
-363	Yeti	Yeti	Yeti	Yeti
-364	Garpon Soldier	Garpon Soldier	Garpon Soldier	Garpon Soldier
-365	Monster	Monster	Monster	Monster
-366	Monster	Monster	Monster	Monster
-367	Monster	Monster	Monster	Monster
-368	Arbor Day_Tree	Arbor Day_Tree	Arbor Day_Tree	Arbor Day_Tree
-369	Summon Winter Knight	Summon Winter Knight	Summon Winter Knight	Summon Winter Knight
-370	Sheep	Sheep	Sheep	Sheep
-371	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-372	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-373	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-374	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-375	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-376	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-377	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-378	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-379	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower	Crystal Seal Tower
-380	Anna	Anna	Anna	Anna
-381	War Giant	War Giant	War Giant	War Giant
-382	Nose Santa	Nose Santa	Nose Santa	Nose Santa
-383	Shilon Castle Gatekeeper	Shilon Castle Gatekeeper	Shilon Castle Gatekeeper	Shilon Castle Gatekeeper
-384	Human Correspondent	Human Correspondent	Human Correspondent	Human Correspondent
-385	Kiold	Kiold	Kiold	Kiold
-386	Tuk Kiold	Tuk Kiold	Tuk Kiold	Tuk Kiold
-387	Bone Kiold	Bone Kiold	Bone Kiold	Bone Kiold
-388	Brute	Brute	Brute	Brute
-389	Fury Brute	Fury Brute	Fury Brute	Fury Brute
-390	Earthkait	Earthkait	Earthkait	Earthkait
-391	Iron Earthkait	Iron Earthkait	Iron Earthkait	Iron Earthkait
-392	Bone Worker	Bone Worker	Bone Worker	Bone Worker
-393	Bone Sorcerer	Bone Sorcerer	Bone Sorcerer	Bone Sorcerer
-394	Bone Master	Bone Master	Bone Master	Bone Master
-395	Exspear Genter	Exspear Genter	Exspear Genter	Exspear Genter
-396	Hammer Genter	Hammer Genter	Hammer Genter	Hammer Genter
-397	Neo Khan	Neo Khan	Neo Khan	Neo Khan
-398	Axe Genter	Axe Genter	Axe Genter	Axe Genter
-399	Fist Genter	Fist Genter	Fist Genter	Fist Genter
-400	Iron Genter	Iron Genter	Iron Genter	Iron Genter
-401	Spider	Spider	Spider	Spider
-402	Rain Spider	Rain Spider	Rain Spider	Rain Spider
-403	Gurmong	Gurmong	Gurmong	Gurmong
-404	Clay Spector	Clay Spector	Clay Spector	Clay Spector
-405	Devil Hood	Devil Hood	Devil Hood	Devil Hood
-406	Devil Force	Devil Force	Devil Force	Devil Force
-407	Light Warrior	Light Warrior	Light Warrior	Light Warrior
-408	Hawk Valkyrie	Hawk Valkyrie	Hawk Valkyrie	Hawk Valkyrie
-409	Pitros	Pitros	Pitros	Pitros
-410	Beljer	Beljer	Beljer	Beljer
-411	King Entitor	King Entitor	King Entitor	King Entitor
-412	Faivz	Faivz	Faivz	Faivz
-413	Lion Cutter	Lion Cutter	Lion Cutter	Lion Cutter
-414	Dmiguard	Dmiguard	Dmiguard	Dmiguard
-415	CeonBoy	CeonBoy	CeonBoy	CeonBoy
-416	Durant	Durant	Durant	Durant
-417	Spector	Spector	Spector	Spector
-418	Junior Dmiguard	Junior Dmiguard	Junior Dmiguard	Junior Dmiguard
-419	Guard Ceonboy	Guard Ceonboy	Guard Ceonboy	Guard Ceonboy
-420	Summon Nependes	Summon Nependes	Summon Nependes	Summon Nependes
-421	Summon Kekteos	Summon Kekteos	Summon Kekteos	Summon Kekteos
-422	Summon Hiyasins	Summon Hiyasins	Summon Hiyasins	Summon Hiyasins
-423	Summon Daendeorion	Summon Daendeorion	Summon Daendeorion	Summon Daendeorion
-424	Summon Spore	Summon Spore	Summon Spore	Summon Spore
-425	Miscellaneous traders	Miscellaneous traders	Miscellaneous traders	Miscellaneous traders
-426	Strengthen person	Strengthen person	Strengthen person	Strengthen person
-427	Master Blacksmith	Master Blacksmith	Master Blacksmith	Master Blacksmith
-428	Master Blacksmith	Master Blacksmith	Master Blacksmith	Master Blacksmith
-429	Master Blacksmith	Master Blacksmith	Master Blacksmith	Master Blacksmith
-430	Battle Giant	Battle Giant	Battle Giant	Battle Giant
-431	Battle Giant	Battle Giant	Battle Giant	Battle Giant
-432	Battle Giant	Battle Giant	Battle Giant	Battle Giant
-433	Battle Giant	Battle Giant	Battle Giant	Battle Giant
-434	Big Thorn	Big Thorn	Big Thorn	Big Thorn
-435	Big Thorn	Big Thorn	Big Thorn	Big Thorn
-436	Surpent	Surpent	Surpent	Surpent
-437	Cornu Surpent	Cornu Surpent	Cornu Surpent	Cornu Surpent
-438	Serpent Queen	Serpent Queen	Serpent Queen	Serpent Queen
-439	Big Thorn	Big Thorn	Big Thorn	Big Thorn
-440	Plant King	Plant King	Plant King	Plant King
-441	arbeit girl	arbeit girl	arbeit girl	arbeit girl
-442	Viper	Viper	Viper	Viper
-443	Cornu Viper	Cornu Viper	Cornu Viper	Cornu Viper
-444	money-monster	money-monster	money-monster	money-monster
-445	Lion Monster	Lion Monster	Lion Monster	Lion Monster
-446	War Giant	War Giant	War Giant	War Giant
-447	Yu Kwan Sun	Yu Kwan Sun	Yu Kwan Sun	Yu Kwan Sun
-448	Battle Giant	Battle Giant	Battle Giant	Battle Giant
-449	Battle Giant	Battle Giant	Battle Giant	Battle Giant
-450	Human Scout	Human Scout	Human Scout	Human Scout
-451	Escaped demolition doll	Escaped demolition doll	Escaped demolition doll	Escaped demolition doll
-452	Underground Prison	Underground Prison	Underground Prison	Underground Prison
-453	Bag Monster	Bag Monster	Bag Monster	Bag Monster
-454	soccer Girl	soccer Girl	soccer Girl	soccer Girl
-455	Monster ball	Monster ball	Monster ball	Monster ball
-456	Soccer ball	Soccer ball	Soccer ball	Soccer ball
-462	Gold Gangster Shark	Gold Gangster Shark	Gold Gangster Shark	Gold Gangster Shark
-463	cake	cake	cake	cake
-464	LegKnock	LegKnock	LegKnock	LegKnock
-465	iron_gate	iron_gate	iron_gate	iron_gate
-466	stone_gate	stone_gate	stone_gate	stone_gate
-467	stone_irongate	stone_irongate	stone_irongate	stone_irongate
-468	Goldbox	Goldbox	Goldbox	Goldbox
-469	Areglse	Areglse	Areglse	Areglse
-470	Kagol	Kagol	Kagol	Kagol
-471	Santa Bunnygirl	Santa Bunnygirl	Santa Bunnygirl	Santa Bunnygirl
-472	Rudolph	Rudolph	Rudolph	Rudolph
-473	Christmas_Tree	Christmas_Tree	Christmas_Tree	Christmas_Tree
-474	guardian	guardian	guardian	guardian
-475	Moloch	Moloch	Moloch	Moloch
-476	devil_lord	devil_lord	devil_lord	devil_lord
-477	ston_golem	ston_golem	ston_golem	ston_golem
-478	head_oger	head_oger	head_oger	head_oger
-479	Gold Gangster Shark	Gold Gangster Shark	Gold Gangster Shark	Gold Gangster Shark
-480	Guild Master	Guild Master	Guild Master	Guild Master
-481	Red monkey	Red monkey	Red monkey	Red monkey
-483	Matrix	Matrix	Matrix	Matrix
-484	Matrix	Matrix	Matrix	Matrix
-486	Matrix	Matrix	Matrix	Matrix
-487	Matrix	Matrix	Matrix	Matrix
-488	Matrix	Matrix	Matrix	Matrix
-489	Matrix	Matrix	Matrix	Matrix
-490	guild	guild	guild	guild
-491	Wanted PVP System	Wanted PVP System	Wanted PVP System	Wanted PVP System
-492	gbattle_door(side)	gbattle_door(side)	gbattle_door(side)	gbattle_door(side)
-493	gbattle_door(center)	gbattle_door(center)	gbattle_door(center)	gbattle_door(center)
-494	Monster	Monster	Monster	Monster
-495	Monster	Monster	Monster	Monster
-496	Evil King Dior	Evil King Dior	Evil King Dior	Evil King Dior
-497	crystal	crystal	crystal	crystal
-498	gatestone_graveyard	gatestone_graveyard	gatestone_graveyard	gatestone_graveyard
-499	gatestone_grhill	gatestone_grhill	gatestone_grhill	gatestone_grhill
-500	gatestone_lostcity	gatestone_lostcity	gatestone_lostcity	gatestone_lostcity
-501	gatestone_pollution	gatestone_pollution	gatestone_pollution	gatestone_pollution
-502	gatestone_ruins	gatestone_ruins	gatestone_ruins	gatestone_ruins
-503	event baldes	event baldes	event baldes	event baldes
-504	iron_gate	iron_gate	iron_gate	iron_gate
-505	Flag	Flag	Flag	Flag
-506	Gate_Manager	Gate_Manager	Gate_Manager	Gate_Manager
-507	crystal	crystal	crystal	crystal
-508	empty	empty	empty	empty
-509	Pocket Papa	Pocket Papa	Pocket Papa	Pocket Papa
-510	Guild Hunt Manager	Guild Hunt Manager	Guild Hunt Manager	Guild Hunt Manager
-511	berserker	berserker	berserker	berserker
-512	Tantalos	Tantalos	Tantalos	Tantalos
-513	Death Knight	Death Knight	Death Knight	Death Knight
-514	Bandersnatch	Bandersnatch	Bandersnatch	Bandersnatch
-515	Arachne	Arachne	Arachne	Arachne
-516	Ogre Machine	Ogre Machine	Ogre Machine	Ogre Machine
-517	Nagha	Nagha	Nagha	Nagha
-518	Druid	Druid	Druid	Druid
-519	Behimos	Behimos	Behimos	Behimos
-520	Ogre	Ogre	Ogre	Ogre
-521	Aldebaran	Aldebaran	Aldebaran	Aldebaran
-522	Ettin	Ettin	Ettin	Ettin
-523	Soul_King	Soul_King	Soul_King	Soul_King
-524	Soul_knight	Soul_knight	Soul_knight	Soul_knight
-525	Lamia	Lamia	Lamia	Lamia
-526	Human boss 3	Human boss 3	Human boss 3	Human boss 3
-527	Raptoroid	Raptoroid	Raptoroid	Raptoroid
-528	Str_Parkikepaloid	Str_Parkikepaloid	Str_Parkikepaloid	Str_Parkikepaloid
-529	Str_Uokepaloid	Str_Uokepaloid	Str_Uokepaloid	Str_Uokepaloid
-530	Str_Fist Genter	Str_Fist Genter	Str_Fist Genter	Str_Fist Genter
-531	Str_X-Genter	Str_X-Genter	Str_X-Genter	Str_X-Genter
-532	Str_Hammer Genter	Str_Hammer Genter	Str_Hammer Genter	Str_Hammer Genter
-533	Str_Iron Genter	Str_Iron Genter	Str_Iron Genter	Str_Iron Genter
-534	Str_Xpier Genter	Str_Xpier Genter	Str_Xpier Genter	Str_Xpier Genter
-535	Str_Iron Earthkite	Str_Iron Earthkite	Str_Iron Earthkite	Str_Iron Earthkite
-536	Str_Spit worm	Str_Spit worm	Str_Spit worm	Str_Spit worm
-537	Str_Mad Cyborg	Str_Mad Cyborg	Str_Mad Cyborg	Str_Mad Cyborg
-538	Str_Master Kabal	Str_Master Kabal	Str_Master Kabal	Str_Master Kabal
-539	Str_X-Kabal	Str_X-Kabal	Str_X-Kabal	Str_X-Kabal
-540	Str_Hammer Kabal	Str_Hammer Kabal	Str_Hammer Kabal	Str_Hammer Kabal
-541	Str_Mace Kabal	Str_Mace Kabal	Str_Mace Kabal	Str_Mace Kabal
-542	Str_Dark Soul	Str_Dark Soul	Str_Dark Soul	Str_Dark Soul
-543	Str_Giant Worm	Str_Giant Worm	Str_Giant Worm	Str_Giant Worm
-544	Str_Kagol	Str_Kagol	Str_Kagol	Str_Kagol
-545	Str_War Giant	Str_War Giant	Str_War Giant	Str_War Giant
-546	Coward Manager	Coward Manager	Coward Manager	Coward Manager
-548	Coward Manager	Coward Manager	Coward Manager	Coward Manager
-549	Str_Yeti	Str_Yeti	Str_Yeti	Str_Yeti
-550	Str_Frozen Yeti	Str_Frozen Yeti	Str_Frozen Yeti	Str_Frozen Yeti
-551	Str_Garpon Spearhead	Str_Garpon Spearhead	Str_Garpon Spearhead	Str_Garpon Spearhead
-552	Str_Garpon Soldier	Str_Garpon Soldier	Str_Garpon Soldier	Str_Garpon Soldier
-553	Str_Garpon Spearman	Str_Garpon Spearman	Str_Garpon Spearman	Str_Garpon Spearman
-554	Str_Garpon Guardman	Str_Garpon Guardman	Str_Garpon Guardman	Str_Garpon Guardman
-555	Str_Sicrin	Str_Sicrin	Str_Sicrin	Str_Sicrin
-556	Str_Shakload	Str_Shakload	Str_Shakload	Str_Shakload
-557	Str_Beradin	Str_Beradin	Str_Beradin	Str_Beradin
-558	Str_Raven Mage	Str_Raven Mage	Str_Raven Mage	Str_Raven Mage
-559	Str_Volcanic Punch	Str_Volcanic Punch	Str_Volcanic Punch	Str_Volcanic Punch
-560	Str_Iron Dragon	Str_Iron Dragon	Str_Iron Dragon	Str_Iron Dragon
-561	Str_King Antros	Str_King Antros	Str_King Antros	Str_King Antros
-562	Str_Dread Templar	Str_Dread Templar	Str_Dread Templar	Str_Dread Templar
-563	Str_Kisare	Str_Kisare	Str_Kisare	Str_Kisare
-564	Merchant	Merchant	Merchant	Merchant
-565	New_Hell Cobra	New_Hell Cobra	New_Hell Cobra	New_Hell Cobra
-566	Moke	Moke	Moke	Moke
-567	Gremlin	Gremlin	Gremlin	Gremlin
-568	Rinch	Rinch	Rinch	Rinch
-569	Punch	Punch	Punch	Punch
-570	Risk	Risk	Risk	Risk
-571	Volt Rinch	Volt Rinch	Volt Rinch	Volt Rinch
-572	Antros	Antros	Antros	Antros
-573	Pitros	Pitros	Pitros	Pitros
-574	Faivz	Faivz	Faivz	Faivz
-575	Lion Cutter	Lion Cutter	Lion Cutter	Lion Cutter
-576	Fury Brute	Fury Brute	Fury Brute	Fury Brute
-577	Rain Spider	Rain Spider	Rain Spider	Rain Spider
-578	Clay Spector	Clay Spector	Clay Spector	Clay Spector
-579	Bone Kiold	Bone Kiold	Bone Kiold	Bone Kiold
-580	Soul_King	Soul_King	Soul_King	Soul_King
-581	Soul_knight	Soul_knight	Soul_knight	Soul_knight
-582	Lamia	Lamia	Lamia	Lamia
-583	Str_Convoy	Str_Convoy	Str_Convoy	Str_Convoy
-584	Str_Giant Reaper	Str_Giant Reaper	Str_Giant Reaper	Str_Giant Reaper
-585	Str_Soul Reaper	Str_Soul Reaper	Str_Soul Reaper	Str_Soul Reaper
-586	Grem	Grem	Grem	Grem
-587	Str_Rinch	Str_Rinch	Str_Rinch	Str_Rinch
-588	Str_Punch	Str_Punch	Str_Punch	Str_Punch
-589	Str_Risk	Str_Risk	Str_Risk	Str_Risk
-590	Str_Volt Rinch	Str_Volt Rinch	Str_Volt Rinch	Str_Volt Rinch
-591	Str_Faivz	Str_Faivz	Str_Faivz	Str_Faivz
-592	Str_Descon Wolf	Str_Descon Wolf	Str_Descon Wolf	Str_Descon Wolf
-593	Str_King Anteater	Str_King Anteater	Str_King Anteater	Str_King Anteater
-594	Str_Kiold	Str_Kiold	Str_Kiold	Str_Kiold
-595	Str_Todd Kiold	Str_Todd Kiold	Str_Todd Kiold	Str_Todd Kiold
-596	Str_Specter	Str_Specter	Str_Specter	Str_Specter
-597	Str_Rain Spider	Str_Rain Spider	Str_Rain Spider	Str_Rain Spider
-598	Str_Bone Kiold	Str_Bone Kiold	Str_Bone Kiold	Str_Bone Kiold
-599	Str_Moloch	Str_Moloch	Str_Moloch	Str_Moloch
-600	Str_Hell Wing	Str_Hell Wing	Str_Hell Wing	Str_Hell Wing
-601	Str_Demiguard	Str_Demiguard	Str_Demiguard	Str_Demiguard
-602	Barmaid	Barmaid	Barmaid	Barmaid
-603	cake	cake	cake	cake
-604	Great Platonius	Great Platonius	Great Platonius	Great Platonius
-605	Collector Jelystar	Collector Jelystar	Collector Jelystar	Collector Jelystar
-606	Mr.Viragetor	Mr.Viragetor	Mr.Viragetor	Mr.Viragetor
-607	Archeologist	Archeologist	Archeologist	Archeologist
-608	Mr Big Jack	Mr Big Jack	Mr Big Jack	Mr Big Jack
-609	Mr Big Jack	Mr Big Jack	Mr Big Jack	Mr Big Jack
-610	cake	cake	cake	cake
-612	Neo Khan	Neo Khan	Neo Khan	Neo Khan
-613	Mr Big Jack	Mr Big Jack	Mr Big Jack	Mr Big Jack
-614	Relief Marbo	Relief Marbo	Relief Marbo	Relief Marbo
-615	tester merchant	tester merchant	tester merchant	tester merchant
-617	guardian of andlangr	guardian of andlangr	guardian of andlangr	guardian of andlangr
-618	Areglse of Andlangr	Areglse of Andlangr	Areglse of Andlangr	Areglse of Andlangr
-619	devil_lord of Andlangr	devil_lord of Andlangr	devil_lord of Andlangr	devil_lord of Andlangr
-620	Bone Kiold of Andlangr	Bone Kiold of Andlangr	Bone Kiold of Andlangr	Bone Kiold of Andlangr
-621	LagKnock of Andlangr	LagKnock of Andlangr	LagKnock of Andlangr	LagKnock of Andlangr
-622	Lion Cutter of Andlangr	Lion Cutter of Andlangr	Lion Cutter of Andlangr	Lion Cutter of Andlangr
-623	Tundmar Crystal	Tundmar Crystal	Tundmar Crystal	Tundmar Crystal
-624	Angmar Crystal	Angmar Crystal	Angmar Crystal	Angmar Crystal
-625	East GP Stone	East GP Stone	East GP Stone	East GP Stone
-626	Mimir GP.Stone	Mimir GP.Stone	Mimir GP.Stone	Mimir GP.Stone
-627	West GP Stone	West GP Stone	West GP Stone	West GP Stone
-628	Andlangr north G.Stone	Andlangr north G.Stone	Andlangr north G.Stone	Andlangr north G.Stone
-629	Tundmar South G.Stone	Tundmar South G.Stone	Tundmar South G.Stone	Tundmar South G.Stone
-630	Mimir G.Stone	Mimir G.Stone	Mimir G.Stone	Mimir G.Stone
-631	Angmar north G.Stone	Angmar north G.Stone	Angmar north G.Stone	Angmar north G.Stone
-632	Andlangr south G.Stone	Andlangr south G.Stone	Andlangr south G.Stone	Andlangr south G.Stone
-633	Common Armor	Common Armor	Common Armor	Common Armor
-634	Bulkan Armor	Bulkan Armor	Bulkan Armor	Bulkan Armor
-635	Kairipton Armor	Kairipton Armor	Kairipton Armor	Kairipton Armor
-636	Human Armor	Human Armor	Human Armor	Human Armor
-637	Aidia Armor	Aidia Armor	Aidia Armor	Aidia Armor
-638	Hybrider Armor	Hybrider Armor	Hybrider Armor	Hybrider Armor
-639	Tundmar bullet	Tundmar bullet	Tundmar bullet	Tundmar bullet
-640	Tundmar magical	Tundmar magical	Tundmar magical	Tundmar magical
-641	Tundmar potion	Tundmar potion	Tundmar potion	Tundmar potion
-642	angmar bullet	angmar bullet	angmar bullet	angmar bullet
-643	angmar magical	angmar magical	angmar magical	angmar magical
-644	angmar potion	angmar potion	angmar potion	angmar potion
-645	Master Marco Dalco	Master Marco Dalco	Master Marco Dalco	Master Marco Dalco
-646	Gold Gangster Shark	Gold Gangster Shark	Gold Gangster Shark	Gold Gangster Shark
-647	Big Snowman	Big Snowman	Big Snowman	Big Snowman
-648	Brutal Drake	Brutal Drake	Brutal Drake	Brutal Drake
-649	magical merchant	magical merchant	magical merchant	magical merchant
-650	magical merchant	magical merchant	magical merchant	magical merchant
-651	magical merchant	magical merchant	magical merchant	magical merchant
-652	magical merchant	magical merchant	magical merchant	magical merchant
-653	magical merchant	magical merchant	magical merchant	magical merchant
-654	magical merchant	magical merchant	magical merchant	magical merchant
-655	magical merchant	magical merchant	magical merchant	magical merchant
-656	magical merchant	magical merchant	magical merchant	magical merchant
-657	Arid Golden Bowl	Arid Golden Bowl	Arid Golden Bowl	Arid Golden Bowl
-658	Bulkan Weapon	Bulkan Weapon	Bulkan Weapon	Bulkan Weapon
-659	Kairipton Weapon	Kairipton Weapon	Kairipton Weapon	Kairipton Weapon
-660	Human Weapon	Human Weapon	Human Weapon	Human Weapon
-661	Mastery Amor	Mastery Amor	Mastery Amor	Mastery Amor
-662	Aidia Weapon	Aidia Weapon	Aidia Weapon	Aidia Weapon
-663	Hybrider Weapon	Hybrider Weapon	Hybrider Weapon	Hybrider Weapon
-664	Accesory Merchant	Accesory Merchant	Accesory Merchant	Accesory Merchant
-665	magician Merchant	magician Merchant	magician Merchant	magician Merchant
-666	Bulkan Armor	Bulkan Armor	Bulkan Armor	Bulkan Armor
-667	Potter Truth Tranning	Potter Truth Tranning	Potter Truth Tranning	Potter Truth Tranning
-668	Poster legendary master	Poster legendary master	Poster legendary master	Poster legendary master
-669	Jewel Gambler Danny	Jewel Gambler Danny	Jewel Gambler Danny	Jewel Gambler Danny
-670	Jewel Gambler Janny	Jewel Gambler Janny	Jewel Gambler Janny	Jewel Gambler Janny
-671	Collector Carmiel	Collector Carmiel	Collector Carmiel	Collector Carmiel
-672	cake	cake	cake	cake
-673	cake	cake	cake	cake
-674	Event Old Man	Event Old Man	Event Old Man	Event Old Man
-675	Key Master Kirak	Key Master Kirak	Key Master Kirak	Key Master Kirak
-676	Scalper Cion	Scalper Cion	Scalper Cion	Scalper Cion
-677	Daughter	Daughter	Daughter	Daughter
-678	Jack O LanternA	Jack O LanternA	Jack O LanternA	Jack O LanternA
-679	Jack O LanternB	Jack O LanternB	Jack O LanternB	Jack O LanternB
-680	MC Silver	MC Silver	MC Silver	MC Silver
-681	Bunnygirl	Bunnygirl	Bunnygirl	Bunnygirl
-682	Christmas_Tree	Christmas_Tree	Christmas_Tree	Christmas_Tree
-683	Christmas_Tree	Christmas_Tree	Christmas_Tree	Christmas_Tree
-684	Sera of sentimental	Sera of sentimental	Sera of sentimental	Sera of sentimental
-685	Cru of Event Trade	Cru of Event Trade	Cru of Event Trade	Cru of Event Trade
-686	Caru of Event Trade	Caru of Event Trade	Caru of Event Trade	Caru of Event Trade
-687	Escape Scientist	Escape Scientist	Escape Scientist	Escape Scientist
-688	kurmon	kurmon	kurmon	kurmon
-689	Ebony Hasin	Ebony Hasin	Ebony Hasin	Ebony Hasin
-690	Corpse Ripper	Corpse Ripper	Corpse Ripper	Corpse Ripper
-691	Harden Valkr	Harden Valkr	Harden Valkr	Harden Valkr
-692	Pinch Valkr	Pinch Valkr	Pinch Valkr	Pinch Valkr
-693	Corrupted Beljereu	Corrupted Beljereu	Corrupted Beljereu	Corrupted Beljereu
-694	Ruddy Rexroid	Ruddy Rexroid	Ruddy Rexroid	Ruddy Rexroid
-695	Azure Viper	Azure Viper	Azure Viper	Azure Viper
-696	Vicious Witch	Vicious Witch	Vicious Witch	Vicious Witch
-697	Reptile Hyena	Reptile Hyena	Reptile Hyena	Reptile Hyena
-698	Might Golem	Might Golem	Might Golem	Might Golem
-699	Ruddy Viper	Ruddy Viper	Ruddy Viper	Ruddy Viper
-700	Tundra Breaker	Tundra Breaker	Tundra Breaker	Tundra Breaker
-701	Hammer Tail	Hammer Tail	Hammer Tail	Hammer Tail
-702	Azure Quetzalcoatl	Azure Quetzalcoatl	Azure Quetzalcoatl	Azure Quetzalcoatl
-703	Bone Spear	Bone Spear	Bone Spear	Bone Spear
-704	Demon Valkr	Demon Valkr	Demon Valkr	Demon Valkr
-705	Mojo Golem	Mojo Golem	Mojo Golem	Mojo Golem
-706	Ruddy Quetzalcoatl	Ruddy Quetzalcoatl	Ruddy Quetzalcoatl	Ruddy Quetzalcoatl
-707	Reptile Jaws	Reptile Jaws	Reptile Jaws	Reptile Jaws
-708	Tentacle Goggles	Tentacle Goggles	Tentacle Goggles	Tentacle Goggles
-709	Unicorn Goggles	Unicorn Goggles	Unicorn Goggles	Unicorn Goggles
-710	Cleaver Mutillator	Cleaver Mutillator	Cleaver Mutillator	Cleaver Mutillator
-711	Dual Slasher	Dual Slasher	Dual Slasher	Dual Slasher
-712	Behimos	Behimos	Behimos	Behimos
-713	Saith Serpent	Saith Serpent	Saith Serpent	Saith Serpent
-714	Slayer Goathead	Slayer Goathead	Slayer Goathead	Slayer Goathead
-715	Trample Puncher	Trample Puncher	Trample Puncher	Trample Puncher
-716	Cruel Nipper	Cruel Nipper	Cruel Nipper	Cruel Nipper
-717	Cerberos	Cerberos	Cerberos	Cerberos
-718	General Dealer Jenny	General Dealer Jenny	General Dealer Jenny	General Dealer Jenny
-719	Great Platonius	Great Platonius	Great Platonius	Great Platonius
-720	Scalper Cion	Scalper Cion	Scalper Cion	Scalper Cion
-721	blue Bunnygirl	blue Bunnygirl	blue Bunnygirl	blue Bunnygirl
-722	Str_Rinch	Str_Rinch	Str_Rinch	Str_Rinch
-723	Str_Punch	Str_Punch	Str_Punch	Str_Punch
-724	Str_Risk	Str_Risk	Str_Risk	Str_Risk
-725	Str_Volt Rinch	Str_Volt Rinch	Str_Volt Rinch	Str_Volt Rinch
-726	Str_Faivz	Str_Faivz	Str_Faivz	Str_Faivz
-727	Str_Descon Wolf	Str_Descon Wolf	Str_Descon Wolf	Str_Descon Wolf
-728	Str_King Anteater	Str_King Anteater	Str_King Anteater	Str_King Anteater
-729	Str_Kiold	Str_Kiold	Str_Kiold	Str_Kiold
-730	Str_Todd Kiold	Str_Todd Kiold	Str_Todd Kiold	Str_Todd Kiold
-731	Str_Specter	Str_Specter	Str_Specter	Str_Specter
-732	Str_Rain Spider	Str_Rain Spider	Str_Rain Spider	Str_Rain Spider
-733	Str_Bone Kiold	Str_Bone Kiold	Str_Bone Kiold	Str_Bone Kiold
-734	Str_Moloch	Str_Moloch	Str_Moloch	Str_Moloch
-735	Str_Hell Wing	Str_Hell Wing	Str_Hell Wing	Str_Hell Wing
-736	Str_Demiguard	Str_Demiguard	Str_Demiguard	Str_Demiguard
-737	Earth Dragon	Earth Dragon	Earth Dragon	Earth Dragon
-738	Sky Dragon	Sky Dragon	Sky Dragon	Sky Dragon
-739	Mother Dragon	Mother Dragon	Mother Dragon	Mother Dragon
-740	Ogre	Ogre	Ogre	Ogre
-741	Gold Gangster Shark	Gold Gangster Shark	Gold Gangster Shark	Gold Gangster Shark
-742	blue Bunnygirl	blue Bunnygirl	blue Bunnygirl	blue Bunnygirl
-743	Gejus	Gejus	Gejus	Gejus
-744	Crist	Crist	Crist	Crist
-745	Crist	Crist	Crist	Crist
-746	Anna	Anna	Anna	Anna
-747	Anna	Anna	Anna	Anna
-748	Anna	Anna	Anna	Anna
-749	Anna	Anna	Anna	Anna
-750	Anna	Anna	Anna	Anna
-751	Anna	Anna	Anna	Anna
-752	Bunnygirl	Bunnygirl	Bunnygirl	Bunnygirl
-753	Anna	Anna	Anna	Anna
-754	Anna	Anna	Anna	Anna
-755	Bulkan Weapon	Bulkan Weapon	Bulkan Weapon	Bulkan Weapon
-756	Bulkan Armor	Bulkan Armor	Bulkan Armor	Bulkan Armor
-757	Kailipton Weapon	Kailipton Weapon	Kailipton Weapon	Kailipton Weapon
-758	Kailipton Armor	Kailipton Armor	Kailipton Armor	Kailipton Armor
-759	Human Weapon	Human Weapon	Human Weapon	Human Weapon
-760	Human Armor	Human Armor	Human Armor	Human Armor
-761	Aidia Weapon	Aidia Weapon	Aidia Weapon	Aidia Weapon
-762	Aidia Armor	Aidia Armor	Aidia Armor	Aidia Armor
-763	White Rabbit Gang	White Rabbit Gang	White Rabbit Gang	White Rabbit Gang
-764	Spot Rabbit Gang	Spot Rabbit Gang	Spot Rabbit Gang	Spot Rabbit Gang
-765	Gold Rabbit Gang	Gold Rabbit Gang	Gold Rabbit Gang	Gold Rabbit Gang
-766	LuneYear Guide	LuneYear Guide	LuneYear Guide	LuneYear Guide
-767	Agent Kain	Agent Kain	Agent Kain	Agent Kain
-768	Folornruin merchant	Folornruin merchant	Folornruin merchant	Folornruin merchant
-769	General Store Roony	General Store Roony	General Store Roony	General Store Roony
-770	adventurer guide	adventurer guide	adventurer guide	adventurer guide
-771	R2T2	R2T2	R2T2	R2T2
-772	Zakra	Zakra	Zakra	Zakra
-773	Gigant Drawing	Gigant Drawing	Gigant Drawing	Gigant Drawing
-774	Gigant Artilary	Gigant Artilary	Gigant Artilary	Gigant Artilary
-775	Iron Widow	Iron Widow	Iron Widow	Iron Widow
-776	extract NPC	extract NPC	extract NPC	extract NPC
-777	Device F	Device F	Device F	Device F
-778	Arbor Day_Tree	Arbor Day_Tree	Arbor Day_Tree	Arbor Day_Tree
-779	MagicStone Dealer	MagicStone Dealer	MagicStone Dealer	MagicStone Dealer
-780	Bunnygirl	Bunnygirl	Bunnygirl	Bunnygirl
-781	Machine Dealer	Machine Dealer	Machine Dealer	Machine Dealer
-790	Perom Weapon	Perom Weapon	Perom Weapon	Perom Weapon
-791	Perom Armor	Perom Armor	Perom Armor	Perom Armor
-792	Tantalos	Tantalos	Tantalos	Tantalos
-793	Head Dragon	Head Dragon	Head Dragon	Head Dragon
-794	Iron Dragon	Iron Dragon	Iron Dragon	Iron Dragon
-795	Earth Dragon	Earth Dragon	Earth Dragon	Earth Dragon
-796	Sky Dragon	Sky Dragon	Sky Dragon	Sky Dragon
-797	Mother Dragon	Mother Dragon	Mother Dragon	Mother Dragon
-798	Bat Dragon	Bat Dragon	Bat Dragon	Bat Dragon
-799	Happy Sneak	Happy Sneak	Happy Sneak	Happy Sneak
-800	Happy DIno	Happy DIno	Happy DIno	Happy DIno
-801	blue Bunnygirl	blue Bunnygirl	blue Bunnygirl	blue Bunnygirl
-802	Luna Shark	Luna Shark	Luna Shark	Luna Shark
-803	Happy Sneak	Happy Sneak	Happy Sneak	Happy Sneak
-805	Alpaca Pet Helper	Alpaca Pet Helper	Alpaca Pet Helper	Alpaca Pet Helper
-806	Gods Arms Merchant	Gods Arms Merchant	Gods Arms Merchant	Gods Arms Merchant
-807	New Secondary Weapons Merchant	New Secondary Weapons Merchant	New Secondary Weapons Merchant	New Secondary Weapons Merchant
-808	Bulkan New Armor Merchant	Bulkan New Armor Merchant	Bulkan New Armor Merchant	Bulkan New Armor Merchant
-809	Kailipton New Armor Merchant	Kailipton New Armor Merchant	Kailipton New Armor Merchant	Kailipton New Armor Merchant
-810	Human New Armor Merchant	Human New Armor Merchant	Human New Armor Merchant	Human New Armor Merchant
-811	Aidia New Armor Merchant	Aidia New Armor Merchant	Aidia New Armor Merchant	Aidia New Armor Merchant
-812	Hibrider New Armor Merchant	Hibrider New Armor Merchant	Hibrider New Armor Merchant	Hibrider New Armor Merchant
-813	Perom New Armor Merchant	Perom New Armor Merchant	Perom New Armor Merchant	Perom New Armor Merchant
-814	Haberdasher	Haberdasher	Haberdasher	Haberdasher
-815	Moke	Moke	Moke	Moke
-816	Raptoroid	Raptoroid	Raptoroid	Raptoroid
-817	White Tiger	White Tiger	White Tiger	White Tiger
-818	Ice Harper	Ice Harper	Ice Harper	Ice Harper
-819	Yeti	Yeti	Yeti	Yeti
-820	Bone Master	Bone Master	Bone Master	Bone Master
-821	Str_Parkikepaloid	Str_Parkikepaloid	Str_Parkikepaloid	Str_Parkikepaloid
-822	New_Hell Cobra	New_Hell Cobra	New_Hell Cobra	New_Hell Cobra
-823	Str_Kiold	Str_Kiold	Str_Kiold	Str_Kiold
-824	Str_Hammer Kabal	Str_Hammer Kabal	Str_Hammer Kabal	Str_Hammer Kabal
-825	Str_Raven Mage	Str_Raven Mage	Str_Raven Mage	Str_Raven Mage
-826	kurmon	kurmon	kurmon	kurmon
-827	R2T2	R2T2	R2T2	R2T2
-828	Magic Shopkeeper	Magic Shopkeeper	Magic Shopkeeper	Magic Shopkeeper
-831	Archeologist	Archeologist	Archeologist	Archeologist
-832	Archeologist	Archeologist	Archeologist	Archeologist
-834	Jack O LanternA	Jack O LanternA	Jack O LanternA	Jack O LanternA
-835	Jack O LanternA	Jack O LanternA	Jack O LanternA	Jack O LanternA
-836	Jack O LanternB	Jack O LanternB	Jack O LanternB	Jack O LanternB
-837	Jack O LanternB	Jack O LanternB	Jack O LanternB	Jack O LanternB
-838	Oniam	Oniam	Oniam	Oniam
-839	Mad Cyborg	Mad Cyborg	Mad Cyborg	Mad Cyborg
-840	Dark Soul	Dark Soul	Dark Soul	Dark Soul
-841	Rexroid	Rexroid	Rexroid	Rexroid
-842	Ice Collector	Ice Collector	Ice Collector	Ice Collector
-843	Ice Risk	Ice Risk	Ice Risk	Ice Risk
-844	Hail Wizard	Hail Wizard	Hail Wizard	Hail Wizard
-845	Garpon Guardman	Garpon Guardman	Garpon Guardman	Garpon Guardman
-846	Faivz	Faivz	Faivz	Faivz
-847	Devil Hood	Devil Hood	Devil Hood	Devil Hood
-848	Str_Uokepaloid	Str_Uokepaloid	Str_Uokepaloid	Str_Uokepaloid
-849	Str_Iron Earthkite	Str_Iron Earthkite	Str_Iron Earthkite	Str_Iron Earthkite
-850	Gremlin	Gremlin	Gremlin	Gremlin
-851	Clay Spector	Clay Spector	Clay Spector	Clay Spector
-852	Str_Risk	Str_Risk	Str_Risk	Str_Risk
-853	Str_Moloch	Str_Moloch	Str_Moloch	Str_Moloch
-854	Str_Master Kabal	Str_Master Kabal	Str_Master Kabal	Str_Master Kabal
-855	Str_Kagol	Str_Kagol	Str_Kagol	Str_Kagol
-856	Str_Garpon Soldier	Str_Garpon Soldier	Str_Garpon Soldier	Str_Garpon Soldier
-857	Str_Iron Dragon	Str_Iron Dragon	Str_Iron Dragon	Str_Iron Dragon
-858	Azure Viper	Azure Viper	Azure Viper	Azure Viper
-859	Hammer Tail	Hammer Tail	Hammer Tail	Hammer Tail
-860	Might Golem	Might Golem	Might Golem	Might Golem
-861	Zakra	Zakra	Zakra	Zakra
-862	Caru of Event Trade	Caru of Event Trade	Caru of Event Trade	Caru of Event Trade
-863	Mad Online Event	Mad Online Event	Mad Online Event	Mad Online Event
-864	13th Anniversary Balloon	13th Anniversary Balloon	13th Anniversary Balloon	13th Anniversary Balloon
-865	Npc Buffs Items	Npc Buffs Items	Npc Buffs Items	Npc Buffs Items
-866	Siege Master Cartesian	Siege Master Cartesian	Siege Master Cartesian	Siege Master Cartesian
-867	In Suhotap	In Suhotap	In Suhotap	In Suhotap
-868	Haim Suhotap	Haim Suhotap	Haim Suhotap	Haim Suhotap
-869	Cartesian Stone Statues	Cartesian Stone Statues	Cartesian Stone Statues	Cartesian Stone Statues
-870	Battle League coupon NPC	Battle League coupon NPC	Battle League coupon NPC	Battle League coupon NPC
-871	Entrance	Entrance	Entrance	Entrance
-872	Goblin	Goblin	Goblin	Goblin
-873	Oak	Oak	Oak	Oak
-874	Skeletal Renton	Skeletal Renton	Skeletal Renton	Skeletal Renton
-875	Kentawooreuseu	Kentawooreuseu	Kentawooreuseu	Kentawooreuseu
-876	14th Anniversary Event NPC	14th Anniversary Event NPC	14th Anniversary Event NPC	14th Anniversary Event NPC
-877	Contaminated Ray Pensacola	Contaminated Ray Pensacola	Contaminated Ray Pensacola	Contaminated Ray Pensacola
-878	Contaminated Mother Dragon	Contaminated Mother Dragon	Contaminated Mother Dragon	Contaminated Mother Dragon
-879	Stone Golem	Stone Golem	Stone Golem	Stone Golem
-5000	LC Compra	LC Compra	LC Compra	LC Compra
-5001	[BOSS] Luna shark	[BOSS] Luna shark	[BOSS] Luna shark	[BOSS] Luna shark
-5002	[BOSS] Kiold	[BOSS] Kiold	[BOSS] Kiold	[BOSS] Kiold
-5003	[LHGN] Raven Mage	[LHGN] Raven Mage	[LHGN] Raven Mage	[LHGN] Raven Mage
-5004	[LHGN] Kurmon	[LHGN] Kurmon	[LHGN] Kurmon	[LHGN] Kurmon
-5005	[LHGN] R2T2	[LHGN] R2T2	[LHGN] R2T2	[LHGN] R2T2
-5006	[LHGN] Mad Cyborg	[LHGN] Mad Cyborg	[LHGN] Mad Cyborg	[LHGN] Mad Cyborg
-5007	[LHGN] Dark Soul	[LHGN] Dark Soul	[LHGN] Dark Soul	[LHGN] Dark Soul
-5008	[LHGN] Ice Collector	[LHGN] Ice Collector	[LHGN] Ice Collector	[LHGN] Ice Collector
-5009	[LHGN] Ice Risk	[LHGN] Ice Risk	[LHGN] Ice Risk	[LHGN] Ice Risk
-5010	[LHGN] Hail Wizard	[LHGN] Hail Wizard	[LHGN] Hail Wizard	[LHGN] Hail Wizard
-5011	[LHGN] Garpon Guardman	[LHGN] Garpon Guardman	[LHGN] Garpon Guardman	[LHGN] Garpon Guardman
-5012	[LHGN] Faivz	[LHGN] Faivz	[LHGN] Faivz	[LHGN] Faivz
-5013	[BOSS] Uokepaloid	[BOSS] Uokepaloid	[BOSS] Uokepaloid	[BOSS] Uokepaloid
-5014	[BOSS] Kagol	[BOSS] Kagol	[BOSS] Kagol	[BOSS] Kagol
-5015	[BOSS] Garpon Soldier	[BOSS] Garpon Soldier	[BOSS] Garpon Soldier	[BOSS] Garpon Soldier
-5016	[BOSS] Iron Dragon	[BOSS] Iron Dragon	[BOSS] Iron Dragon	[BOSS] Iron Dragon
-5017	Bullion Exchange	Bullion Exchange	Bullion Exchange	Bullion Exchange
-5033	[S4] Khan	[S4] Khan	[S4] Khan	[S4] Khan
-5034	[S4] Extremely Drarion	[S4] Extremely Drarion	[S4] Extremely Drarion	[S4] Extremely Drarion
-5035	[S4] Kisare	[S4] Kisare	[S4] Kisare	[S4] Kisare
-5036	[S4] Sicrin	[S4] Sicrin	[S4] Sicrin	[S4] Sicrin
-5037	[S4] Sharklord	[S4] Sharklord	[S4] Sharklord	[S4] Sharklord
-5038	[S4] Beradin	[S4] Beradin	[S4] Beradin	[S4] Beradin
-5039	[S4] Brute	[S4] Brute	[S4] Brute	[S4] Brute
-5040	[S4] Lion Cutter	[S4] Lion Cutter	[S4] Lion Cutter	[S4] Lion Cutter
-5041	[S4] Guardian	[S4] Guardian	[S4] Guardian	[S4] Guardian
-5042	[S4] Areglse	[S4] Areglse	[S4] Areglse	[S4] Areglse
-5043	[S4] Devil Lord	[S4] Devil Lord	[S4] Devil Lord	[S4] Devil Lord
-5044	[BOSS S4] Bone Kiold	[BOSS S4] Bone Kiold	[BOSS S4] Bone Kiold	[BOSS S4] Bone Kiold
-5045	[BOSS S4] LagKnock	[BOSS S4] LagKnock	[BOSS S4] LagKnock	[BOSS S4] LagKnock
-5046	[BOSS S4] Oak	[BOSS S4] Oak	[BOSS S4] Oak	[BOSS S4] Oak
-5047	[BOSS S4] Skeletal Renton	[BOSS S4] Skeletal Renton	[BOSS S4] Skeletal Renton	[BOSS S4] Skeletal Renton
-5048	[BOSS S4] Kentawooreuseu	[BOSS S4] Kentawooreuseu	[BOSS S4] Kentawooreuseu	[BOSS S4] Kentawooreuseu
-5049	Elite Tantalos	Elite Tantalos	Elite Tantalos	Elite Tantalos
-5050	[Event] Raptoroid	[Event] Raptoroid	[Event] Raptoroid	[Event] Raptoroid
-5051	[Event] Striker Khan	[Event] Striker Khan	[Event] Striker Khan	[Event] Striker Khan
-5052	[Event] Yeti	[Event] Yeti	[Event] Yeti	[Event] Yeti
-5053	[Event] Ice Risk	[Event] Ice Risk	[Event] Ice Risk	[Event] Ice Risk
-5054	[Event] Exspear Genter	[Event] Exspear Genter	[Event] Exspear Genter	[Event] Exspear Genter
-5055	[Event] Ray Pensacola	[Event] Ray Pensacola	[Event] Ray Pensacola	[Event] Ray Pensacola
-5056	[Event] Oak	[Event] Oak	[Event] Oak	[Event] Oak
-5057	[Event] Neo Khan	[Event] Neo Khan	[Event] Neo Khan	[Event] Neo Khan
-5058	[Event] Clay Spector	[Event] Clay Spector	[Event] Clay Spector	[Event] Clay Spector
-5059	[Event] Azure Viper	[Event] Azure Viper	[Event] Azure Viper	[Event] Azure Viper
-5060	[Event] R2T2	[Event] R2T2	[Event] R2T2	[Event] R2T2
-5061	[Event] Zakra	[Event] Zakra	[Event] Zakra	[Event] Zakra
-5062	[Event] Ruddy Quetzalcoatl	[Event] Ruddy Quetzalcoatl	[Event] Ruddy Quetzalcoatl	[Event] Ruddy Quetzalcoatl
-5063	[Event] Cerberos	[Event] Cerberos	[Event] Cerberos	[Event] Cerberos
-5064	[Event] Ice Collector	[Event] Ice Collector	[Event] Ice Collector	[Event] Ice Collector
-5065	[Event] Garpon Guardman	[Event] Garpon Guardman	[Event] Garpon Guardman	[Event] Garpon Guardman
-5066	[Event] Sicrin	[Event] Sicrin	[Event] Sicrin	[Event] Sicrin
-5067	[Event] Lion Cutter	[Event] Lion Cutter	[Event] Lion Cutter	[Event] Lion Cutter
-5069	[Event Boss] Iron Widow	[Event Boss] Iron Widow	[Event Boss] Iron Widow	[Event Boss] Iron Widow
-5070	[Event Boss] Artilary	[Event Boss] Artilary	[Event Boss] Artilary	[Event Boss] Artilary
-5071	[Event Boss] Dragon	[Event Boss] Dragon	[Event Boss] Dragon	[Event Boss] Dragon
-5072	[Event Boss] Zakra	[Event Boss] Zakra	[Event Boss] Zakra	[Event Boss] Zakra
-5073	Elite Saith Serpent	Elite Saith Serpent	Elite Saith Serpent	Elite Saith Serpent
-5074	[LHGN] Grem	[LHGN] Grem	[LHGN] Grem	[LHGN] Grem
-5075	[LHGN] Skeleton Captain	[LHGN] Skeleton Captain	[LHGN] Skeleton Captain	[LHGN] Skeleton Captain
-5076	[LHGN] Skeleton Soldier	[LHGN] Skeleton Soldier	[LHGN] Skeleton Soldier	[LHGN] Skeleton Soldier
-5077	[LHGN] Skeleton Wizard	[LHGN] Skeleton Wizard	[LHGN] Skeleton Wizard	[LHGN] Skeleton Wizard
-5082	Dupe Rack Harpoon	Dupe Rack Harpoon	Dupe Rack Harpoon	Dupe Rack Harpoon
+23	狼
+24	白老虎
+25	拉达怪
+26	地狱眼镜蛇
+31	血腥戴诺怪
+37	独眼怪
+38	兵人
+39	莫克猴
+40	格伦怪
+41	普罗巨人
+46	Bar Madam
+47	Sand Fairy
+48	雷电怪
+50	Monster
+51	机械商店主人
+52	耶蒂亚武器库老板
+53	耶蒂亚魔法商人
+54	格兰林怪
+55	漂亮姊姊
+56	武器商人
+57	警备队长
+58	僵尸
+59	骷髅队长
+60	骷髅士兵
+61	骷髅法师
+62	犀角魔王
+63	德拉里恩魔
+64	商人
+65	人类器械商人
+66	人类酒馆大姊
+67	人类拉比龙研究员
+68	人类铁匠
+69	人类魔法商人
+70	布坎武器库主
+71	布坎铁匠
+72	布坎小可爱
+73	凯利顿装备商人
+74	酒吧女郎
+75	凯利顿武器商人
+76	白金制作解说员
+77	[史诗] 赫布拉松虫
+78	[史诗] 布拉松虫
+79	[史诗] 斧头卡巴
+80	[史诗] 蒺藜手卡巴
+81	[史诗] 大刀卡巴
+82	[史诗] 铁球卡巴
+83	[史诗] 铁锤卡巴
+84	[史诗] 地狱剪卡巴
+85	[史诗] 三叉戟哈波
+86	[史诗] 碟锯手哈波
+87	[史诗] 铁钳哈波
+88	[史诗] 都普勒哈芬
+89	[史诗] 铁甲虫
+90	打铁匠
+91	机械商人
+92	酒店老板娘
+93	医生叔叔
+94	魔法商人
+95	旅行商人
+96	通用商人
+97	盔甲鼠
+98	甲蟹
+99	毒甲蟹	毒甲蟹	毒蟹	Poison Crab
+100	海蝎
+101	毒蝎
+102	克梅罗怪
+104	黑暗士兵
+105	恶魔巨人
+106	战斗巨人
+107	暴走生化人
+108	铁球卡巴
+109	暴走生化人
+110	战戟哈波
+111	德拉里恩魔
+112	德拉里恩魔
+113	怪兽老公公
+114	恶鼻圣诞老人(1)
+115	恶鼻圣诞老人(2)
+116	Nose Santa
+117	警备所长
+119	斧手豺狼
+120	利爪豺狼
+121	康特
+122	乌尔班
+123	康玛
+124	利刃肯恩
+125	黑暗幽魂
+126	镰刀肯恩
+127	骷髅战士
+128	悲伤阴影
+130	骷髅狂战士
+131	嗜血豺狼(过时）
+132	康德拉
+133	肯恩
+135	夏隆城主
+136	夏隆守门人
+137	夏隆法师
+138	泰勒靡司
+139	艾香班德勒
+140	魔法商人
+141	旅行商人
+142	夏隆剑士
+143	夏隆长矛兵
+144	夏隆剑士
+145	夏隆长矛兵
+146	夏隆法师
+147	提拉龙
+148	犄角龙
+149	优普洛巴龙
+150	雷特龙
+151	罪骨龙
+152	卡马龙
+153	开膛蜥蜴人
+154	恐怖蜥蜴人
+155	托雷斯
+156	米诺特
+157	巨斧蜥蜴人
+158	绍伦
+159	陶伦
+160	霸王龙
+161	羊
+162	夏隆剑士
+163	夏隆长矛兵
+164	夏隆法师
+166	凯德林
+167	希斯曼
+168	Tumbling Chimpanzee
+169	主持人
+170	Guard Tower
+171	Goalkeeper Khan
+172	Striker Khan
+173	球
+175	特拉盖兹
+176	发型设计师
+177	怪物攻击力控制器
+178	怪物防御力控制器
+179	土造火焰炮塔
+180	石造火焰炮塔
+181	钢造火焰炮塔
+182	土造电击炮塔
+183	石造电击炮塔
+184	钢造电击炮塔
+185	土造投石炮塔
+186	石造投石炮塔
+187	钢造投石炮塔
+188	宠物蛋商人
+189	兽医师
+190	训练助教
+191	组合商人
+192	Shilon Dungeon 1
+193	巨嘴虫
+194	闪光豺狼
+195	岩浆巨拳怪
+196	喷吐虫
+197	震击林基兽
+198	落石
+199	尖针
+201	Shilon Dungeon 9
+202	投掷怪
+203	熔岩巨拳怪
+204	喷射林基兽
+205	熔岩蜥蜴
+206	安特罗斯怪
+207	巨安特罗斯怪
+208	恶魔之王
+209	恐怖骑士
+210	恐怖武士
+211	团体战管理员
+212	召唤克梅罗怪
+213	召唤恶魔巨人
+214	召唤斧手豺狼
+215	召唤悲伤阴影
+216	召唤德拉里恩魔
+217	达司克狼
+218	小型地雷
+219	夜魔莉莉丝
+220	飞首龙
+221	铁甲龙
+222	大地之龙
+223	天空之龙
+224	红龙
+225	召唤白老虎
+226	忏悔的盔甲鼠
+227	监狱肯恩
+228	巨克梅罗怪
+229	巨王普罗人
+230	巨王战斗人
+231	蓝鱼
+232	黄鱼
+233	红虹
+234	蓝虹
+235	海豚
+236	鲨鱼
+237	乌龟
+238	派罗司杂货商人
+239	派罗司武器商人
+240	派罗司弹丸商人
+241	派罗司魔法商人
+242	派罗司药水商人
+243	水母
+244	夜灵卡洛丝
+245	蝙蝠龙
+247	夜精灵海莉斯
+249	飞行恶魔之王
+250	阴影铁甲龙
+251	渔夫
+252	水虎鱼
+253	征服者卡巴
+254	守卫者哈波
+255	事件老爷爷
+256	召唤艾伦
+257	史学家贝里恩
+258	突变投掷怪
+259	突变林基怪
+260	突变蜥蜴
+261	突变巨拳怪
+262	突变安特罗斯怪
+263	突变武士
+264	愤怒铁甲龙
+265	愤怒大地之龙
+266	儿子
+267	爸爸
+268	妈妈
+269	女儿
+272	麦翠斯死者之塔
+273	麦翠斯杂货商人
+274	麦翠斯武器商人
+275	麦翠斯弹药商人
+276	麦翠斯魔法商人
+277	麦翠斯召唤商人
+278	巨大猛禽
+279	镰刀猛禽
+280	希罗斯特守护者
+281	灵之猛禽
+284	恶鲨鱼
+285	恶狼飞怪
+286	电流剑士
+287	斧头飞怪
+288	咒巫飞怪
+289	风暴剑士
+290	鬼怪
+291	战龙
+292	狼龙
+293	凯德林
+294	绝冬夜魔
+295	冰封者
+296	破冰兽人
+297	仇恨巫师
+298	冰雪哈波
+299	冒险者之魂
+300	普罗狂热者
+301	雪猫
+302	冰雪瑞斯克
+303	失落之域堡公会管理员
+304	可爱的袜怪
+305	雪人
+306	水晶锋刃塔
+307	外城门
+308	东北外城门
+309	西南外城门
+310	东南外城门
+311	内城门
+312	东北内城门
+313	西南内城门
+314	东南内城门
+315	猴子
+316	冰雪钻子
+317	老爷爷
+318	老婆婆
+319	冰雪守门人
+320	摩登女郎
+321	兔女郎
+322	小兔女郎
+323	植树节之树
+324	魔神达欧
+325	召唤悲伤阴影
+326	水晶锋刃塔
+327	水晶守护塔
+328	水晶守护塔
+329	水晶守护塔
+330	白金制作解说员
+331	兵人指挥官
+333	突变红龙
+334	黑暗幽魂王
+335	水晶锋刃塔
+336	团体战管理员
+337	突变骷髅队长
+338	突变骷髅战士
+339	突变犀角魔王
+340	突变德拉里恩魔
+341	突变优普洛巴龙
+342	突变罪骨龙
+343	突变霸王龙
+344	突变飞首龙
+345	突变铁甲龙
+346	突变破冰兽人
+347	突变暴走生化人
+348	突变肯恩
+349	突变德拉里恩魔
+350	突变仇恨巫师
+351	圣诞老公公
+352	穆尔
+353	克萨雷
+354	史克林
+355	惊惧兽
+356	玻瑞蒂
+357	加勒芬亲卫兵
+358	加勒芬长矛兵
+359	加勒芬长枪兵
+360	冰封守护塔
+361	雷击守护塔
+362	极冻雪人
+363	雪人
+364	加勒芬士兵
+367	颤抖石
+368	生命石
+369	召唤绝冬夜魔
+370	Tiger Bunny
+371	Hawk G Crystal
+372	Rain Crystal
+373	S Earth Crystal
+374	Laghaim GP
+375	Matrix GP Stone
+376	Moebius GP
+377	Hawk Gate Stone
+378	Rain Gate Stone
+379	Shiver Gate
+380	安娜
+381	告密者
+382	种子
+383	Dungeon Scout
+384	人类特派员
+385	魔眼兽
+386	魔眼兽王
+387	白骨魔眼兽
+388	兽人
+389	赤鬃兽人
+390	地鸢
+391	铁地鸢
+392	白骨行者
+393	白骨巫师
+394	白骨斧怪
+395	弯刀沙怪
+396	狼牙棒沙怪
+397	生化恶兽
+398	巨斧沙怪
+399	铁拳沙怪
+400	巨锤沙怪
+401	蜘蛛
+402	变种蜘蛛
+403	古鲁蒙
+404	克雷监视者
+405	装甲恶魔之王
+406	异种恶魔之王
+407	轻装恶魔战士
+408	恶灵巴卡黎
+409	皮特罗斯怪
+410	凡尔莎
+411	安提特
+412	法布兹
+413	异种狮兽
+414	狂暴守门怪
+415	恶灵巨人
+416	德伦特
+417	监视者
+418	小狂暴守门怪
+419	恶灵巨人守卫
+420	召唤忘忧草
+421	召唤剑兰
+422	召唤风信子
+423	召唤蒲公英
+424	召唤孢子
+425	杂货商人
+426	强化商人
+427	铁匠商人
+428	铁匠商人
+429	铁匠商人
+430	旋转陷阱
+431	刀片陷阱
+432	喷火陷阱
+433	岩石陷阱
+434	地板陷阱
+435	大刺
+436	恶魔
+437	尖角恶魔
+438	恶魔皇后
+439	大刺
+440	植物王
+441	代售商品女郎
+442	拜尔
+443	尖角拜尔
+444	money-monster
+445	Lion Monster
+446	Sneak
+447	Yu Kwan Sun
+448	Convoy
+449	Convoy
+450	人类侦察兵
+451	逃亡的破灭娃娃
+452	地下监狱
+453	球形怪物
+454	soccer Girl
+455	Monster ball
+456	足球
+462	G-Gangster Shark
+463	蛋糕
+464	拉格洛克
+465	铁门
+466	石门
+467	石铁门
+468	宝物箱
+469	铁鹰人
+470	Kagol
+471	圣诞兔女郎
+472	麋鹿
+473	圣诞树
+474	守护者
+475	蜥蜴神
+476	恶魔领主
+477	斯托巨像
+478	双头食人魔
+479	巨型雪人
+480	公会管理员
+481	红毛猴
+483	麦翠斯凯利顿商人
+484	麦翠斯人类商人
+486	麦翠斯耶蒂亚商人
+487	麦翠斯布砍商人
+488	麦翠斯海帕德商人
+489	麦翠斯B.P商人
+490	公会
+491	狩猎队长
+492	团体战战场门口（侧）
+493	团体战战场门口（中央）
+496	邪恶魔神达欧
+497	水晶
+498	移动门 (墓地)
+499	移动门 (绿色山丘)
+500	移动门 (废墟都市)
+501	移动门 (污染地带)
+502	移动门 (玛格利亚神殿)
+503	流动商人巴德斯
+504	铁门
+505	旗帜
+506	移动门管理员
+507	水晶祭坛
+509	Pocket Papa
+510	团战管理员
+511	狂战士
+512	坦塔罗斯
+513	死亡骑士
+514	掠夺者范德
+515	铁锤蟹怪
+516	食人魔机器
+517	蛇面巫师
+518	德鲁伊牛头人
+519	培摩斯绿树人
+520	巨妖
+521	追随者
+522	牛头狮身兽
+523	灵魂国王
+524	灵魂骑士
+525	廉刀巫师
+526	德雷克
+527	图兰雷特龙
+528	图兰犄角龙
+529	图兰优普洛巴龙
+530	图兰铁拳沙怪
+531	图兰斧头卡巴
+532	图兰铁球卡巴
+533	图兰巨锤沙怪
+534	图兰大刀卡巴
+535	图兰铁地鸢
+536	库伊喷吐虫
+537	库伊暴走生化人
+538	库伊大刀卡巴
+539	库伊斧头卡巴
+540	库伊铁锤卡巴
+541	库伊铁球卡巴
+542	库伊黑暗幽魂
+543	库伊巨嘴虫
+544	库伊Kagol
+545	库伊兵人
+546	怯懦管理人
+548	库伊城管理人
+549	贝尔格里德雪人
+550	贝尔格里德极冻雪人
+551	贝尔格里德加勒芬长矛兵
+552	贝尔格里德加勒芬士兵
+553	贝尔格里德加勒芬长枪兵
+554	贝尔格里德加勒芬亲卫兵
+555	贝尔格里德史克林
+556	贝尔格里德惊惧兽
+557	贝尔格里德玻瑞蒂
+558	贝尔格里德夜魔莉莉丝
+559	贝尔格里德熔岩巨拳怪
+560	贝尔格里德铁甲龙
+561	贝尔格里德巨安特罗斯怪
+562	贝尔格里德恐怖武士
+563	贝尔格里德克萨雷
+565	巴卡利亚地狱眼镜蛇
+566	巴卡利亚莫克猴
+567	巴卡利亚格兰林怪
+568	巴卡利亚喷射林基兽
+569	巴卡利亚熔岩巨拳怪
+570	巴卡利亚熔岩蜥蜴
+571	巴卡利亚震击林基怪
+572	巴卡利亚安特罗斯怪
+573	巴卡利亚皮特罗斯怪
+574	巴卡利亚法布兹
+575	巴卡利亚异种狮兽
+576	巴卡利亚赤鬃兽人
+577	巴卡利亚变种蜘蛛
+578	巴卡利亚克雷监视者
+579	巴卡利亚白骨魔眼兽
+580	Soul_King
+581	Soul_knight
+582	Lamia
+583	巴卡利亚恶灵巨人
+584	巴卡利亚巨大猛禽
+585	巴卡利亚灵之猛禽
+586	巴卡利亚格伦怪
+587	巴沙突变喷射林基兽
+588	巴沙突变熔岩巨拳怪
+589	巴沙突变熔岩蜥蜴
+590	巴沙突变震击林基怪
+591	巴沙突变法布兹
+592	巴沙突变达司克狼
+593	巴沙突变安提特
+594	巴沙突变魔眼兽
+595	巴沙突变魔眼兽王
+596	巴沙突变克雷监视者
+597	巴沙突变变种蜘蛛
+598	巴沙突变白骨魔眼兽
+599	巴沙突变蜥蜴神
+600	巴沙突变鬼怪
+601	巴沙突变狂暴守门怪
+602	玛丽亚珠宝交换
+603	马步登大门
+604	大学者福莱特尼斯
+605	收藏家凯里斯坦
+606	Mr.Viragetor
+607	考古学家别路里安
+608	Mr Big Jack
+609	隐士
+610	幸福的婚礼蛋糕
+612	生化恶兽
+613	英雄雕像
+614	Relief Marbo
+615	tester merchant
+617	Guardian of andlangr
+618	Areglse of Andlangr
+619	Devil Lord of Andlangr
+620	Bone Kiold of Andlangr
+621	LegKnock of Andlangr
+622	Lion Cutter of Andlangr
+623	堂德玛水晶
+624	安格玛水晶
+625	East GP Stone
+626	Mimir GP Stone
+627	West GP Stone
+628	Andlangr north G.Stone
+629	Tundmar South G.Stone
+630	Mimir G.Stone
+631	Angmar north G.Stone
+632	Andlangr south G.Stone
+633	通用防具商人
+634	布坎防具商人
+635	凯利顿防具商人
+636	人类防具商人
+637	耶蒂亚防具商人
+638	海柏德防具商人
+639	堂德玛弹药商人
+640	堂德玛魔法商人
+641	堂德玛药剂商人
+642	安格玛弹药商人
+643	安格玛魔法商人
+644	安格玛药水商人
+645	马克达克首领
+646	Gold Gangster Shark
+647	Gold Gangster Shark
+648	凶残的德雷克
+649	布坎商店
+650	凯利顿商店
+651	人类商店
+652	耶蒂亚商店
+653	海帕德商店
+654	饰品商人
+655	个人产品供应
+656	副武器店
+657	Arid Golden Bowl
+658	布坎武器商人
+659	凯利顿武器商人
+660	人类武器商人
+661	防具商人
+662	耶利亚武器商人
+663	海帕德武器商人
+664	饰品商人
+665	魔法商人
+666	布坎装备商人
+667	训练者波特
+668	传奇大师
+669	赌徒丹尼(宝石赌博)
+670	赌徒詹妮(宝石兑换）
+671	收藏家
+672	08周年纪念蛋糕
+673	07周年纪念蛋糕
+674	事件老人
+675	Key Master Kirak
+676	Scalper Cion
+677	女儿
+678	黄南瓜头怪
+679	绿南瓜头怪
+680	MC Silver
+681	兔女郎
+682	寂寞的树
+683	华丽的圣诞树
+684	Tender Sera
+685	Trader Kru
+686	Ceru (E交易)
+687	逃难的科学者
+688	废墟S1古鲁蒙
+689	Ebony Hasin
+690	Corpse Ripper
+691	Harden Valkr
+692	Pinch Valkr
+693	Corrupted Beljereu
+694	废墟S1霸王龙
+695	废墟S1拜尔
+696	Vicious Witch
+697	废墟S1达司克狼
+698	废墟S2绿巨人
+699	废墟S1恶魔
+700	Tundra Breaker
+701	废墟S1优普洛巴龙
+702	Azure Quetzalcoatl
+703	Bone Spear
+704	Demon Valkr
+705	Mojo Golem
+706	Ruddy Quetzalcoatl
+707	废墟S1提拉龙
+708	Tentacle Goggles
+709	Unicorn Goggles
+710	Cleaver Mutillator
+711	Dual Slasher
+712	Sweeper Hugerock
+713	废墟看守
+714	Slayer Goathead
+715	残暴的食人魔机器
+716	残暴的铁钳蟹怪
+717	Cerberos
+718	General Dealer Jenny
+719	Great Platonius
+720	Scalper Cion
+721	blue Bunnygirl
+722	Extreme Rinch
+723	Extreme Punch
+724	Extreme Risk
+725	Extreme Volt Rinch
+726	Extreme Faivz
+727	Extreme Descon Wolf
+728	Extreme King Anteater
+729	Extreme Kiold
+730	Extreme Todd Kiold
+731	Extreme Specter
+732	Extreme Rain Spider
+733	Extreme Bone Kiold
+734	Extreme Moloch
+735	Extreme Hell Wing
+736	Extreme Demiguard
+737	S2大地之龙
+738	S2天空之龙
+739	S2红龙
+740	食人魔
+741	Gold Gangster Shark
+742	blue Bunnygirl
+743	Gejus
+744	Crist
+745	Crist
+746	LP 装备商人
+747	LP 武器商人
+748	LP服设店1
+749	LP供应店
+750	LP Pet Shop
+751	LP武器店2
+752	Bless BunnyGirl
+753	LP服饰店2
+754	LP服饰店3
+755	布坎武器商人
+756	布坎装备商人
+757	凯利顿武器商人
+758	凯利顿装备商人
+759	人类武器商人
+760	人类装备商人
+761	耶蒂亚武器商人
+762	耶蒂亚装备商人
+763	White Rabbit Gang
+764	Spot Rabbit Gang
+765	Gold Rabbit Gang
+766	LuneYear Guide
+767	Agent Kain
+768	Folornruin merchant
+769	General Store Roony
+770	冒险家助手(新人兑换)
+771	R2T2
+772	阿克拉Zakra
+773	测绘机器人
+774	火炮机器人
+775	废墟S2蓝蝎子
+776	分解制作NPC
+777	计算机设备
+778	蓝龙石
+779	魔石精致师
+780	事件兔女郎
+781	Perom商人
+790	Perom Weapon
+791	Perom装备商人
+792	坦塔罗斯
+793	Head Dragon
+794	Iron Dragon
+795	Earth Dragon
+796	Sky Dragon
+797	Mother Dragon
+798	Bat Dragon
+799	Happy Sneak
+800	Happy DIno
+801	blue Bunnygirl
+802	Luna Shark
+803	Happy Sneak
+805	Alpaca Pet Helper
+806	Gods Arms Merchant
+807	New Secondary Weapons Merchant
+808	Bulkan New Armor Merchant
+809	Kailipton New Armor Merchant
+810	Human New Armor Merchant
+811	Aidia New Armor Merchant
+812	Hibrider New Armor Merchant
+813	Perom New Armor Merchant
+814	Haberdasher
+815	突变库伊铁槌卡巴
+816	突变雷特龙
+817	突变白虎
+818	突变寒冰哈波
+819	突变雪人怪
+820	突变白骨斧怪
+821	突变图兰犄角龙
+822	突变巴卡利亚地狱眼镜蛇
+823	突变巴沙魔眼兽
+824	突变库伊铁槌卡巴
+825	突变贝尔格里德夜魔莉莉丝
+826	突变库尔蒙
+827	突变R2T2
+828	图纸商人
+831	Archeologist
+832	Archeologist
+834	Jack O LanternA
+835	Jack O LanternA
+836	Jack O LanternB
+837	Jack O LanternB
+838	[SNPC]独眼怪
+839	[SNPC]暴走生化人
+840	[SNPC]黑暗幽魂
+841	[SNPC]霸王龙
+842	[SNPC]冰封者
+843	[SNPC]冰雪瑞斯克
+844	[SNPC]突变仇恨巫师
+845	[SNPC]加勒芬亲卫兵
+846	[SNPC]法布兹
+847	[SNPC]装甲恶魔之王
+848	[SNPC]突变优普洛巴龙
+849	[SNPC]铁地鸢
+850	[SNPC]格兰林怪
+851	[SNPC]克雷监视者
+852	[SNPC]突变熔岩蜥蜴
+853	[SNPC]突变蜥蜴神
+854	[SNPC]大刀卡巴
+855	[SNPC]Kagol
+856	[SNPC]加勒芬士兵
+857	[SNPC]铁甲龙
+859	[精英]优普洛巴龙
+860	[精英]S2绿巨人
+861	[精英]Zakra
+862	Caru of Event Trade
+863	Mad Online Event
+864	13th Anniversary Balloon
+865	Npc Buffs Items
+866	失落城堡管理员
+867	In Suhotap
+868	Haim Suhotap
+869	Cartesian Stone Statues
+870	Battle League coupon NPC
+871	Entrance
+872	Goblin
+873	Oak
+874	BOSS召唤怪-兰顿骷髅
+875	BOSS召唤怪-人头马
+876	14th Anniversary Event NPC
+877	Contaminated Ray Pensacola
+878	BOSS召唤怪-红龙
+879	Stone Golem
+1000	[Kruma]-Heavy Claws
+1001	[Kruma]-Bewitched branch
+1002	[Kruma]-Sharp Hatchet
+1003	[Kruma]-Warrior Reptile
+1004	[Kruma]-Wolf Riper
+1005	[Kruma]-Hairy Mutant
+1006	[Kruma]-Ancient Cursed Tree
+1007	[Kruma]-Jungle Protector 2
+1008	[Kruma]-Jungle Protector 1
+2000	[TritianEvent]Destroyer Waters
+2001	[MARVEL]-Thor
+2002	[MARVEL]-Hulk
+2003	[MARVEL]-Iron Man
+2004	[MARVEL]-Spider Man
+2005	[MARVEL]-Captain America
+2006	[MARVEL]-Thanos
+2007	[MARVEL]-Venom
+2008	[TritianEvent]Lime Box
+2009	[TritianEvent]Shark
+2010	[Halloween]- Jack
+2011	[Venatus]-Crystal Collect
+2012	[TritianEvent]Christmas
+2500	[Halloween]- Werewolf
+4000	[REVENGE EVENT]
+4001	[REVENGE EVENT]
+4002	[REVENGE EVENT]
+4003	[REVENGE EVENT]
+4004	[REVENGE EVENT]
+4005	[REVENGE EVENT]
+4006	[REVENGE EVENT]
+4007	[REVENGE EVENT]
+4008	[REVENGE EVENT]
+4009	[REVENGE EVENT]
+4010	[REVENGE EVENT]
+4011	[REVENGE EVENT]
+4012	[REVENGE EVENT]
+4013	[REVENGE EVENT]
+5000	LC Compra
+5001	[S3 BOSS] Luna shark
+5002	[S3 BOSS]魔眼兽
+5003	[LHGN] Raven Mage
+5004	[S3精英] 古鲁蒙
+5005	[S3精英]R2T2
+5006	[S3精英] 暴走机器人
+5007	[S3精英] 黑暗幽魂
+5008	[S3精英] 冰封者
+5009	[S3精英] 冰雪瑞斯克
+5010	[S3精英] 仇恨巫师
+5011	[S3精英] 加勒芬亲卫兵
+5012	[S3精英] 法布兹
+5013	[S3 BOSS]优普洛巴龙
+5014	[S3 BOSS]卡古
+5015	[BOSS] 加乐芬士兵
+5016	[S3 BOSS]铁甲龙
+5017	金块兑换NPC
+5039	[S4精英] 兽人
+5040	[S4精英] 异种狮兽
+5041	[S4精英] 狂暴守门怪
+5042	[S4精英] 铁鹰人
+5043	[S4精英] 恶魔领主
+5044	[S4 BOSS]白骨魔眼兽
+5045	[S4 BOSS]拉格洛克
+5046	[BOSS S4] Oak
+5047	[S4 BOSS] 兰顿骷髅
+5048	[S4 BOSS] 半人马
+5049	强化坦塔罗斯
+5050	[试练] 雷特龙
+5051	[试练] 足球肯恩
+5052	[试练] 雪人
+5053	[试练] 冰雪瑞斯克
+5054	[试练] 弯刀沙怪
+5055	[试练] Ray Pensacola
+5056	[Event] Oak
+5057	[试练] 生化恶兽
+5058	[试练] 克雷监视者
+5059	[试练] 拜尔
+5060	[试练] R2T2
+5061	[试练] Zakra
+5062	[试练] Ruddy Quetzalcoatl
+5063	[试练] Cerberos
+5064	[试练] 冰封者
+5065	[试练] 加勒芬亲卫兵
+5066	[试练] 史克林
+5067	[试练] 异种狮兽
+5069	[试练Boss] 蓝蝎子
+5070	[Event Boss] Artilary
+5071	[Event Boss] Dragon
+5072	[Event Boss] Zakra
+5073	召唤废墟守卫
+5074	[Dekadun]-Hopper
+5075	[Dekadun]-Skeleton Captain
+5076	[Dekadun]-Skeleton Soldier
+5077	[Dekadun]-Spider Magma
+5078	Ogre Claws Summon
+5079	Small Mine Elite
+5080	Arbor Day_Tree
+5081	Arbor Day_Tree
+5082	Dupe Rack Harpoon
+5083	Kelial Summon
+5084	Deneb Summon
+5085	Arbor Day_Tree
+5086	Arbor Day_Tree
+5087	Small Mine Elite
+5200	NPC Card Collect
+6000	[LHO]Pink Piggy
+6001	[LHO]Black Piggy
+6002	[LHO]Golden Piggy
+6003	[LHO]White Piggy
+6004	[LHO]Spirit Baby Red
+6005	[LHO]Spirit Baby Blue
+6006	[LHO]Spirit Baby Yellow
+6007	[LHO]White Alpaca
+6008	[LHO]Black Alpaca
+6009	[LHO]Brown Alpaca
+6010	[LHO]Black Cat
+6011	[LHO]White Cat
+6012	[LHO]Spotted Cat
+6013	[LHO]Vallo(Black)
+6014	[LHO]Vallo(White)
+6015	[LHO]Vallo(Green)
+6016	[LHO]Black Bear
+6017	[LHO]White Bear
+6018	[LHO]Cheongma
+6019	[LHO]Jeokma
+6020	[LHO]Jaguar
+6021	[LHO]Jaguar Warrior
+6022	[LHO]Jaguar Boo
+6023	[LHO]Ichi
+6024	[LHO]Scra-Chi
+6025	[LHO]Leopard
+6026	[LHO]White Dog
+6027	[LHO]Black Dog
+6028	[LHO]Spotted Dog
+6029	Invisible Rabbit White
+6030	Invisible Rabbit Gold
+6031	Invisible Rabbit Mix
+6032	[HighLand]-Rock Stone
+6033	[HighLand]-Zombie Claws
+6034	[HighLand]-Fast Claws
+6035	[HighLand]-Dark Wizard
+6036	[HighLand]-Chemical Ogre
+6037	[HighLand]-Giant Lava
+6038	[HighLand]-Cannibal Ogre
+6039	[HighLand]-Jr. Chemical Ogre
+6040	[Venatus]-Boss Typhon
+6041	[Venatus]-Boss Android_27
+6042	[Venatus]-Boss Machine XT
+6043	[Venatus]-Boss Humanoide
+6044	[Venatos]-Boss Galeitos
+6045	[Venatus]-Boss Harvester
+6046	[Venatus]-Boss Dragold
+6047	[Venatus]-Fitton
+6048	[Venatus]-Croodz
+6049	[Venatus]-Slusher
+6050	[Venatus]-Gorisk
+6051	[Venatus]-Barikun
+6052	[Venatus]-FireTz
+6053	[Venatus]-Ice Panda
+6054	[Venatus]-HellDog
+6055	[Venatus]-GalaxDog
+6056	[Venatus]-Judite
+6057	[Venatus]-Milay
+6058	[Venatus]-Sabrin
+6059	[Venatus]-Lee Producer
+6060	[Venatus]-Elvis
+6061	[Venatus]-Bia Dancer
+6062	Christmas Event NPC
+6063	[Venatus]-ShadowCharger
+6064	[Venatus]-EagleRifle
+7000	[Royale]-Hybrider
+7001	[Royale]-Bulkan
+7002	[Royale]-Kailipton
+7003	[Royale]-Human
+7004	[Royale]-Aidia
+7005	[Royale]-Peron
+7006	#Basic_Box
+7007	#Crude_Box
+7008	#Grand_Box
+7009	#Rare_Box
+7010	#Arcane_Box
+7011	#Unique_Box
+7012	#Heroic_Box
+7013	#Divine_Box
+7014	#Celestial_Box
+7015	#Epic_Box
+7016	#Legendary_Box  X
