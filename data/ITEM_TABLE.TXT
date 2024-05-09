@@ -15,6 +15,13 @@ end of skip
 60	1	喷射手枪		Blaster Pistol	
 61	1	喷射步枪		Blaster Rifle	
 121	1	黄金盾牌		Golden Shield	
+140	1	小型红色药水
+142	1	狼肉
+143	1	虎肉
+144	1	精力剂
+145	1	微型红色药水
+146	1	小型蓝色药水
+147	1	中型蓝色药水
 150	1	黄金之剑		Golden Sword	
 151	1	巨剑		Great Sword	
 152	1	蓝水晶之剑		Blue Crystal Sword	
@@ -60,6 +67,9 @@ end of skip
 200	1	黄金披风		Golden Mantle	
 203	1	掌心雷		Air Hand Gun	
 204	1	手枪		Shot Gun	
+209	1	迷你电池
+210	1	电池
+211	1	充电组
 212	1	音速剑		Sonic Sword	
 213	1	星之斧		Star Axe	
 214	1	乳罩		Brassiere	
@@ -96,6 +106,10 @@ end of skip
 285	1	牧神法杖		Fan Staff	
 286	1	机关枪		Machine Gun	
 287	1	生化步枪		Bio Rifle	
+288	1	大型红色药水
+289	1	大型蓝色药水
+290	1	大型耐力恢复剂
+291	1	大型电池
 292	1	矛之杖		Sharp Staff	
 293	1	古代法杖		Ancient Staff	
 294	1	黄玉法杖		Gold Jade Staff	
@@ -298,6 +312,10 @@ end of skip
 509	1	两栖特战队靴		Aqua Boots	
 510	1	天牛环		Horn Bug Ring	
 511	1	永恒糖果		Amond Candy	
+512	1	强力蓝色药水
+513	1	强力耐力恢复剂
+514	1	强力电池
+515	1	超强红色药水
 516	1	布林登堡移动装置		Boldin Castle Warp	
 517	1	夏隆水晶		Shilon Crystal	
 518	1	忍者面具		Ninja Mask	
@@ -347,6 +365,11 @@ end of skip
 562	1	足球裤		Red Angel Pants	
 563	1	足球鞋		Red Angel Shoes	
 564	1	世界杯		World Cup	
+565	1	Cowboy Hat
+566	1	Hiphop Shirt
+567	1	Hiphop Pants
+568	1	超强蓝色药水
+569	1	超级电池
 570	1	面具		Party Mask	
 571	1	礼服(上)		Party Wear	
 572	1	礼服(下)		Party Pants	
@@ -784,6 +807,16 @@ end of skip
 1032	1	Lv5.古代戒指		Ancient Ring Lv.5	
 1036	1	太极裙子（无法储藏）		Taeguk Dress	
 1038	1	太极连防盾		Taeguk Kite Shield	
+1039	1	耐力增强剂
+1040	1	生命力增长剂
+1041	1	魔法力增长剂
+1042	1	电力增长剂
+1043	1	耐力增长剂
+1044	1	生命力急增剂
+1045	1	魔法力急增剂
+1046	1	电力急增剂
+1047	1	耐力急增剂
+1048	1	魔力恢复剂
 1049	1	大糖果		Big Ball Candy	
 1050	1	小型火箭套件		Mini Rocket Set	
 1051	1	大苹果		Big Apple	
@@ -2645,11 +2678,11 @@ end of skip
 3345	1	EpsilonEssence(50Pack)		Epsilon Essence(50Pack)	
 3346	1	PolarisEssence(50Pack)		Polaris Essence(50Pack)	
 3347	1	RevolutionPotion(10Pack)		Revolution Potion(10Pack)	
-3348	1	ManaIncrease(10Pack)		Mana Increase(100Pack)	
-3349	1	StaminaIncrease(10Pack)		Stamina Increase(100Pack)	
-3350	1	EnergyIncrease(10Pack)		Energy Increase(100Pack)	
-3351	1	AttackCapsule(10Pack)		Attack Capsule(10Pack)	
-3352	1	DefenseCapsule(10Pack)		Defense Capsule(10Pack)	
+3348	1	法力能量增加(100包)		Mana Increase(100Pack)	
+3349	1	耐力能力增加(100包)		Stamina Increase(100Pack)	
+3350	1	电力能量增加(100包)		Energy Increase(100Pack)	
+3351	1	攻击胶囊(10包)		Attack Capsule(10Pack)	
+3352	1	防御胶囊(10包)		Defense Capsule(10Pack)	
 3353	1	ExperienceCapsule(10Pack)		Experience Capsule(10Pack)	
 3354	1	复仇者头盔		Avengers Helmet	
 3355	1	复仇者盔甲		Avengers Armor	
