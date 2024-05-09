@@ -1,236 +1,77 @@
 ﻿a_index	a_content	
 end of skip	
-1	Miquelon tribe that founded this issue oettanseom gargoyle. There are not as strong as they tethered program roaming the island to escape the power of the gargoyle in eternal damnation. Challenge them to try it now and see your valor entered the freshly ln page is updated.
-25	在戴卡勒蒂平原发现受到诅咒的普罗巨人们。各位玩家的艰苦挑战将会得到充分补偿。 -- 追忆混乱冒险
-26	除了已经告知的戴卡勒蒂平原中的战斗巨人外，已无肉眼可见怪物。诅咒缠身的怪物们的命运就掌握在各位玩家的手上了。-- 追忆混乱冒险
-27	听说卡巴首领拥有冒险家里杰的护腕。这个护腕被称为戴卡顿之环，对于您的探险能进行到何种程度以及得到多少经验大有益助。请一定要找到它用用试试哦，以后如果不需用它，可以将它带来给我。--追忆混乱冒险
-29	我隐约记得以前听说戴卡勒蒂的怪物中有人拿着生命项链。嗯。。这个项链倒是与里杰没什么关系，我也不必为寻找它支付什么报酬。不过如果您有兴趣，可以找找试试哦。--追忆混乱冒险
-30	除了已经告知的戴卡勒蒂平原中的战斗巨人外，已无肉眼可见怪物。诅咒缠身的怪物们的命运就掌握在各位玩家的手上了。--追忆混乱冒险
-31	如果想在广阔的地带不停的来回地奔走，就要拥有相应的体力。这些怪物中可是有人将能够大量提高体力的项链藏在肚子里呢。为什么藏在肚子里呢？这个就不要问我啦~--追忆混乱冒险
-32	“哇，这不就是里杰经常戴着的护腕嘛！可为什么护腕的能力像是完全消失了呢？如果这护腕对您没用的话，我可以高价向您买过来。但是还有一个条件，您要帮我抓住我提出的这些怪物。我现在行动不便可全托了那些怪物的“福”了！您是不是也觉得他们很过分？不过话说回来，您能证明您这护腕是真是假吗？前一阵子还有好几个人都来我这卖护腕呢，说是里杰的护腕有很多个，您是不是也觉得有点奇怪？-追忆混乱冒险
-33	您手中的戒指好像历史很悠久呢……哦，我可还知道怎么更好地利用这枚戒指呢！这个戒指能增大药剂的恢复量。只要按我说的来做，您就能见证这个功能了！-- 追忆混乱冒险
-34	Big bracelet called Dun It would give a lot of help in your experience until you get your adventure to some degree orbit.
-35	Obtain and use all means to try in the future no longer need disappears Come in and bring them to me.
-37	Is immediately reported to date Cartesian D. King loom Giant except the eyes could not find them identifiable.
-38	The Curse of the Good for ending my life in your hands, please.
-40	Remember exactly, but I heard that this guy was born with a necklace around the life of a Cartesian Di to hear the old monster.
-41	Well... it's slow- agenda and will not have to work because I'd not related to compensation if you look for one if you are interested.
-43	You're still invisible force that age group .
-44	The guys who have to choose I'll give you what I 'd seen that might help find her ?
-45	They have pretty much the same experience that you're gonna help you.
-47	To attend diligently to myself, should have come back to the widest stamina worthy of it.
-48	Among these I'll be the guy wearing a necklace that predates the objections raised quite stamina in the stomach.
-49	Do not ask me why or necklace itneunjineun in the stomach.
-51	Oh! It's slow - agenda Dunn Is not this always has attended bracelet!
-52	But somehow distant sounds like the power of the bracelet will disappear completely.
-53	If you anymore 'd give them to you, you do not need that bracelet I'll chyeojul a generous value ?
-54	Ah, but I've got some on one condition . I 'm asking that l want you to hold these monsters to ask .
-55	At they have become a virtue I'm so uncomfortable body to the behavior.
-56	I think that one too ? Well, frankly, to prove that the fake Maybe you recognize that your bracelet is real?
-57	A little before me who you're several ascend bracelet plate.
-58	Cannes - Who is the agenda several bracelets , Is not it weird?
-60	That thing looks very old and ring in your hands ...
-61	Oh! How to take advantage of Ivan I know how to efficiently stocked .
-62	Ivan that I go for the capabilities that further increase the amount to be recovered to the potion.
-63	Haebomyeon Do as I get to be the heads of their ability.
-65	Ancient ring, but go for the more capable disadvantage is you can not use for a long time.
-66	You needed another ring?
-67	I 'll let the suspect location . Perhaps he will find monsters that roam the neighborhood without a doubt
-68	DIE 'll swallow.
-70	Giving Gun grant stocked know many of the features in the ancient center of the ring in the center.
-71	火树银花合，星桥铁锁开。暗尘随马去，明月逐人来。 游伎皆?李，行歌尽落梅。金吾不禁夜，玉漏莫相催。 ---唐代：苏味道
-72	This ability also hageodeun of great natural strength.
-73	What, you do not receive the blessings of nature. You want it as well as I do
-75	I thought to myself, many sincere thanks to you to help me with my research.
-76	竞渡深悲千载冤，忠魂一去讵能还。 国亡身殒今何有，只留离骚在世间。 -----和端午  宋代：张耒
-77	I 'd like to give you providing new opportunities . Being able to once again try to reset your skills
-78	驿外断桥边，寂寞开无主。已是黄昏独自愁，更著风和雨。  无意苦争春，一任群芳妒。零落成泥碾作尘，只有香如故。 ----卜算子·咏梅   宋代：陆游
-80	Did not experience the blessings of nature?
-81	Eopdane to worry about if you already have a recovery feature.
-82	What mysterious force adding more and more to be added stronger.
-83	Your going to be a great boon to your water, medicines expenditure. Well.
-85	Should you satisfied with the damage rising technology? Dont ever take a little time thinking always chopped off ?
-86	I'm gonna be stocked for the wishes.
-87	Very long time 're not going to be a big help in your hunt
-89	I thought to myself, many sincere thanks to you to help me with my research.
-90	Of course, you have also been a big help.
-91	I'd like to give you providing new opportunities. Being able to once again try to reset your skills
-92	You have known what really worthy of chance?
-94	Indeed, one thing that is not difficult to bound during the battle.
-95	Fortunately, the ancient ring has come into haejulsu ability to give resistance to petrification.
-96	Although not visible but also has a significant effect only the ability, skills and other items
-97	Quite helpful if you're gonna combined
-98	Did not experience the blessings of nature?
-99	锦城丝管日纷纷，半入江风半入云。  此曲只应天上有，人间能得几回闻。 ---赠花卿   唐代：杜甫
-100	What mysterious force adding more and more to be added stronger.
-101	Your going to be a great boon to your water, medicines expenditure. Well.
-103	梅子金黄杏子肥，麦花雪白菜花稀。 日长Li落无人过，惟有蜻蜓蛱蝶飞 ---四时田园杂兴·其二   宋代：范成大 
-104	Ancient ring has a mysterious power , but more than a total of five of the ability to remember that gajilsu.
-105	千里黄云白日曛，北风吹雁雪纷纷。 莫愁前路无知己，天下谁人不识君。 六翮飘飖私自怜，一离京洛十余年。 丈夫贫贱应未足，今日相逢无酒钱。 ---别董大二首   唐代：高适 
-106	浩荡离愁白日斜，吟鞭东指即天涯。 落红不是无情物，化作春泥更护花。 ---己亥杂诗·其五   清代：龚自珍
-107	If the ring does not like it I'll buy you any time.
-108	Although the mean serious trouble from the beginning to get the ring back.
-110	Did not experience the blessings of nature ?
-111	Eopdane to worry about if you already have a recovery feature.
-112	What mysterious force adding more and more to be added stronger.
-113	Your going to be a great boon to your water, medicines expenditure. Well.
-114	春城无处不飞花，寒食东风御柳斜。  日暮汉宫传蜡烛，轻烟散入五侯家。 ---寒食   唐代：韩?
-116	Did not experience the blessings of nature ?
-117	Eopdane to worry about if you already have a recovery feature.
-118	What mysterious force adding more and more to be added stronger.
-119	Your going to be a great boon to your water, medicines expenditure. Well .
-122	Did not experience the blessings of nature ?
-123	敕勒川，阴山下。天似穹庐，笼盖四野。 天苍苍，野茫茫。风吹草低见牛羊。 ---敕勒歌   南北朝：乐府诗集 
-124	What mysterious force adding more and more to be added stronger.
-125	Your going to be a great boon to your water, medicines expenditure. Well .
-127	众鸟高飞尽，孤云独去闲。 相看两不厌，只有敬亭山 ---独坐敬亭山   唐代：李白
-128	炉火照天地，红星乱紫烟。 赧郎明月夜，歌曲动寒川。 ---秋浦歌十七首·其十四   唐代：李白 
-129	向晚意不适，驱车登古原。 夕阳无限好，只是近黄昏。 ---乐游原 / 登乐游原   唐代：李商隐
-130	生当作人杰，死亦为鬼雄。 至今思项羽，不肯过江东。 ---夏日绝句   宋代：李清照
-132	Cold is always to myself , it may lead to sudden death for you .
-133	I give the ability to put on the ring is weak , but if combined with other items
-134	You gonna help a lot .
-135	稻云不雨不多黄，荞麦空花早着霜。 已分忍饥度残岁，更堪岁里闰添长。 ---悯农   宋代：杨万里
-136	中秋作本名小秦王，入腔即阳关曲 暮云收尽溢清寒，银汉无声转玉盘。 此生此夜不长好，明月明年何处看。 ----阳关曲·中秋月    宋代：苏轼
-137	少年听雨歌楼上。红烛昏罗帐。壮年听雨客舟中。江阔云低、断雁叫西风。 而今听雨僧庐下。鬓已星星也。悲欢离合总无情。一任阶前、点滴到天明。 ----虞美人·听雨    宋代：蒋捷
-138	碧云天，黄叶地。秋色连波，波上寒烟翠。山映斜阳天接水。芳草无情，更在斜阳外。 黯乡魂，追旅思。夜夜除非，好梦留人睡。明月楼高休独倚。酒入愁肠，化作相思泪。(留人睡 一作：留人醉) ----苏幕遮·怀旧    宋代：范仲淹
-139	云弄巧，飞星传恨，银汉迢迢暗度。金风玉露一相逢，便胜却人间无数。(度 通：渡) 柔情似水，佳期如梦，忍顾鹊桥归路。两情若是久长时，又岂在朝朝暮暮。 ----鹊桥仙·纤云弄巧    宋代：秦观 
-141	Should you satisfied with the damage rising technology? Dont ever take a little time thinking always chopped off ?
-142	I'm gonna be stocked for the wishes.
-143	Very long time 're not going to be a big help in your hunt .
-145	I thought to myself, many sincere thanks to you to help me with my research .
-146	Of course, you have also been a big help.
-147	I 'd like to give you providing new opportunities . Being able to once again try to reset your skills
-148	You have known what really worthy of chance?
-150	Circular saw has detected an accursed monster lurking in the halpeo .
-151	Physical hit him the opportunity to reset the stats in the sense that in return for your hard work
-152	We will provide one.
-154	Among the horn placed in the big fist Cavalli Cavalli is said also in possession of the leadership of the Rings confiscated from Lagrange page sealant.
-155	According to our research received the cursed by a statue of issues tied up with such a program and Miquelon the more unusual behavior
-156	Conclusion There is a high possibility.
-157	Please find the monster cursed aid from the horns of a fist Cavalli.
-158	We will have a ring they were paid to you as a bonus.
-159	Koppul clutches of Karen also seems to not deviate from the force of the statue.
-160	Also, when you complete a mission seen as being the metal of the ring-shaped detected in their body
-161	中秋作本名小秦王，入腔即阳关曲 暮云收尽溢清寒，银汉无声转玉盘。 此生此夜不长好，明月明年何处看。 ---阳关曲·中秋月   宋代：苏轼
-162	Why do ring their surprising when one considers the enormous appetite itneunjineun the belly of the monster
-163	The real.
-164	Ancient Rings you will give additional power to bring you another.
-166	In our center center are Also grant new powers to the ancient ring that you are in possession.
-167	Please complete this mission we provide the ability to give a little bit to improve your ability to attack
-168	春风吹碧，春云映绿，晓梦入芳裀。软衬飞花，远连流水，一望隔香尘。  萋萋多少江南恨，翻忆翠罗裙。冷落闲门，凄迷古道，烟雨正愁人。 ---少年游·草   宋代：高观国
-169	But do not forget. When you complete a mission, you have to stay and be worn in ancient Ring.
-170	Count attack occurs, even if the probability of an ancient ring did not put a hearthstone in arms.
-171	In our center center are Also grant new powers to the ancient ring that you are in possession.
-172	Please complete this mission we provide the ability to give a little bit to improve your ability to attack
-173	I promise.
-174	But do not forget. When you complete a mission, you have to stay and be worn in ancient Ring.
-175	Critical hit probability of the ancient ring occurs even though the weapon did not insert the hearthstone.
-177	Cutter Khan , but we fear that thing off familiar enough , if you perform this task
-178	I think .
-179	Please complete the mission grant you the ability increases the duration time of the second attack on the ancient skill of the Rings
-180	I will .
-181	This ability is an explosion of anger , penetration , evil thoughts of the storm , please note that it applies only to the premises of the Blessed
-183	Has succeeded to provide information on the ancient ring being thought gyesindago you are looking for.
-184	Surprisingly, it seems that the ancient ring has repteo Lloyd take on the most frequently encountered in Shah nylon.
-185	Please defeated the king repteo Lloyd Get in the ring also means that from ancient times
-186	Note also that it is an ancient ring will pocket more than 5 options.
-187	Seotgi now have the option of ancient ring over the five because when you pick the options you need to insert
-188	Recommended.
-189	In our center center are Also grant new powers to the ancient ring that you are in possession.
-190	Please complete this mission we provide the ability to give a little bit to improve your ability to attack
-191	I promise.
-192	But do not forget. When you complete a mission, you have to stay and be worn in ancient Ring.
-193	小娃撑小艇，偷采白莲回。 不解藏踪迹，浮萍一道开。 ---池上   唐代：白居易
-195	离离原上草，一岁一枯荣。 野火烧不尽，春风吹又生。 远芳侵古道，晴翠接荒城。 又送王孙去，萋萋满别情。 --草 / 赋得古原草送别   唐代：白居易 
-196	江南好，风景旧曾谙。日出江花红胜火，春来江水绿如蓝。能不忆江南? ---忆江南·江南好   唐代：白居易
-197	Please attention.
-198	We would be happy to grant the ability to be able to help you to bolt strike on the ancient ring
-199	Even though we are offering the ability but not with much resistance you can get from other items
-200	Would be very helpful if you continue circumstance combined.
-201	Monster shock like Lynch, please remember that many of the most dangerous to the pincer it coming!
-202	Neo programs are tethered to the ball Volcanic Do not you want to attack any moment a strong attack
-203	Always pay attention.
-204	Please defeated the magma punch cursed, taking care that no explosion occurred around you.
-205	I will grant you the ability to withstand further attacks on the Ancient Volcanic see the ring.
-206	Even though we are offering the ability but not with much resistance you can get from other items
-207	Would be very helpful if you continue circumstance combined.
-209	Petrification attacks darts feature is the ability to discard tie your feet to prevent rusting .
-210	Also wears a stronger damage than the previous attacks danghamyeon while you are stuck in the petrified that
-211	Forgot do not cash in your chips .
-212	But brave enough to overcome all these circumstances I think that to you.
-213	Please defeated the cursed darts features.
-214	Please complete this mission we provide the ability to give a little bit to improve your ability to attack
-215	I promise .
-216	But do not forget . When you complete a mission , you have to stay and be worn in ancient Ring .
-217	好雨知时节，当春乃发生。 随风潜入夜，润物细无声。 野径云俱黑，江船火独明。 晓看红湿处，花重锦官城。 ---春夜喜雨   唐代：杜甫 
-220	Raven is a scary point of the Valkyrie is called an attacker to tie program of the fuzzy -based pouring a curse .
-221	Relative to these and make sure to turn off magic or fuzzy want, you would be better off using such a bracelet .
-222	银烛秋光冷画屏，轻罗小扇扑流萤。 天阶夜色凉如水，卧看牵牛织女星。 ---秋夕   唐代：杜牧
-223	山外青山楼外楼，西湖歌舞几时休？ 暖风熏得游人醉，直把杭州作汴州。 ---题临安邸   宋代：林升
-224	Please complete this mission we provide the ability to give a little bit to improve your ability to attack
-225	日暮苍山远，天寒白屋贫。 柴门闻犬吠，风雪夜归人。 ---逢雪宿芙蓉山主人   唐代：刘长卿
-227	九曲黄河万里沙，浪淘风簸自天涯。 如今直上银河去，同到牵牛织女家。 ---浪淘沙·九曲黄河万里沙   唐代：刘禹锡
-230	In our center center are Also grant new powers to the ancient ring that you are in possession .
-231	Please complete this mission we provide the ability to give a little bit to improve your ability to attack
-232	I promise .
-233	But do not forget . When you complete a mission , you have to stay and be worn in ancient Ring .
-234	Critical hit probability of the ancient ring occurs even though the weapon did not insert the hearthstone .
-236	Neo programs are tethered to the ball Volcanic Do not you want to attack any moment a strong attack
-237	Always pay attention .
-238	Please slaying the dragon cursed bat , taking care that no explosion occurred around you.
-239	I will grant you the ability to withstand further attacks on the Ancient Volcanic see the ring.
-240	Even though we are offering the ability but not with much resistance you can get from other items
-241	Would be very helpful if you continue circumstance combined 
-243	Without the foresight Raven mage invisible radar because the far- bolt strike attack
-244	Finding the objects might be cursed among them is quite difficult.
-245	But then you get over it and you will perform your duties and functions may be able to help the bolt strike
-246	I will grant to the ancient ring
-247	Even though we are offering the ability but not with much resistance you can get from other items
-248	Would be very helpful if you continue circumstance combined .
-250	Please remove the cursed dragon armor .
-251	迢迢天汉西南落，喔喔邻鸡一再鸣。 壮志病来消欲尽，出门搔首怆平生。 三万里河东入海，五千仞岳上摩天。 遗民泪尽胡尘里，南望王师又一年。 ---秋夜将晓出篱门迎凉有感二首   宋代：陆游
-252	青海长云暗雪山，孤城遥望玉门关。 黄沙百战穿金甲，不破楼兰终不还。 ---从军行七首·其四   唐代：王昌龄
-253	毕竟西湖六月中，风光不与四时同。 接天莲叶无穷碧，映日荷花别样红。 ---晓出净慈寺送林子方   宋代：杨万里
-254	胜日寻芳泗水滨，无边光景一时新。 等闲识得东风面，万紫千红总是春。 ---春日   宋代：朱熹
-255	This ability is an explosion of anger , penetration , evil thoughts of the storm , please note that it applies only to the premises of the Blessed
-257	Without the light of life called ghost Hyde monster that can not be attacked at all .
-258	However, we will provide it if you would complete this mission a chance to reset your stats again .
-259	I think LA is going to be enough truth to see to the return.
-261	If you're dealing with a remarkable ability to Monster 's hard enough Barrier Series doesin
-262	Please perform this mission means.
-263	Chance to reset your stats will think you know that revelation will not get easier .
-350	咬定青山不放松，立根原在破岩中。 千磨万击还坚劲，任尔东西南北风。 ---竹石   清代：郑燮
-351	衔泥燕，飞到画堂前。占得杏梁安稳处，体轻唯有主人怜，堪羡好因缘。 ---忆江南·衔泥燕   唐代：牛峤
-352	新月曲如眉，未有团luán意。红豆不堪看，满眼相思泪。 终日劈桃穰，人在心儿里。两朵隔墙花，早晚成连理。 ---生查子·新月曲如眉   五代：牛希济
-353	乘彩舫，过莲塘，棹歌惊起睡鸳鸯。游女带香偎伴笑，争窈窕，竞折团荷遮晚照。 ---南乡子·乘彩舫   五代：李xun
-354	永夜抛人何处去?绝来音。香阁掩，眉敛，月将沉。 争忍不相寻？怨孤衾。换我心，为你心，始知相忆深。 ---诉衷情·永夜抛人何处去   五代：顾xuàn
-640	古戒指拥有神秘力量，但是它却不能承载5个以上的技能。现在可以注入戒指的技能已经超过5个了，到底要用哪5种可要好好地判断一下呢。不过呢，您也不用太担心，如果戒指不合您意，您可以随时把它卖给我。但是再去找一枚新戒指可是有些艰难呢。
-642	您体验过大自然的祝福吗？就算您已经拥有了恢复技能也不用多虑。这种神秘的力量拥有的越多，您就会变得越强大。会给您省下大笔买药剂的钱呢！
-643	您体验过大自然的祝福吗？就算您已经拥有了恢复技能也不用多虑。这种神秘的力量拥有的越多，您就会变得越强大。会给您省下大笔买药剂的钱呢！
-644	您体验过大自然的祝福吗？就算您已经拥有了恢复技能也不用多虑。这种神秘的力量拥有的越多，您就会变得越强大。会给您省下大笔买药剂的钱呢！
-646	寒冷可以让您瞬间死亡，所以您要时时警惕。虽然我为戒指注入的能力有些微不足道，但它与其他道具一起使用时会让您如虎添翼呢。
-647	恩……这可是个很奇特的技能呢。您与新种普罗格梅尔战斗的时候会给您力的。但是只这一种技能是不够的，您一定要将它搭配拥有抵抗技能的道具一同使用！
-648	您对您攻击力提升的技能满意吗？有没有觉得要是技能持续的时间再长点就好了？我可以帮您实现这个愿望！虽然（这个的效果）不是很长久但是对于您打怪会帮上大忙哦！
-651	我们中央中心可以为您的古戒指注入新能力。如果您能完成这项任务，我答应您，将赋予您微量提升攻击能力的能力。但有一点可别忘了，任务结束后您一定要使用古戒指。古戒指的暴击技能就算武器中没有装魔石也可能会发动。
-657	如果您具备完全能与硬甲系怪物抗衡的能力，那您一定要做这个任务。当然，您也应该知道能力值重置这种机会不是那么轻易得到的。
-883	It recollects the memories Catch the Monster in ln Laglamia area! 
-884	It recollects the memories Catch the Monster in the Lost Realm Castle area! 
-885	Catch the Monster in the Dekaren area to trace the memories !! 
-886	Catch the Monster in the Dekadun area based Decca lane memories! 
-887	It recollects the memories Catch the Monster in Shilon areas ! 
-888	It recollects the memories Catch the Monster in the Sea Roost area! 
-889	It recollects the memories Catch the Monster in the Castle area of ??perforation! 
-890	It recollects the memories Catch the Monster in the Great White Horn region! 
-891	It recollects the memories Catch the Monster in the area jenuseu lever sanity! 
-892	It recollects the memories Catch the Monster in Athlone area Dmitron! 
-893	Catch the Monster in Turan area! 
-894	Catch the Monster in the area to Bakariya! 
-895	Catch the Monster in the Barsha area! 
-896	Catch the Monster in the Quiez area of ??Izu! 
-897	Catch the Monster in the Beargrid area! 
-898	Forlornruin S1 Catch the Monster in the area !! 
-899	Forlornruin S2 Catch the Monster in the area !! 
+1	创立本期 oettanseom 石像鬼的密克隆部落。没有像他们那样强大的拴系程序在岛上漫游以逃避石像鬼的力量永恒的诅咒。挑战他们现在尝试一下，看看你的勇气进入新的 l​​n 页面是否已更新。
+25	企业巨人被诅咒从发现的笛卡尔迪平原。 Bateusilsu 将完全补偿您的努力。
+26	迄今为止，它刚刚报道笛卡尔 D. King 可以找到隐约可见的巨大眼睛，除了那些可以识别的眼睛。请在你手中结束我的生命的善的诅咒。
+27	卡瓦利大冒险家慢吞吞的博纳听到了拥有这款手链随身携带的传闻。名为 Dun 的大手镯会给你带来很多帮助的体验，直到你走上冒险的道路。获得并用尽一切手段在未来尝试不再需要我迷路，ohgena。
+29	我一出生就清楚地记得，但我听说那个提着笛卡尔生命项链的家伙要听老怪物说话。好吧，它很慢 - ahjen 并且没有必要，因为如果您有兴趣，如果我给您看一次，则没有与补偿有关的工作。
+30	然而，你们是那个年龄段的隐形力量。对我有帮助的人会再看一下吗？他们会有几乎相同的经验来帮助你
+31	自己要勤勤恳恳地照顾自己，一定是回到了宽敞的地方体力才配得上的。其中，你必须佩戴一条他非常珍视的项链，直到它在胃里的耐力。不要问我为什么或项链 itneunjineun 在肚子里。
+32	哦！邓恩是不是一直参加手镯，真是慢啊！但不知何故，遥远的声音就像手镯的力量会完全消失。如果你再放弃他的手镯对你来说是不必要的，我会 chyeojul 一个慷慨的价值？啊，但是有一个条件。我问我的haneunge 要你抱着这些怪物问。因为我的美德已经成为一种行为是如此不方便的身体。我也觉得那个？好吧，坦率地说，您认为您可以证明手镯的假货是真的吗？在我之前你是谁版手镯几个doendan。 Ne-Lani 有好几个手镯 ahjen，是不是有点奇怪？
+33	你手上的那个东西看起来像是一枚很旧的戒指……哦！如何利用 Yvan 我知道如何有效地进货。伊凡的能力，比药水要回收的量还要多。 Haebomyeon geya 尽我所能获得这些技能。
+34	远古戒指，但是去的能力很多，缺点是不能长时间使用。你需要另一个戒指吗？我会告诉他们可疑的位置。也许四处游荡的怪物会发现他们毫无疑问会死掉。
+35	让知道的东西从古老的环形中心中心授予许多功能。但是，巨蟹座，他们永远不会有绝对的韧性！这种能力也是具有强大自然力量的hageodeun。什么，连你自己都没有得到大自然的恩赐？
+36	很多人对自己说衷心感谢您帮助我学习。当然，你也帮了大忙。我想给你提供一个新的机会。能够再次尝试重置您的技能我真的不知道有什么机会值得？
+37	我没有看到和体验大自然的祝福吗？如果您已经拥有恢复功能，请担心 Eopdane。难道这神秘的力量是越来越加强了。是的，这对你的水和药物消费来说是一个很大的好处。然后。
+38	你应该对伤害上升的技术感到满意吗？永远不要花一点时间思考 ryeoteumyeon 吗？我听到他许愿。这么久不会对你的狩猎有很大帮助。
+39	很多人对自己说衷心感谢您帮助我学习。当然，你也帮了大忙。我想给你提供一个新的机会。能够再次尝试重置您的技能我真的不知道有什么机会值得？
+40	的确，在战斗中不难绑定的一件事。幸运的是，古环已经进入了海珠水，赋予了抵抗石化的能力。虽然没有看到更大的效果，但也有这些技能，能力和其他项目中的一项，如果你要组合的话，很有帮助
+41	我没有看到和体验大自然的祝福吗？如果您已经拥有恢复功能，请担心 Eopdane。难道这神秘的力量是越来越加强了。是的，这对你的水和药物消费来说是一个很大的好处。然后。
+42	古戒有一种神秘的力量，但一共有五种以上的能力，记得那有gajilsu。现在，将戒指放入口袋的能力远远超过了对齐戒指的五个良好判断力。不要担心，虽然很大。如果戒指不喜欢我会随时给你买。有点刻薄，但从一开始就再次遭受了戒指。
+43	我没有看到和体验大自然的祝福吗？如果您已经拥有恢复功能，请担心 Eopdane。难道这神秘的力量是越来越加强了。是的，这对你的水和药物消费来说是一个很大的好处。然后。
+44	我没有看到和体验大自然的祝福吗？如果您已经拥有恢复功能，请担心 Eopdane。难道这神秘的力量是越来越加强了。是的，这对你的水和药物消费来说是一个很大的好处。然后。
+45	我没有看到和体验大自然的祝福吗？如果您已经拥有恢复功能，请担心 Eopdane。难道这神秘的力量是越来越加强了。是的，这对你的水和药物消费来说是一个很大的好处。然后。
+46	的确，在战斗中不难绑定的一件事。幸运的是，古环已经进入了海珠水，赋予了抵抗石化的能力。虽然没有看到更大的效果，但也有这些技能，能力和其他项目之一，如果结合起来会很有帮助
+47	冷总是对我自己，可能会导致你猝死。我给戴上戒指的能力很弱，但如果与其他物品结合起来你会帮助很多。
+48	嗯......这是非常特殊的权力启用。当您与 Neo 程序打架时，它会被束缚非常有帮助。但不要只满足于此，比如穿什么其他有抵抗力的物品，如果你忘记了哭泣。
+49	你应该对伤害上升的技术感到满意吗？永远不要花一点时间思考 ryeoteumyeon 吗？我听到他许愿。这么久不会对你的狩猎有很大帮助。
+50	很多人对自己说衷心感谢您帮助我学习。当然，你也帮了大忙。我想给你提供一个新的机会。能够再次尝试重置您的技能我真的不知道有什么机会值得？
+51	圆锯检测到潜伏在 halpeo 中的该死怪物。身体和打击他有机会重置你的统计数据，作为对你辛勤工作的回报，我想让你知道一次。
+52	期间那大角的达卡拳头也是藏在阴谋集团的领导下，从封印圈里扔了出来。根据我们的调查，密克隆计划被诅咒的问题与更不寻常的此类行为相关联这种可能性得出了更高的结论。请在达卡的角拳中找到杀死诅咒的怪物。它将有他们被支付奖金给你的戒指。
+53	卡伦的科普尔魔掌似乎也没有偏离石像的力量。此外，当您完成一项任务时，被视为在他们体内检测到的金属环您将获得可能有帮助的古老戒指。为什么你认为戒指是一个令人惊讶的看他们巨大的胃口 itneunjineun 在怪物的肚子里 真实的。 Ancient Rings're 可能会给你带来另一个额外的能力。
+54	在我们中心的中心还授予古代戒指新的权力，你就拥有了。请完成这个任务我们提供的能力给予一点点提高你的攻击能力我保证。但是别忘记了。当你完成一个任务，你必须留下来，一定要戴上古戒指。计数攻击发生，即使古代戒指的概率没有插入炉石武器。
+55	在我们中心的中心还授予古代戒指新的权力，你就拥有了。请完成这个任务我们提供的能力给予一点点提高你的攻击能力我保证。但是别忘记了。当你完成一个任务，你必须留下来，一定要戴上古戒指。即使武器没有插入炉石，古代戒指的暴击概率也会发生。
+56	害怕刀具汗说，但如果你我正在考虑它，我们知道足以执行这项任务。请完成任务授予您延长对戒指的古老技能第二次攻击的持续时间的能力我们将。这个能力是爆发怒气、穿透、恶念的风暴，请注意只适用于大地的祝福
+57	我们成功地提供了关于您正在寻找的被认为是 gyesindago 的古代戒指的信息。令人惊讶的是，似乎古老的戒指已经 repteo 劳埃德正在打击沙阿尼龙中最常遇到的。请击败国王 Repteo Lloyd 在戒指中获得也意味着从远古时代注意，它是一个古老的戒指，将口袋超过五个选项。现在 seotgi 选项超出了古代五环，因为您选择所需选项的地方我推荐它。
+58	在我们中心的中心还授予古代戒指新的权力，你就拥有了。请完成这个任务我们提供的能力给予一点点提高你的攻击能力我保证。但是别忘记了。当你完成一个任务，你必须留下来，一定要戴上古戒指。计数攻击发生，即使古代戒指的概率没有插入炉石武器。
+59	我知道许多人正在遭受螺栓罢工更新的 ln Ferran。典型的新程序绑定了冲击林奇在使用螺栓打击时发现这被诅咒请注意。我们很高兴为您提供帮助对远古戒指进行螺栓打击的能力给我们该能力，虽然不多，但您可以从其他物品中获得抵抗如果您继续结合情况将非常有帮助。怪物林奇，请记住同样震撼到许多最危险的钳子吧！
+60	Neo 程序绑定球火山攻击永远不知道什么时候任何强烈的攻击时刻注意。请击败岩浆冲击，小心该死的确保爆炸发生在你周围。我将授予更好的抵御火山攻击的能力，见远古戒指。给我们能力，虽然不多，但可以通过其他物品的抗性获得，如果继续结合环境会很有帮助。
+61	飞镖的石化攻击丢弃功能是可以绑脚以防止生锈。此外，当您遭受石化时，它比以前的攻击 danghamyeon 具有更强的伤害，请不要忘记。但有足够的勇气克服所有这些情况，我认为对你来说。请击败被诅咒的飞镖功能。请完成这个任务我们提供的能力给予一点点提高你的攻击能力我保证。但是别忘记了。当你完成一个任务，你必须留下来，一定要戴上古戒指。即使武器没有插入炉石，古代戒指的暴击概率也会发生。
+62	乌鸦是一个恐怖点的攻击者，被称为瓦尔基里，被绑在程序系列中倾泻净化诅咒。对那些对手来说，确保关闭魔法模糊或关闭将是好的hasineunge之类的手镯。否则，你也可能因你的攻击造成巨大的伤害。请女武神乌鸦打败被诅咒的。请完成这个任务我们提供的能力给予一点点提高你的攻击能力我保证。但是别忘记了。当你完成一个任务，你必须留下来，一定要戴上古戒指。计数攻击发生，即使古代戒指的概率没有插入炉石武器。
+63	在我们中心的中心还授予古代戒指新的权力，你就拥有了。请完成这个任务我们提供的能力给予一点点提高你的攻击能力我保证。但是别忘记了。当你完成一个任务，你必须留下来，一定要戴上古戒指。即使武器没有插入炉石，古代戒指的暴击概率也会发生。
+64	Neo 程序绑定球火山攻击永远不知道什么时候任何强烈的攻击时刻注意。请小心并击败蝙蝠龙诅咒爆炸不会发生在你周围。我将授予更好的抵御火山攻击的能力，见远古戒指。给我们能力，虽然不多，但可以通过其他物品的抗性获得，如果继续结合环境会很有帮助。
+65	有远见的乌鸦法师在没有雷达的情况下是隐形的，因为距离螺栓攻击要找到其中可能被诅咒的物体是相当困难的。但后来我克服了它，你履行我的职责和职能，帮助螺栓打击继续情况结合。
+66	请卸下被诅咒的龙铠。龙是如此的鲟鱼 sikilsu 的硬屏障特性中和了许多攻击技能并集中你的攻击包括硬屏障转换手链提前准备 hasineunge 它可能会很好。请完成任务授予您延长对戒指的古老技能第二次攻击的持续时间的能力我们将。这个能力是爆发怒气、穿透、恶念的风暴，请注意只适用于大地的祝福
+67	没有生命之光的叫做幽灵海德的怪物根本无法被攻击。但我想让你知道你是否有机会完成这项任务以再次重置你的统计数据。如果价格足够，我认为洛杉矶会去义正道。
+68	如果你的对手有足够的能力抵挡怪物的强硬路线，请执行此任务手段。重置您的统计数据的机会会认为您知道启示不会变得更容易。
+640	古环有一种神秘的力量，但一共有五种以上的能力，记得那有gajilsu。现在，将戒指放入口袋的能力远远超过了对齐戒指的五个良好判断力。不要担心，虽然很大。如果戒指不喜欢我会随时给你买。有点刻薄，但从一开始就再次遭受了戒指。
+642	我没有看到和体验大自然的祝福吗？如果您已经拥有恢复功能，请担心 Eopdane。难道这神秘的力量是越来越加强了。是的，这对你的水和药物消费来说是一个很大的好处。然后。
+643	我没有看到和体验大自然的祝福吗？如果您已经拥有恢复功能，请担心 Eopdane。难道这神秘的力量是越来越加强了。是的，这对你的水和药物消费来说是一个很大的好处。然后。
+644	我没有看到和体验大自然的祝福吗？如果您已经拥有恢复功能，请担心 Eopdane。难道这神秘的力量是越来越加强了。是的，这对你的水和药物消费来说是一个很大的好处。然后。
+645	的确，在战斗中不难绑定的一件事。幸运的是，古环已经进入了海珠水，赋予了抵抗石化的能力。虽然没有看到更大的效果，但也有这些技能，能力和其他项目之一，如果结合起来会很有帮助
+646	冷总是对我自己，可能会导致你猝死。我给戴上戒指的能力很弱，但如果与其他物品结合起来你会帮助很多。
+647	嗯......这是非常特殊的权力启用。当您与 Neo 程序打架时，它会被束缚非常有帮助。但不要只满足于此，比如穿什么其他有抵抗力的物品，如果你忘记了哭泣。
+648	你应该对伤害上升的技术感到满意吗？永远不要花一点时间思考 ryeoteumyeon 吗？我听到他许愿。这么久不会对你的狩猎有很大帮助。
+650	  
+651	在我们中心的中心还授予古代戒指新的权力，你就拥有了。请完成这个任务我们提供的能力给予一点点提高你的攻击能力我保证。但是别忘记了。当你完成一个任务，你必须留下来，一定要戴上古戒指。即使武器没有插入炉石，古代戒指的暴击概率也会发生。
+657	如果你的对手有足够的能力抵挡怪物的强硬路线，请执行此任务手段。重置您的统计数据的机会会认为您知道启示不会变得更容易。
+883	它回忆起在拉米亚地区捕捉怪物的记忆！
+884	它回忆起了在失落之境城堡地区抓住怪物的记忆！
+885	抓住卡伦地区的怪物追踪记忆！
+886	在基于 Decca 车道记忆的区域中捕捉怪物！
+887	它回忆起在沙阿地区尼龙抓捕怪物的回忆！
+888	它回忆起了在汤林区抓怪物的回忆！
+889	它回忆起在穿孔的城堡区域捕捉怪物的记忆！
+890	它回忆起了在大白角地区捕捉怪物的记忆！
+891	它回忆起回忆抓住怪物在区域 jenuuseu 杠杆理智！
+892	它回忆起在阿斯隆地区 DEMI 中抓住怪物的记忆！
+893	在暴风雨地区抓住怪物！
+894	抓住该地区的怪物到刈谷！
+895	在巴塞罗那地区抓住怪物！
+896	在??伊豆的奎达地区捕捉怪物！
+897	在光秃秃的网格区域抓住怪物！
+898	Peolron Ruin S1 抓住该地区的怪物！
+899	Peolron Ruin S2 抓住该地区的怪物！
 900	这是一个古老的符文,传说几个相应的符文合并,将获得可以转换武器的材料
 901	这是一个古老的符文,传说几个相应的符文合并,将获得可以转换武器的材料
 902	这是一个古老的符文,传说几个相应的符文合并,将获得可以转换武器的材料
