@@ -1163,8 +1163,8 @@ end of skip
 1469	1	2倍经验药(10分）		Double Exp (10)	
 1470	1	米特论入场券		Dmitrons Pass	
 1471	1	金锤		Golden Hammer	
-1472	1	3倍经验(1小时)		Scissors Card (10 Pack)	
-1473	1	3倍经验(3小时)		Double Exp (3H)	
+1472	1	2倍经验(1小时)		Scissors Card (10 Pack)	
+1473	1	2倍经验(3小时)		Double Exp (3H)	
 1474	1	宠物孵化催化剂(绿)		Incubation Boost(Green)	
 1475	1	宠物孵化催化剂(橙)		Incubation Boost(Orange)	
 1476	1	宠物孵化催化剂(紫)		Incubation Boost(Violet)	
