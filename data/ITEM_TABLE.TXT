@@ -3149,1310 +3149,326 @@ end of skip
 3923	1	[this]破产安瓿		[This] Ruin ampoules	
 3924	1	[this]节日礼物		[This] constant gift of the festival	
 3925	1	[this]第十一周年拉什药水		[this] 11th anniversary Rush potion	
-3926	1	霸道之剑		Bulkan 350 Box	
-3927	1	霸道之斧		Kailipton 350 Box	
-3928	1	霸道法杖		Human 350 Box	
-3929	1	霸道之枪		Aidia 350 Box	
-3930	1	霸道之环		Hybrider 350 Box	
-3931	1	战士320盒子		Bulkan 320+5 Armor Box	
-3932	1	法师320盒子		Kailipton 320+5 Armor Box	
-3933	1	人类320盒子		Human 320+5 Armor Box	
-3934	1	绿320盒子		Aidia 320+5 Armor Box	
-3935	1	新族320盒子		Hybrider 320+5 Armor Box	
-3936	1	机器320盒子		Perom 320+5 Armor Box	
-3937	1	EasterEggBlue		Easter Egg Blue	
-3938	1	EasterEggRed		Easter Egg Red	
-3939	1	EasterEggGreen		Easter Egg Green	
-3940	1	EasterEggYellow		Easter Egg Yellow	
-3941	1	EasterEggBlack		Easter Egg Black	
-3942	1	EasterEggBlue		Easter Egg Blue	
-4000	1	守护骑士头盔（黑）		Dark Knight Head Black	
-4001	1	DarkKnightShirtBlack		Dark Knight Shirt Black	
-4002	1	DarkKnightPantsBlack		Dark Knight Pants Black	
-4003	1	DarkKnightShoesBlack		Dark Knight Shoes Black	
-4004	1	DarkKnightHeadYellow		Dark Knight Head Yellow	
-4005	1	DarkKnightShirtYellow		Dark Knight Shirt Yellow	
-4006	1	DarkKnightPantsYellow		Dark Knight Pants Yellow	
-4007	1	DarkKnightShoesYellow		Dark Knight Shoes Yellow	
-4008	1	DarkKnightHeadWhite		Dark Knight Head White	
-4009	1	DarkKnightShirtWhite		Dark Knight Shirt White	
-4010	1	DarkKnightPantsWhite		Dark Knight Pants White	
-4011	1	DarkKnightShoesWhite		Dark Knight Shoes White	
-4012	1	GhostHelmetYellow		Ghost Helmet Yellow	
-4013	1	GhostArmorYellow		Ghost Armor Yellow	
-4014	1	GhostPantsYellow		Ghost Pants Yellow	
-4015	1	GhostHelmetBlue		Ghost Helmet Blue	
-4016	1	GhostArmorBlue		Ghost Armor Blue	
-4017	1	GhostPantsBlue		Ghost Pants Blue	
-4018	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4019	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4020	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4021	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4022	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4023	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4024	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4025	1	[EVENT]-HeroSword		[EVENT]-Hero Sword	
-4026	1	[EVENT]-HeroSwordBlack		[EVENT]-Hero Sword Black	
-4027	1	GhostHelmetBlack		Ghost Helmet Black	
-4028	1	GhostArmorBlack		Ghost Armor Black	
-4029	1	GhostPantsBlack		Ghost Pants Black	
-4030	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4031	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4032	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4033	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4034	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4035	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4036	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4037	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4038	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4039	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4040	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4041	1	[EVENT]-WingAidia		[EVENT]-Wing Aidia	
-4042	1	SignAdmin		Sign Admin	
-4043	1	SignGM		Sign GM	
-4044	1	SignSupport		Sign Support	
-4045	1	SignWinsPVPEvent		Sign Wins PVP Event	
-4046	1	SwordDemigod		Sword Demigod	
-4048	1	MantleofKingPVP		[Revenge Event]-Mantle	
-4049	1	MantleofEvent02		Mantle of Event 02	
-4050	1	MantleofEvent03		Mantle of Event 03	
-4051	1	SummerManHelm		Summer Man Helm	
-4052	1	SummerManArmor		Summer Man Armor	
-4053	1	SummerManPants		Summer Man Pants	
-4054	1	SummerManBoots		Summer Man Boots	
-4055	1	SummerFemaleHelm		Summer Female Helm	
-4056	1	SummerFemaleArmor		Summer Female Armor	
-4057	1	SummerFemalePants		Summer Female Pants	
-4058	1	SummerFemaleBoots		Summer Female Boots	
-4059	1	SnowflareManHelmetBlue		Snowflare Man Helmet Blue	
-4060	1	SnowflareManArmorBlue		Snowflare Man Armor Blue	
-4061	1	SnowflareManPantsBlue		Snowflare Man Pants Blue	
-4062	1	SnowflareManBootsBlue		Snowflare Man Boots Blue	
-4063	1	SnowflareManHelmetPink		Snowflare Man Helmet Pink	
-4064	1	SnowflareManArmorPink		Snowflare Man Armor Pink	
-4065	1	SnowflareManPantsPink		Snowflare Man Pants Pink	
-4066	1	SnowflareManBootsPink		Snowflare Man Boots Pink	
-4067	1	SnowflareManHelmetPurple		Snowflare Man Helmet Purple	
-4068	1	SnowflareManArmorPurple		Snowflare Man Armor Purple	
-4069	1	SnowflareManPantsPurple		Snowflare Man Pants Purple	
-4070	1	SnowflareManBootsPurple		Snowflare Man Boots Purple	
-4071	1	SnowflareFemaleHelmetBlue		Snowflare Female Helmet Blue	
-4072	1	SnowflareFemaleArmorBlue		Snowflare Female Armor Blue	
-4073	1	SnowflareFemalePantsBlue		Snowflare Female Pants Blue	
-4074	1	SnowflareFemaleBootsBlue		Snowflare Female Boots Blue	
-4075	1	SnowflareFemaleHelmetPink		Snowflare Female Helmet Pink	
-4076	1	SnowflareFemaleArmorPink		Snowflare Female Armor Pink	
-4077	1	SnowflareFemalePantsPink		Snowflare Female Pants Pink	
-4078	1	SnowflareFemaleBootsPink		Snowflare Female Boots Pink	
-4079	1	SnowflareFemaleHelmetPurple		Snowflare Female Helmet Purple	
-4080	1	SnowflareFemaleArmorPurple		Snowflare Female Armor Purple	
-4081	1	SnowflareFemalePantsPurple		Snowflare Female Pants Purple	
-4082	1	SnowflareFemaleBootsPurple		Snowflare Female Boots Purple	
-4083	1	CarnavalHelmet		Carnaval Helmet	
-4084	1	CarnavalArmor		Carnaval Armor	
-4085	1	CarnavalPants		Carnaval Pants	
-4086	1	CarnavalBoots		Carnaval Boots	
-4090	1	KingofPVPCrown		[Revenge Event]-Crown	
-4091	1	KingofPVPArmor		[Revenge Event]-Armor	
-4092	1	KingofPVPPants		[Revenge Event]-Pants	
-4093	1	KingofPVPBoots		[Revenge Event]-Boots	
-4094	1	钢铁侠头盔		Iron Man Helmet	
-4095	1	钢铁侠盔甲		Iron Man Armor	
-4096	1	钢铁侠长裤		Iron Man Pants	
-4097	1	钢铁侠背饰		Iron Man Back	
-4098	1	蜘蛛侠头盔		SpiderMan Helmet	
-4099	1	蜘蛛侠盔甲		SpiderMan Armor	
-4100	1	蜘蛛侠长裤		SpiderMan Pants	
-4101	1	蜘蛛侠背饰		SpiderMan Back	
-4150	1	Hulk Helm		Hulk Helm	
-4151	1	Hulk Armor		Hulk Armor	
-4152	1	Hulk Pants		Hulk Pants	
-4153	1	Hulk Back		Hulk Back	
-4158	1	Captain America Helmet		Captain America Helmet	
-4159	1	Captain America Armor		Captain America Armor	
-4160	1	Captain America Pants		Captain America Pants	
-4161	1	Captain America Back		Captain America Back	
-4162	1	Thor Helmet		Thor Helmet	
-4163	1	Thor Armor		Thor Armor	
-4164	1	Thor Pants		Thor Pants	
-4165	1	Thor Back		Thor Back	
-4200	1	300%攻击卡		Rock Card 300% ATK	
-4201	1	Revolution Potion GM(9999Pack)		Revolution Potion GM (9999Pack)	
-4202	1	GM Recovery Potion(9999Pack)		GM Recovery Potion(9999Pack)	
-4203	1	3+300%		Special Buff 300% Atk Def Exp	
-4204	1	300%攻击卡套装		350% Exp ( 15 minutes )	
-4205	1	SpecialBuff300%AtkDefExpPack(10)		400% Exp ( 30 minutes )	
-4206	1	400%攻击防御400%AAAAAAAAAAAA		Dekaren Buff atk/def 400%	
-4207	1	400%AAAAAAAAAAAAAA		Dekaren Buff atk/def 400%	
-4208	1	[TEST]ManaIncrease(100Pack)		[TEST]Mana Increase(100Pack)	
-4209	1	[TEST]EnergyIncrease(100Pack)		[TEST]Energy Increase(100Pack)	
-4210	1	EVENT HP EXTEND			EVENT HP EXTEND	
-4211	1	EVENT HP EXTEND			EVENT HP EXTEND	
-4212	1	Golem Buff 450% Exp ( 1 hr )		Golem Buff 450% Exp ( 1 hr )	
-4213	1	Matrix Buff 500% Exp ( 1 hr )		Matrix Buff 500% Exp ( 1 hr )	
-4214	1	Immortal HP Potion(500Pack)		Immortal HP Potion(500Pack)	
-4215	1	Immortal MP Potion(500Pack)		Immortal MP Potion(500Pack)	
-4216	1	Immortal EP Potion(500Pack)		Immortal EP Potion(500Pack)	
-4217	1	Special Buff 400% Atk Def Exp		Special Buff 400% Atk Def Exp	
-4218	1	[LP]-Special Buff 300% Atk Def Exp	[LP]-Special Buff 300% Atk Def Exp
-4300	1	SignAdmin02		Sign Admin 02	
-4301	1	SignAdmin03		Sign Admin 03	
-4302	1	SignAdmin04		Sign Admin 04	
-4303	1	10%猎鹰翅膀		Event Hunt Sign Atk/Def 10%	
-4304	1	20%猎鹰翅膀		Event Hunt Sign Atk/Def 20%	
-4305	1	30%猎鹰翅膀		Event Hunt Sign Atk/Def 30%	
-4306	1	40%猎鹰翅膀		Event Hunt Sign Atk/Def 40%	
-4307	1	50%猎鹰翅膀		Event Hunt Sign Atk/Def/Exp 50%	
-4400	1	[RECIPE]FragmentsofSoulSIGN		[RECIPE] Fragments of Soul SIGN	
-4401	1	[RECIPE]CrystalofSoulSIGN		[RECIPE] Crystal of Soul SIGN	
-4402	1	10%猎鹰翅膀图纸		[RECIPE] Event Hunt Sign Atk/Def 10%	
-4403	1	20%猎鹰翅膀图纸		[RECIPE] Event Hunt Sign Atk/Def 20%	
-4404	1	30%猎鹰翅膀图纸		[RECIPE] Event Hunt Sign Atk/Def 30%	
-4405	1	40%猎鹰翅膀图纸		[RECIPE] Event Hunt Sign Atk/Def 40%	
-4406	1	50%猎鹰翅膀图纸		[RECIPE] Event Hunt Sign Atk/Def/Exp 50%	
-4500	1	SpaceStone		Space Stone	
-4501	1	MindStone		Mind Stone	
-4502	1	RealityStone		Reality Stone	
-4503	1	PowerStone		Power Stone	
-4504	1	TimeStone		Time Stone	
-4505	1	SoulStone		Soul Stone	
-4506	1	InfinityGauntlet		Infinity Gauntlet	
-4550	1	SwordBlueEvent		Sword Blue Event	
-4551	1	StaffBlueEvent		Staff Blue Event	
-4600	1	SnowflarePinkStaff		Snowflare Pink Staff	
-4601	1	SnowflareBlueStaff		Snowflare Blue Staff	
-4602	1	SnowflarePurpleStaff		Snowflare Purple Staff	
-4603	1	水手头盔（蓝）		Sailor NV Helmet	
-4604	1	水手盔甲（蓝）		Sailor NV Armor	
-4605	1	水手护腿（蓝）		Sailor NV Pants	
-4606	1	水手鞋子（蓝）		Sailor NV Boots	
-4607	1	水手头盔（白）		Sailor WH Helmet	
-4608	1	水手盔甲（白）		Sailor WH Armor	
-4609	1	水手护腿（白）		Sailor WH Pants	
-4610	1	水手鞋子（白）		Sailor WH Boots	
-4611	1	水手斧		Anchor Axe	
-4612	1	水手杖		Anchor Staff	
-4613	1	水手枪		Anchor Gun	
-4614	1	水手环		Anchor Ring	
-4615	1	水手锤		Anchor Hammer	
-4616	1	水手矛		Anchor Spear	
-4617	1	Hunter Wolf Y Helmet		Hunter Wolf Y Helmet	
-4618	1	Hunter Wolf Y Armor		Hunter Wolf Y Armor	
-4619	1	Hunter Wolf Y Pants		Hunter Wolf Y Pants	
-4620	1	Hunter Wolf Y Boots		Hunter Wolf Y Boots	
-4621	1	Hunter Wolf BL Helmet		Hunter Wolf BL Helmet	
-4622	1	Hunter Wolf BL Armor		Hunter Wolf BL Armor	
-4623	1	Hunter Wolf BL Pants		Hunter Wolf BL Pants	
-4624	1	Hunter Wolf BL Boots		Hunter Wolf BL Boots	
-4625	1	Hunter Wolf RD Helmet		Hunter Wolf RD Helmet	
-4626	1	Hunter Wolf RD Armor		Hunter Wolf RD Armor	
-4627	1	Hunter Wolf RD Pants		Hunter Wolf RD Pants	
-4628	1	Hunter Wolf RD Boots		Hunter Wolf RD Boots	
-4700	1	蓝卡01		Dekaren Card 01	
-4701	1	蓝卡02		Dekaren Card 02	
-4702	1	蓝卡03		Dekaren Card 03	
-4703	1	蓝卡04		Dekaren Card 04	
-4704	1	蓝卡05		Dekaren Card 05	
-4705	1	蓝卡06		Dekaren Card 06	
-4706	1	蓝卡07		Dekaren Card 07	
-4707	1	蓝卡08		Dekaren Card 08	
-4708	1	蓝卡09		Dekaren Card 09	
-4709	1	蓝卡10		Dekaren Card 10	
-4710	1	蓝卡11		Dekaren Card 11	
-4711	1	蓝卡12		Dekaren Card 12	
-4712	1	蓝卡13		Dekaren Card 13	
-4713	1	蓝卡14		Dekaren Card 14	
-4714	1	蓝卡15		Dekaren Card 15	
-4715	1	蓝卡16		Dekaren Card 16	
-4716	1	蓝卡17		Dekaren Card 17	
-4717	1	蓝卡18		Dekaren Card 18	
-4718	1	蓝卡19		Dekaren Card 19	
-4719	1	蓝卡20		Dekaren Card 20	
-4720	1	蓝卡21		Dekaren Card 21	
-4721	1	蓝卡22		Dekaren Card 22	
-4722	1	蓝卡23		Dekaren Card 23	
-4723	1	蓝卡24		Dekaren Card 24	
-4724	1	蓝卡[2星]01		Dekaren Card [2 Star] 01	
-4725	1	蓝卡[2星]02		Dekaren Card [2 Star] 02	
-4726	1	蓝卡[2星]03		Dekaren Card [2 Star] 03	
-4727	1	蓝卡[2星]04		Dekaren Card [2 Star] 04	
-4728	1	蓝卡[2星]05		Dekaren Card [2 Star] 05	
-4729	1	蓝卡[3星]01		Dekaren Card [3 Star] 01	
-4730	1	蓝卡[3星]02		Dekaren Card [3 Star] 02	
-4731	1	蓝卡[3星]03		Dekaren Card [3 Star] 03	
-4732	1	蓝卡[3星]04		Dekaren Card [3 Star] 04	
-4733	1	蓝卡[3星]05		Dekaren Card [3 Star] 05	
-4734	1	蓝卡[4星]aaaaaaaaaaaaaaa		Dekaren Card  Special [4 Star]	
-4735	1	CardHalloween		Card Halloween	
-4736	1	CardValentineDay		Card Valentine Day	
-4737	1	CardNewYear		Card New Year	
-4738	1	CardChristimas		Card Christimas	
-4800	1	Collect Weapon Free		Collect Weapon Free	
-4801	1	Collect Weapon LP		Collect Weapon LP	
-5000	1	SpecialPandaPet		Special Panda Pet	
-5001	1	SpecialHamsterPet		Special Hamster Pet	
-5002	1	SpecialWolfPet		Special Wolf Pet	
-5003	1	SpecialLingLingPet		Special LingLing Pet	
-5004	1	SpecialRabbitPet		Special Rabbit Pet	
-5005	1	SpecialAltairPet		Special Altair Pet	
-5006	1	SpecialFeshikPet		Special Feshik Pet	
-5007	1	SpecialAltair_PremiumPet		Special Altair_Premium Pet	
-5008	1	SpecialFeshik_PremiumPet		Special Feshik_Premium Pet	
-5009	1	SpecialEzulanPet		Special Ezulan Pet	
-5010	1	SpecialThunderbirdPet		Special Thunderbird Pet	
-5011	1	SpecialThunderbird_PremiumPet		Special Thunderbird_Premium Pet	
-5012	1	SpecialEzulan_PremiumPet		Special Ezulan_Premium Pet	
-5013	1	LadyBugFamePet		LadyBug Fame Pet	
-5014	1	StoneFamePet		Stone Fame Pet	
-5015	1	HalloweenPet_Premium		Halloween Pet_Premium	
-5016	1	BabyDragonPet_Premium		BabyDragon Pet_Premium	
-5017	1	Helper 30% Exp		Helper 30% Exp	
-5200	1	Basic foot (Evolutionary)		Basic foot (Evolutionary)	
-5201	1	basic hair (Evolutionary)		basic hair (Evolutionary)	
-5202	1	basic body (Evolutionary)		basic body (Evolutionary)	
-5203	1	Basic wings (evolution)		Basic wings (evolution)	
-5204	1	Basic tail (Evolutionary)		Basic tail (Evolutionary)	
-5205	1	Basic horns (Evolutionary)		Basic horns (Evolutionary)	
-5206	1	Basic foot (Evolutionary)		Basic foot (Evolutionary)	
-5207	1	basic hair (Evolutionary)		basic hair (Evolutionary)	
-5208	1	basic body (Evolutionary)		basic body (Evolutionary)	
-5209	1	Basic wings (evolution)		Basic wings (evolution)	
-5210	1	Basic tail (Evolutionary)		Basic tail (Evolutionary)	
-5211	1	Basic horns (Evolutionary)		Basic horns (Evolutionary)	
-5212	1	Basic foot (Evolutionary)		Basic foot (Evolutionary)	
-5213	1	basic hair (Evolutionary)		basic hair (Evolutionary)	
-5214	1	basic body (Evolutionary)		basic body (Evolutionary)	
-5215	1	Basic wings (evolution)		Basic wings (evolution)	
-5216	1	Basic tail (Evolutionary)		Basic tail (Evolutionary)	
-5217	1	Basic horns (Evolutionary)		Basic horns (Evolutionary)	
-5218	1	Basic foot (Evolutionary)		Basic foot (Evolutionary)	
-5219	1	basic hair (Evolutionary)		basic hair (Evolutionary)	
-5220	1	basic body (Evolutionary)		basic body (Evolutionary)	
-5221	1	Basic wings (evolution)		Basic wings (evolution)	
-5222	1	Basic tail (Evolutionary)		Basic tail (Evolutionary)	
-5223	1	Basic horns (Evolutionary)		Basic horns (Evolutionary)	
-5224	1	Basic foot (Evolutionary)		Basic foot (Evolutionary)	
-5225	1	basic hair (Evolutionary)		basic hair (Evolutionary)	
-5226	1	basic body (Evolutionary)		basic body (Evolutionary)	
-5227	1	Basic wings (evolution)		Basic wings (evolution)	
-5228	1	Basic tail (Evolutionary)		Basic tail (Evolutionary)	
-5229	1	Basic horns (Evolutionary)		Basic horns (Evolutionary)	
-5230	1	Basic foot (Evolutionary)		Basic foot (Evolutionary)	
-5231	1	basic hair (Evolutionary)		basic hair (Evolutionary)	
-5232	1	basic body (Evolutionary)		basic body (Evolutionary)	
-5233	1	Basic wings (evolution)		Basic wings (evolution)	
-5234	1	Basic tail (Evolutionary)		Basic tail (Evolutionary)	
-5235	1	Basic horns (Evolutionary)		Basic horns (Evolutionary)	
-5236	1	Basic foot (Evolutionary)		Basic foot (Evolutionary)	
-5237	1	basic hair (Evolutionary)		basic hair (Evolutionary)	
-5238	1	basic body (Evolutionary)		basic body (Evolutionary)	
-5239	1	Basic wings (evolution)		Basic wings (evolution)	
-5240	1	Basic tail (Evolutionary)		Basic tail (Evolutionary)	
-5241	1	Basic horns (Evolutionary)		Basic horns (Evolutionary)	
-5242	1	Basic foot (Evolutionary)		Basic foot (Evolutionary)	
-5243	1	basic hair (Evolutionary)		basic hair (Evolutionary)	
-5244	1	basic body (Evolutionary)		basic body (Evolutionary)	
-5245	1	Basic wings (evolution)		Basic wings (evolution)	
-5246	1	Basic tail (Evolutionary)		Basic tail (Evolutionary)	
-5247	1	Basic horns (Evolutionary)		Basic horns (Evolutionary)	
-6000	1	BackAnimalTiger		Back Animal Tiger	
-6001	1	BackAnimalBunny		Back Animal Bunny	
-6002	1	BackAnimalElephant		Back Animal Elephant	
-6003	1	BackAnimalSeal		Back Animal Seal	
-6004	1	BackAnimalPig		Back Animal Pig	
-6005	1	BackAnimalSquirrel		Back Animal Squirrel	
-6006	1	BackAnimalRacoon		Back Animal Racoon	
-6007	1	SwordOfDeath		Sword Of Death	
-6008	1	SpecialFireBird		Special Fire Bird	
-6009	1	SpecialThunder		Special Thunder	
-6010	1	SpecialCar		Special Car	
-6011	1	BackRealBag		Back RealBag	
-6012	1	SwordOfDeath		Sword Of Death	
-7000	1	[01]-WinnerEventAmulet		[01]-Winner Event Amulet	
-7001	1	[01]-WinnerEventRing		[01]-Winner Event Ring	
-7002	1	[01]-WinnerEventBracelet		[01]-Winner Event Bracelet	
-7003	1	[02]-WinnerEventAmulet		[02]-Winner Event Amulet	
-7004	1	[02]-WinnerEventRing		[02]-Winner Event Ring	
-7005	1	[02]-WinnerEventBracelet		[02]-Winner Event Bracelet	
-7006	1	[03]-WinnerEventAmulet		[03]-Winner Event Amulet	
-7007	1	[03]-WinnerEventRing		[03]-Winner Event Ring	
-7008	1	[03]-WinnerEventBracelet		[03]-Winner Event Bracelet	
-7009	1	========BBBBBBBBBBB=========BBBBBBBB		Box Drake	
-8000	1	BIKE01		BIKE 01	
-8001	1	BIKE02		BIKE 02	
-8002	1	BIKE03		BIKE 03	
-8003	1	BIKE04		BIKE 04	
-9000	1	RefiningScrollofFire火		Refining Scroll of Fire	
-9001	1	RefiningScrollofWater水		Refining Scroll of Water	
-9002	1	RefiningScrollofLight光		Refining Scroll of Light	
-9003	1	RefiningScrollofEarth地		Refining Scroll of Earth	
-9004	1	RefiningScrollofWind风		Refining Scroll of Wind	
-9006	1	Graiton(Small)		Graiton(Small)	
-10008	1	GodStone黑钻(400)		God Stone (400)	
-10010	1	天神之剑配方Lv400		[RECIPE]-400  Sword Abomination	
-10011	1	天神之斧配方Lv400		[RECIPE]-400 Axe Horde	
-10012	1	天神之杖配方Lv400		[RECIPE]-400 Staff  Morceli	
-10013	1	天神之枪配方Lv400		[RECIPE]-400 Gun Hefesto	
-10014	1	天神之环配方Lv400		[RECIPE]-400 Ring KingIce	
-10015	1	天神双剑配方Lv400		[RECIPE]-400  Dual Sword Alifader	
-10016	1	天神之锤配方Lv400		[RECIPE]-400 Hammer Darknut	
-10017	1	天神之矛配方Lv400		[RECIPE]-400 Spear Torment	
-10018	1	WeaponDust通用武器粉尘		Weapon Dust	
-10019	1	WeaponParts通用武器零件		Weapon Parts	
-10020	1	WeaponPartsRecipe通用武器零件图纸		Weapon Parts Recipe	
-10021	1	PlatinumBullion白金块aaaaaaaaa		Platinum Bullion	
-10022	1	RedBullion红金块aaaaaaaaaa		Red Bullion	
-10023	1	机器人320+15装备盒子		Perom 320+15 Armor Box	
-10032	1	GodStone(500)		God Stone (500)	
-10033	1	混乱武器任务A		500 Weapon Quest A	
-10034	1	混乱武器任务B		500 Weapon Quest B	
-10035	1	混乱武器任务C		500 Weapon Quest C	
-10036	1	混乱武器任务D		500 Weapon Quest D	
-10037	1	混乱武器任务E		500 Weapon Quest E	
-10039	1	古代符文A		Ancient Rune A	
-10040	1	古代符文B		Ancient Rune B	
-10041	1	古代符文C		Ancient Rune C	
-10042	1	古代符文D		Ancient Rune D	
-10043	1	古代符文E		Ancient Rune E	
-10044	1	交换令牌接引		Exchange Token Recipe	
-10045	1	[混乱]HP延长药水		HP Extend Potion	
-10118	1	卓越的布坎头盔		600 Bulkan Helmet v2.0	
-10119	1	卓越的布坎盔甲		600 Bulkan Armor v2.0	
-10120	1	卓越的布坎长裤		600 Bulkan Legs v2.0	
-10121	1	卓越的布坎战靴		600 Bulkan Shoes v2.0	
-10122	1	卓越的凯利顿头盔		600 Kai Helmet v2.0	
-10123	1	卓越的凯利顿盔甲		600 Kai Armor v2.0	
-10124	1	卓越的凯利顿长裤		600 Kai Legs v2.0	
-10125	1	卓越的凯利顿战靴		600 Kai Shoes v2.0	
-10126	1	卓越的人类头盔		600 Human Helm v2.0	
-10127	1	卓越的人类盔甲		600 Human Armor v2.0	
-10128	1	卓越的人类长裤		600 Human Legs v2.0	
-10129	1	卓越的人类战靴		600 Human Shoes v2.0	
-10130	1	卓越的耶蒂亚头盔		600 Aida Helm v2.0	
-10131	1	卓越的耶蒂亚盔甲		600 Aida Armor v2.0	
-10132	1	卓越的耶蒂亚长裤		600 Aida Legs v2.0	
-10133	1	卓越的耶蒂亚战靴		600 Aida Shoes v2.0	
-10134	1	卓越的海伯德头盔		600 Hybrid Helm v2.0	
-10135	1	卓越的海伯德盔甲		600 Hybrid Armor v2.0	
-10136	1	卓越的海伯德长裤		600 Hybrid Legs v2.0	
-10137	1	卓越的海伯德战靴		600 Hybrid Shoes v2.0	
-10138	1	卓越的机器人头盔		600 Perom Helmet v2.0	
-10139	1	卓越的机器人盔甲		600 Perom Armor v2.0	
-10140	1	卓越的机器人长裤		600 Perom Legs v2.0	
-10141	1	卓越的机器人战靴		600 Perom Shoes v2.0	
-10142	1	超凡的布坎头盔		750 Bulkan Helmet v3.0	
-10143	1	超凡的布坎盔甲		750 Bulkan Armor v3.0	
-10144	1	超凡的布坎长裤		750 Bulkan Legs v3.0	
-10145	1	超凡的布坎战靴		750 Bulkan Shoes v3.0	
-10146	1	超凡的凯利顿头盔		750 Kai Helmet v3.0	
-10147	1	超凡的凯利顿盔甲		750 Kai Armor v3.0	
-10148	1	超凡的凯利顿长裤		750 Kai Legs v3.0	
-10149	1	超凡的凯利顿战靴		750 Kai Shoes v3.0	
-10150	1	超凡的人类头盔		750 Human Helm v3.0	
-10151	1	超凡的人类盔甲		750 Human Armor v3.0	
-10152	1	超凡的人类长裤		750 Human Legs v3.0	
-10153	1	超凡的人类战靴		750 Human Shoes v3.0	
-10154	1	超凡的耶蒂亚头盔		750 Aida Helm v3.0	
-10155	1	超凡的耶蒂亚盔甲		750 Aida Armor v3.0	
-10156	1	超凡的耶蒂亚长裤		750 Aida Legs v3.0	
-10157	1	超凡的耶蒂亚战靴		750 Aida Shoes v3.0	
-10158	1	超凡的海伯德头盔		750 Hybrid Helm v3.0	
-10159	1	超凡的海伯德盔甲		750 Hybrid Armor v3.0	
-10160	1	超凡的海伯德长裤		750 Hybrid Legs v3.0	
-10161	1	超凡的海伯德战靴		750 Hybrid Shoes v3.0	
-10162	1	超凡的机器人头盔		750 Perom Helmet v3.0	
-10163	1	超凡的机器人盔甲		750 Perom Armor v3.0	
-10164	1	超凡的机器人长裤		750 Perom Legs v3.0	
-10165	1	超凡的机器人战靴		750 Perom Shoes v3.0	
-10166	1	神话的布坎头盔		870 Constantia Bulkan Helmet	
-10167	1	神话的布坎盔甲		870 Constantia Bulkan Armor	
-10168	1	神话的布坎长裤		870 Constantia Bulkan Legs	
-10169	1	神话的布坎战靴		870 Constantia Bulkan Shoes	
-10170	1	神话的凯利顿头盔		870 Luminox Kailipton Helmet	
-10171	1	神话的凯利顿盔甲		870 Luminox Kailipton Armor	
-10172	1	神话的凯利顿长裤		870 Luminox Kailipton Legs	
-10173	1	神话的凯利顿战靴		870 Luminox Kailipton Shoes	
-10174	1	神话的人类头盔		870 Tripton Human Helm	
-10175	1	神话的人类盔甲		870 Tripton Human Armor	
-10176	1	神话的人类长裤		870 Tripton Human Legs	
-10177	1	神话的人类战靴		870 Tripton Human Shoes	
-10178	1	神话的耶蒂亚头盔		870 Mercury Aida Helm	
-10179	1	神话的耶蒂亚盔甲		870 Mercury Aida Armor	
-10180	1	神话的耶蒂亚长裤		870 Mercury Aida Legs	
-10181	1	神话的耶蒂亚战靴		870 Mercury Aida Shoes	
-10182	1	神话的海伯德头盔		870 Empress Hybrider Helm	
-10183	1	神话的海伯德盔甲		870 Empress Hybrider Armor	
-10184	1	神话的海伯德长裤		870 Empress Hybrider Legs	
-10185	1	神话的海伯德战靴		870 Empress Hybrider Shoes	
-10186	1	神话的机器人头盔		870 Angeligue Perom Helmet	
-10187	1	神话的机器人盔甲		870 Angeligue Perom Armor	
-10188	1	神话的机器人长裤		870 Angeligue Perom Legs	
-10189	1	神话的机器人战靴		870 Angeligue Perom Shoes	
-10190	1	超凡的布坎盾牌		Lv600 Bulkan's Hi-Meta shield	
-10191	1	超凡的凯利顿披风		Lv600 Kalipton's Hi-Meta Cape	
-10192	1	超凡的人类盾牌		Lv600 Human's  Hi-Meta shield	
-10193	1	超凡的耶蒂亚之翼		Lv600 Hi-Light Wing	
-10194	1	超凡的海伯德盾牌		Lv600 Hi-meta shield of hybrider	
-10195	1	超凡的海伯德围巾		Lv600 Hi-meta muffler of hybrider	
-10196	1	神话的布坎盾牌		Lv700 Bulkan's Hi-Meta shield	
-10197	1	神话的凯利顿披风		Lv700 Kalipton's Hi-Meta Cape	
-10198	1	神话的人类盾牌		Lv700 Human's  Hi-Meta shield	
-10199	1	神话的耶蒂亚之翼		Lv700 Hi-Light Wing	
-10200	1	神话的海伯德盾牌		Lv700 Hi-meta shield of hybrider	
-10201	1	神话的海伯德围巾		Lv700 Hi-meta muffler of hybrider	
-10202	1	550光环戒指		550 Ring	
-10203	1	600光环戒指		600 Ring	
-10204	1	650光环戒指		650 Ring	
-10205	1	700光环戒指		700 Ring	
-10206	1	卓越的清音笛		Elite Tiamat Flute	
-10207	1	卓越的圣蛇召唤石		Elite Warrior Eagle Summon Stone	
-10280	1	750光环戒指		750 Ring	
-10281	1	800光环戒指		800 Ring	
-10282	1	超凡的陨铁		God Stone (600)	
-10283	1	神话的陨铁		God Stone (700)	
-10284	1	神界的陨铁		God Stone (800)	
-10285	1	卓越的布砍头盔图纸		600 Bulkan Helmet Recipe	
-10286	1	卓越的布砍盔甲图纸		600 Bulkan Armor Recipe	
-10287	1	卓越的布砍长裤图纸		600 Bulkan Legs Recipe	
-10288	1	卓越的布砍战靴图纸		600 Bulkan Shoes Recipe	
-10289	1	卓越的凯利顿头盔图纸		600 Kai Helmet Recipe	
-10290	1	卓越的凯利顿盔甲图纸		600 Kai Armor Recipe	
-10291	1	卓越的凯利顿长裤图纸		600 Kai Legs Recipe	
-10292	1	卓越的凯利顿战靴图纸		600 Kai Shoes Recipe	
-10293	1	卓越的人类头盔图纸		600 Human Helm Recipe	
-10294	1	卓越的人类盔甲图纸		600 Human Armor Recipe	
-10295	1	卓越的人类长裤图纸		600 Human Legs Recipe	
-10296	1	卓越的人类战靴图纸		600 Human Shoes Recipe	
-10297	1	卓越的耶蒂亚头盔图纸		600 Aida Helm Recipe	
-10298	1	卓越的耶蒂亚盔甲图纸		600 Aida Armor Recipe	
-10299	1	卓越的耶蒂亚长裤图纸		600 Aida Legs Recipe	
-10300	1	卓越的耶蒂亚战靴图纸		600 Aida Shoes Recipe	
-10301	1	卓越的海伯德头盔图纸		600 Hybrid Helm Recipe	
-10302	1	卓越的海伯德盔甲图纸		600 Hybrid Armor Recipe	
-10303	1	卓越的海伯德长裤图纸		600 Hybrid Legs Recipe	
-10304	1	卓越的海伯德战靴图纸		600 Hybrid Shoes Recipe	
-10305	1	卓越的机器人头盔图纸		600 Perom Helmet Recipe	
-10306	1	卓越的机器人盔甲图纸		600 Perom Armor Recipe	
-10307	1	卓越的机器人长裤图纸		600 Perom Legs Recipe	
-10308	1	卓越的机器人战靴图纸		600 Perom Shoes Recipe	
-10309	1	超凡的布砍头盔图纸		750 Bulkan Helmet Recipe	
-10310	1	超凡的布砍盔甲图纸		750 Bulkan Armor Recipe	
-10311	1	超凡的布砍长裤图纸		750 Bulkan Legs Recipe	
-10312	1	超凡的布砍战靴图纸		750 Bulkan Shoes Recipe	
-10313	1	超凡的凯利顿头盔图纸		750 Kai Helmet Recipe	
-10314	1	超凡的凯利顿盔甲图纸		750 Kai Armor Recipe	
-10315	1	超凡的凯利顿长裤图纸		750 Kai Legs Recipe	
-10316	1	超凡的凯利顿战靴图纸		750 Kai Shoes Recipe	
-10317	1	超凡的人类头盔图纸		750 Human Helm Recipe	
-10318	1	超凡的人类盔甲图纸		750 Human Armor Recipe	
-10319	1	超凡的人类长裤图纸		750 Human Legs Recipe	
-10320	1	超凡的人类战靴图纸		750 Human Shoes Recipe	
-10321	1	超凡的耶蒂亚头盔图纸		750 Aida Helm Recipe	
-10322	1	超凡的耶蒂亚盔甲图纸		750 Aida Armor Recipe	
-10323	1	超凡的耶蒂亚长裤图纸		750 Aida Legs Recipe	
-10324	1	超凡的耶蒂亚战靴图纸		750 Aida Shoes Recipe	
-10325	1	超凡的海伯德头盔图纸		750 Hybrid Helm Recipe	
-10326	1	超凡的海伯德盔甲图纸		750 Hybrid Armor Recipe	
-10327	1	超凡的海伯德长裤图纸		750 Hybrid Legs Recipe	
-10328	1	超凡的海伯德战靴图纸		750 Hybrid Shoes Recipe	
-10329	1	超凡的机器人头盔图纸		750 Perom Helmet Recipe	
-10330	1	超凡的机器人盔甲图纸		750 Perom Armor Recipe	
-10331	1	超凡的机器人长裤图纸		750 Perom Legs Recipe	
-10332	1	超凡的机器人战靴图纸		750 Perom Shoes Recipe	
-10333	1	神话的布砍头盔图纸		[RECIPE]-870 Constantia Bulkan Helmet	
-10334	1	神话的布砍盔甲图纸		[RECIPE]-870 Constantia Bulkan Armor	
-10335	1	神话的布砍长裤图纸		[RECIPE]-870 Constantia Bulkan Legs	
-10336	1	神话的布砍战靴图纸		[RECIPE]-870 Constantia Bulkan Shoes	
-10337	1	神话的凯利顿头盔图纸		[RECIPE]-870 Luminox Kailipton Helmet	
-10338	1	神话的凯利顿盔甲图纸		[RECIPE]-870 Luminox Kailipton Armor	
-10339	1	神话的凯利顿长裤图纸		[RECIPE]-870 Luminox Kailipton Legs	
-10340	1	神话的凯利顿战靴图纸		[RECIPE]-870 Luminox Kailipton Shoes	
-10341	1	神话的人类头盔图纸		[RECIPE]-870 Tripton Human Helm	
-10342	1	神话的人类盔甲图纸		[RECIPE]-870 Tripton Human Armor	
-10343	1	神话的人类长裤图纸		[RECIPE]-870 Tripton Human Legs	
-10344	1	神话的人类战靴图纸		[RECIPE]-870 Tripton Human Shoes	
-10345	1	神话的耶蒂亚头盔图纸		[RECIPE]-870 Mercury Aida Helm	
-10346	1	神话的耶蒂亚盔甲图纸		[RECIPE]-870 Mercury Aida Armor	
-10347	1	神话的耶蒂亚长裤图纸		[RECIPE]-870 Mercury Aida Legs	
-10348	1	神话的耶蒂亚战靴图纸		[RECIPE]-870 Mercury Aida Shoes	
-10349	1	神话的海伯德头盔图纸		[RECIPE]-870 Empress Hybrider Helm	
-10350	1	神话的海伯德盔甲图纸		[RECIPE]-870 Empress Hybrider Armor	
-10351	1	神话的海伯德长裤图纸		[RECIPE]-870 Empress Hybrider Legs	
-10352	1	神话的海伯德战靴图纸		[RECIPE]-870 Empress Hybrider Shoes	
-10353	1	神话的机器人头盔图纸		[RECIPE]-870 Angeligue Perom Helmet	
-10354	1	神话的机器人盔甲图纸		[RECIPE]-870 Angeligue Perom Armor	
-10355	1	神话的机器人长裤图纸		[RECIPE]-870 Angeligue Perom Legs	
-10356	1	神话的机器人战靴图纸		[RECIPE]-870 Angeligue Perom Shoes	
-10357	1	超凡的布坎盾牌图纸		Lv600 Bulkan's Hi-Meta shield Recipe	
-10358	1	超凡的凯利顿披风图纸		Lv600 Kalipton's Hi-Meta Cape Recipe	
-10359	1	超凡的人类盾牌图纸		Lv600 Human's  Hi-Meta shield Recipe	
-10360	1	超凡的耶蒂亚之翼图纸		Lv600 Hi-Light Wing Recipe	
-10361	1	超凡的海伯德盾牌图纸		Lv600 Hi-meta shield of hybrider Recipe	
-10362	1	超凡的海伯德围巾图纸		Lv600 Hi-meta muffler of hybrider Recipe	
-10363	1	神话的布坎盾牌图纸		Lv700 Bulkan's Hi-Meta shield Recipe	
-10364	1	神话的凯利顿披风图纸		Lv700 Kalipton's Hi-Meta Cape Recipe	
-10365	1	神话的人类盾牌图纸		Lv700 Human's  Hi-Meta shield Recipe	
-10366	1	神话的耶蒂亚之翼图纸		Lv700 Hi-Light Wing Recipe	
-10367	1	神话的海伯德盾牌图纸		Lv700 Hi-meta shield of hybrider Recipe	
-10368	1	神话的海伯德围巾图纸		Lv700 Hi-meta muffler of hybrider Recipe	
-10369	1	护甲卷轴A		Armor Scroll A	
-10370	1	护甲卷轴B		Armor Scroll B	
-10371	1	卓越的屠龙爆破刀		Elite Dramata Demolition	
-10372	1	卓越的恶灵法帐		Elite Raksha Wand	
-10373	1	卓越的蓝龙石		Elite Iluminate Stone	
-10374	1	卓越的战斧-MK3		Elite Drakan Rocket	
-10375	1	卓越的终结者部件		Elite Vritra Parts	
-10376	1	不稳定的强化终结者部件图纸		Unstable Elite Vritra Parts Recipe	
-10377	1	不稳定的强化屠龙爆破刀图纸		Unstable Elite Dramata Demolition Recipe	
-10378	1	不稳定的强化恶灵法杖图纸		Unstable Elite Raksha Wand Recipe	
-10379	1	不稳定的强化蓝龙石图纸		Unstable Elite Iluminate Stone Recipe	
-10380	1	不稳定的强化清音笛图纸		Unstable Elite Tiamat Flute Recipe	
-10381	1	不稳定的强化战斧-MK3图纸		Unstable Elite Drakan Rocket Recipe	
-10388	1	极端的HP药水（10pack）		Extreme HP Potion(10Pack)	
-10389	1	极端的HP药水（100pack）		Extreme HP Potion(500Pack)	
-10390	1	极端的MP药水（10pack）		Extreme MP Potion(10Pack)	
-10391	1	极端的MP药水（100pack）		Extreme MP Potion(500Pack)	
-10392	1	极端的EP药水（10pack）		Extreme EP Potion(10Pack)	
-10393	1	极端的EP药水（100pack）		Extreme EP Potion(500Pack)	
-10394	1	万圣节惊喜盒		Halloween Surprise Box	
-10395	1	雪人白头		Yeti White Head	
-10396	1	雪人白上身		Yeti White Upper Body	
-10397	1	雪人白下身		Yeti White Lower Body	
-10398	1	雪人黄头		Yeti Yellow Head	
-10399	1	雪人黄上身		Yeti Yellow Upper Body	
-10400	1	雪人黄下身		Yeti Yellow Lower Body	
-10401	1	RockCard(10Pack)		Rock Card (10 Pack)	
-10402	1	DoubleAttack(3H)		Double Attack (3H)	
-10403	1	PaperCard(10Pack)		Paper Card (10 Pack)	
-10404	1	DoubleDefense(3H)		Double Defense (3H)	
-10405	1	SpecialExp(1H)		Special Exp (1H)	
-10406	1	PetExp200%		Pet Exp 200%	
-10407	1	PetExp300%		Pet Exp 300%	
-10408	1	PetExp400%		Pet Exp 400%	
-10409	1	RedMonkShoes		Red Monk Shoes	
-10410	1	Leopard		Leopard	
-10411	1	Special Attack (1H)		Special Attack (1H)	
-10412	1	Special Defense (1H)		Special Defense (1H)	
-10413	1	神话的终结者		Venom Parts	
-10414	1	神话的斩神爆破刀		Shakula Demolition	
-10415	1	神话的星海副杖		Nebula Wand	
-10416	1	神话的毒龙石		Poison Stone	
-10417	1	神话的魔神笛		Divine Flute	
-10418	1	神话的斩神-MK3(G)		TomaHawk-MK3 (G)	
-10419	1	Donate Gold Cape		Donate Gold Cape	
-10420	1	Donate Silver Wing		Donate Silver Wing	
-10421	1	Donate Bronze Cape		Donate Bronze Cape	
-10439	1	Ketupat		Ketupat	
-10440	1	600 Exchange Token		600 Exchange Token	
-10451	1	Back To School Coupon		Back To School Coupon	
-10452	1	Halloween Box		Halloween Box	
-10453	1	Mine Layer - Drakan Vitria		Mine Layer - Drakan Vitria	
-10454	1	450斧子		450 Axe Nightmare	
-10455	1	450剑		450 Sword Warrior	
-10456	1	450杖		450 Staff Thunderbolt	
-10457	1	450枪		450 Gun JhonIce	
-10458	1	450环		450 Ring Apocalipse	
-10459	1	450双刀		450 Dual Sword Auchindou	
-10460	1	450锤子		450 Hammer Brace	
-10461	1	450钩子		450 Spear DeathWingraid	
-10462	1	500斧子Fireland		500 Axe Fireland	
-10463	1	500剑		500 Sword Gamble	
-10464	1	500杖		500 Staff Horde	
-10465	1	500枪		500 Gun Kriptom	
-10466	1	500环		500 Ring Obito	
-10467	1	500双刀		500 Dual Sword Ozi	
-10468	1	500锤子		500 Hammer Padone	
-10469	1	500钩子		500 Spear Rlk	
-10470	1	550斧子		550 Axe Amaranth	
-10471	1	550杖		550 Staff Artemis	
-10472	1	550枪		550 Gun Shot	
-10473	1	550环		550 Ring Spankemos	
-10474	1	550剑		550 Dual Sword Flame	
-10475	1	550锤子		550 Hammer Eternity	
-10476	1	550钩子		550 Spear Golden Scourge	
-10477	1	600斧子		600 Axe Royal Eagle	
-10478	1	600剑		600 Sword Super Kundun	
-10479	1	600杖		600 Staff Magic Archangel	
-10480	1	600枪		600 Gun Nemesis Tear	
-10481	1	600环		600 Ring Shaman	
-10482	1	600双剑		600 Dual Sword Dual Glave	
-10483	1	600锤子		600 Hammer Arbiter	
-10484	1	600钩子		600 Spear Harpoon	
-10485	1	[recipe]-450斧子		[recipe]-450 Axe Nightmare	
-10486	1	[recipe]-450剑		[recipe]-450 Sword Warrior	
-10487	1	[recipe]-450杖		[recipe]-450 Staff Thunderbolt	
-10488	1	[recipe]-450枪		[recipe]-450 Gun JhonIce	
-10489	1	[recipe]-450环		[recipe]-450 Ring Apocalipse	
-10490	1	[recipe]-450双刀		[recipe]-450 Dual Sword Auchindou	
-10491	1	[recipe]-450锤子		[recipe]-450 Hammer Brace	
-10492	1	[recipe]-450钩子		[recipe]-450 Spear DeathWingraid	
-10493	1	[recipe]-500斧子		[recipe]-500 Axe Fireland	
-10494	1	[recipe]-500剑		[recipe]-500 Sword Gamble	
-10495	1	[recipe]-500杖		[recipe]-500 Staff Horde	
-10496	1	[recipe]-500枪		[recipe]-500 Gun Kriptom	
-10497	1	[recipe]-500环		[recipe]-500 Ring Obito	
-10498	1	[recipe]-500双刀		[recipe]-500 Dual Sword Ozi	
-10499	1	[recipe]-500锤子		[recipe]-500 Hammer Padone	
-10500	1	[recipe]-500钩子		[recipe]-500 Spear Rlk	
-10501	1	[recipe]-550斧子		[recipe]-550 Axe Amaranth	
-10502	1	[recipe]-550杖		[recipe]-550 Staff Artemis	
-10503	1	[recipe]-550枪		[recipe]-550 Gun Shot	
-10504	1	[recipe]-550环		[recipe]-550 Ring Spankemos	
-10505	1	[recipe]-550双刀		[recipe]-550 Dual Sword Flame	
-10506	1	[recipe]-550锤子		[recipe]-550 Hammer Eternity	
-10507	1	[recipe]-550钩子		[recipe]-550 Spear Golden Scourge	
-10508	1	[recipe]-600斧子		[recipe]-600 Axe Royal Eagle	
-10509	1	[recipe]-600剑		[recipe]-600 Sword Super Kundun	
-10510	1	[recipe]-600杖		[recipe]-600 Staff Magic Archangel	
-10511	1	[recipe]-600枪		[recipe]-600 Gun Nemesis Tear	
-10512	1	[recipe]-600环		[recipe]-600 Ring Shaman	
-10513	1	[recipe]-600双剑		[recipe]-600 Dual Sword Dual Glave	
-10514	1	[recipe]-600锤子		[recipe]-600 Hammer Arbiter	
-10515	1	[recipe]-600钩子		[recipe]-600 Spear Harpoon	
-10516	1	[recipe]-550剑		[recipe]-550 Sword Osiris Scyther	
-10517	1	550剑		550 Sword Osiris Scyther	
-10518	1	850Ring		850 Ring	
-10519	1	900Ring		900 Ring	
-10520	1	950Ring		950 Ring	
-10521	1	1000Ring		1000 Ring	
-10522	1	650斧子		650 Axe Glaive	
-10523	1	650剑		650 Sword Baushee	
-10524	1	650杖		650 Staff Balgass	
-10525	1	650枪		650 Gun Galia	
-10526	1	650环		650 Ring Neil	
-10527	1	650双剑		650 Dual Sword Arth	
-10528	1	650锤子		650 Hammer Xinha	
-10529	1	650钩子		650 Spear Pandaria	
-10530	1	700斧子		700 Axe  Kaos	
-10531	1	700剑		700 Sword Worck	
-10532	1	700杖		700 Staff Straxe	
-10533	1	700枪		700 Gun Twilight	
-10534	1	700环		700 Ring Wraith	
-10535	1	700双刀		700 Dual Sword Zulaman	
-10536	1	700锤子		700 Hammer Death	
-10537	1	700钩子		700 Spear Dromon	
-10538	1	750斧子		750 Axe Tanker	
-10539	1	750剑		750 Sword Qiraj	
-10540	1	750杖		750 Staff  Great	
-10541	1	750枪		750 Gun Beheader	
-10542	1	750环		750 Ring Beuroba	
-10543	1	750双刀		750 Dual Sword Dagaz	
-10544	1	750锤子		750 Hammer Blade	
-10545	1	750钩子		750 Spear Darkness	
-10546	1	800斧子		800 Axe Elemental Brand	
-10547	1	800剑		800 Sword Einherjes	
-10548	1	800杖		800 Staff Exclusive	
-10549	1	800枪		800 Gun Geirendur	
-10550	1	800环		800 Ring Guardian	
-10551	1	800双刀		800 Dual Sword Harkari	
-10552	1	800锤子		800 Hammer Impac	
-10553	1	800钩子		800 Spear Kelpie	
-10554	1	850斧子		850 Axe Heros	
-10555	1	850剑		850 Sword Kua	
-10556	1	850杖		850 Staff Ork	
-10557	1	850枪		850 Gun Nealenia	
-10558	1	850环		850 Ring Polutted	
-10559	1	850双刀		850 Dual Sword Rinda	
-10560	1	850锤子		850 Hammer Satanic	
-10561	1	850钩子		850 Spear Shura	
-10562	1	870斧子		870 Axe Skebjene	
-10563	1	870剑		870 Sword Strea	
-10564	1	870杖		870 Staff Bersek	
-10565	1	870枪		870 Gun Best	
-10566	1	870环		870 Ring Temple	
-10567	1	870双刀		870 Dual Sword Bracker	
-10568	1	870锤子		870 Hammer Cutter	
-10569	1	870钩子		870 Spear Death Nell	
-10570	1	950斧子		890 Axe Destroyer Death	
-10571	1	950剑		890 Sword Divaga	
-10572	1	950杖		890 Staff Dragons Paw	
-10573	1	950枪		890 Gun Firebird	
-10574	1	950环		890 Ring Elite	
-10575	1	950双刀		890 Dual Sword Reliquia Two	
-10576	1	950锤子		890 Hammer Eye Red	
-10577	1	950钩子		890 Spear Fangd	
-10578	1	1000斧子		1000 Axe Fire Soldier	
-10579	1	1000剑		1000 Sword Fourth	
-10580	1	1000杖		1000 Staff Grass Scissor	
-10581	1	1000枪		1000 Gun Golden Hawk	
-10582	1	1000环		1000 Ring Gearing	
-10583	1	1000双刀		1000 Dual Sword Hellus	
-10584	1	1000锤子		1000 Hammer Kash	
-10585	1	1000钩子		1000 Spear Langer	
-10586	1	800战士梅塔盾		Lv800 Bulkan's Hi-Meta shield	
-10587	1	800法师梅塔披风		Lv800 Kalipton's Hi-Meta Cape	
-10588	1	800人类梅塔盾		Lv800 Human's  Hi-Meta shield	
-10589	1	800绿绿翅膀		Lv800 Hi-Light Wing	
-10590	1	800锤子盾		Lv800 Hi-meta shield of hybrider	
-10591	1	800双刀围巾		Lv800 Hi-meta muffler of hybrider	
-10592	1	900战士梅塔盾		Lv900 Bulkan's Hi-Meta shield	
-10593	1	900法师梅塔披风		Lv900 Kalipton's Hi-Meta Cape	
-10594	1	900人类梅塔盾		Lv900 Human's  Hi-Meta shield	
-10595	1	900绿绿翅膀		Lv900 Hi-Light Wing	
-10596	1	900锤子盾		Lv900 Hi-meta shield of hybrider	
-10597	1	900双刀披风		Lv900 Hi-meta muffler of hybrider	
-10598	1	Lv1000Bulkan'sHi-Metashield		Lv1000 Bulkan's Hi-Meta shield	
-10599	1	Lv1000Kalipton'sHi-MetaCape		Lv1000 Kalipton's Hi-Meta Cape	
-10600	1	Jupiter_Back		Jupiter_Back	
-10601	1	Lv1000Hi-LightWing		Lv1000 Hi-Light Wing	
-10602	1	Lv1000Hi-metashieldofhybrider		Lv1000 Hi-meta shield of hybrider	
-10603	1	Lv1000Hi-metamufflerofhybrider		Lv1000 Hi-meta muffler of hybrider	
-10604	1	[recipe]-650AxeGlaive		[recipe]-650 Axe Glaive	
-10605	1	[recipe]-650SwordBaushee		[recipe]-650 Sword Baushee	
-10606	1	[recipe]-650StaffBalgass		[recipe]-650 Staff Balgass	
-10607	1	[recipe]-650GunGalia		[recipe]-650 Gun Galia	
-10608	1	[recipe]-650RingNeil		[recipe]-650 Ring Neil	
-10609	1	[recipe]-650DualSwordArth		[recipe]-650 Dual Sword Arth	
-10610	1	[recipe]-650HammerXinha		[recipe]-650 Hammer Xinha	
-10611	1	[recipe]-650SpearPandaria		[recipe]-650 Spear Pandaria	
-10612	1	[recipe]-700AxeKaos		[recipe]-700 Axe  Kaos	
-10613	1	[recipe]-700SwordWorck		[recipe]-700 Sword Worck	
-10614	1	[recipe]-700StaffStraxe		[recipe]-700 Staff Straxe	
-10615	1	[recipe]-700GunTwilight		[recipe]-700 Gun Twilight	
-10616	1	[recipe]-700RingWraith		[recipe]-700 Ring Wraith	
-10617	1	[recipe]-700DualSwordZulaman		[recipe]-700 Dual Sword Zulaman	
-10618	1	[recipe]-700HammerDeath		[recipe]-700 Hammer Death	
-10619	1	[recipe]-700SpearDromon		[recipe]-700 Spear Dromon	
-10620	1	[recipe]-750AxeTanker		[recipe]-750 Axe Tanker	
-10621	1	[recipe]-750SwordQiraj		[recipe]-750 Sword Qiraj	
-10622	1	[recipe]-750StaffGreat		[recipe]-750 Staff  Great	
-10623	1	[recipe]-750GunBeheader		[recipe]-750 Gun Beheader	
-10624	1	[recipe]-750RingBeuroba		[recipe]-750 Ring Beuroba	
-10625	1	[recipe]-750DualSwordDagaz		[recipe]-750 Dual Sword Dagaz	
-10626	1	[recipe]-750HammerBlade		[recipe]-750 Hammer Blade	
-10627	1	[recipe]-750SpearDarkness		[recipe]-750 Spear Darkness	
-10628	1	[recipe]-800AxeElementalBrand		[recipe]-800 Axe Elemental Brand	
-10629	1	[recipe]-800SwordEinherjes		[recipe]-800 Sword Einherjes	
-10630	1	[recipe]-800StaffExclusive		[recipe]-800 Staff Exclusive	
-10631	1	[recipe]-800GunGeirendur		[recipe]-800 Gun Geirendur	
-10632	1	[recipe]-800RingGuardian		[recipe]-800 Ring Guardian	
-10633	1	[recipe]-800DualSwordHarkari		[recipe]-800 Dual Sword Harkari	
-10634	1	[recipe]-800HammerImpac		[recipe]-800 Hammer Impac	
-10635	1	[recipe]-800SpearKelpie		[recipe]-800 Spear Kelpie	
-10636	1	[recipe]-850AxeHeros		[recipe]-850 Axe Heros	
-10637	1	[recipe]-850SwordKua		[recipe]-850 Sword Kua	
-10638	1	[recipe]-850StaffOrk		[recipe]-850 Staff Ork	
-10639	1	[recipe]-850GunNealenia		[recipe]-850 Gun Nealenia	
-10640	1	[recipe]-850RingPolutted		[recipe]-850 Ring Polutted	
-10641	1	[recipe]-850DualSwordRinda		[recipe]-850 Dual Sword Rinda	
-10642	1	[recipe]-850HammerSatanic		[recipe]-850 Hammer Satanic	
-10643	1	[recipe]-850SpearShura		[recipe]-850 Spear Shura	
-10644	1	870斧子图纸		[recipe]-870 Axe Skebjene	
-10645	1	870剑图纸		[recipe]-870 Sword Strea	
-10646	1	870杖图纸		[recipe]-870 Staff Bersek	
-10647	1	870枪图纸		[recipe]-870 Gun Best	
-10648	1	870环图纸		[recipe]-870 Ring Temple	
-10649	1	870双刀图纸		[recipe]-870 Dual Sword Bracker	
-10650	1	870锤子图纸		[recipe]-870 Hammer Cutter	
-10651	1	870矛图纸		[recipe]-870 Spear Death Nell	
-10652	1	890斧子图纸		[recipe]-890 Axe Destroyer Death	
-10653	1	890剑图纸		[recipe]-890 Sword Divaga	
-10654	1	890杖图纸		[recipe]-890 Staff Dragons Paw	
-10655	1	890枪图纸		[recipe]-890 Gun Firebird	
-10656	1	890环图纸		[recipe]-890 Ring Elite	
-10657	1	890双刀图纸		[recipe]-890 Dual Sword Reliquia Two	
-10658	1	890锤子图纸		[recipe]-890 Hammer Eye Red	
-10659	1	890矛图纸		[recipe]-890 Spear Fangd	
-10660	1	[recipe]-1000AxeFireSoldier		[recipe]-1000 Axe Fire Soldier	
-10661	1	[recipe]-1000SwordFourth		[recipe]-1000 Sword Fourth	
-10662	1	[recipe]-1000StaffGrassScissor		[recipe]-1000 Staff Grass Scissor	
-10663	1	[recipe]-1000GunGoldenHawk		[recipe]-1000 Gun Golden Hawk	
-10664	1	[recipe]-1000RingGearing		[recipe]-1000 Ring Gearing	
-10665	1	[recipe]-1000DualSwordHellus		[recipe]-1000 Dual Sword Hellus	
-10666	1	[recipe]-1000HammerKash		[recipe]-1000 Hammer Kash	
-10667	1	[recipe]-1000SpearLanger		[recipe]-1000 Spear Langer	
-10668	1	Lv800Bulkan'sHi-MetashieldRecipe		Lv800 Bulkan's Hi-Meta shield Recipe	
-10669	1	Lv800Kalipton'sHi-MetaCapeRecipe		Lv800 Kalipton's Hi-Meta Cape Recipe	
-10670	1	Lv800Human'sHi-MetashieldRecipe		Lv800 Human's  Hi-Meta shield Recipe	
-10671	1	Lv800Hi-LightWingRecipe		Lv800 Hi-Light Wing Recipe	
-10672	1	Lv800Hi-metashieldofhybriderRecipe		Lv800 Hi-meta shield of hybrider Recipe	
-10673	1	Lv800Hi-metamufflerofhybriderRecipe		Lv800 Hi-meta muffler of hybrider Recipe	
-10674	1	Lv900Bulkan'sHi-MetashieldRecipe		Lv900 Bulkan's Hi-Meta shield Recipe	
-10675	1	Lv900Kalipton'sHi-MetaCapeRecipe		Lv900 Kalipton's Hi-Meta Cape Recipe	
-10676	1	Lv900Human'sHi-MetashieldRecipe		Lv900 Human's  Hi-Meta shield Recipe	
-10677	1	Lv900Hi-LightWingRecipe		Lv900 Hi-Light Wing Recipe	
-10678	1	Lv900Hi-metashieldofhybriderRecipe		Lv900 Hi-meta shield of hybrider Recipe	
-10679	1	Lv900Hi-metamufflerofhybriderRecipe		Lv900 Hi-meta muffler of hybrider Recipe	
-10680	1	Lv1000Bulkan'sHi-MetashieldRecipe		Lv1000 Bulkan's Hi-Meta shield Recipe	
-10681	1	Lv1000Kalipton'sHi-MetaCapeRecipe		Lv1000 Kalipton's Hi-Meta Cape Recipe	
-10682	1	Lv1000Human'sHi-MetashieldRecipe		Lv1000 Human's  Hi-Meta shield Recipe	
-10683	1	Lv1000Hi-LightWingRecipe		Lv1000 Hi-Light Wing Recipe	
-10684	1	Lv1000Hi-metashieldofhybriderRecipe		Lv1000 Hi-meta shield of hybrider Recipe	
-10685	1	Lv1000Hi-metamufflerofhybriderRecipe		Lv1000 Hi-meta muffler of hybrider Recipe	
-10686	1	GodStone(900)DDDDDDDDDDDDDDDDDDDD		God Stone (900)	
-10687	1	GodStone(1000)		God Stone (1000)	
-10688	1	强化机器副武器图纸		Elite Vritra Parts Recipe	
-10689	1	强化屠龙爆破刀图纸		Elite Dramata Demolition Recipe	
-10690	1	强化恶灵法杖图纸		Elite Raksha Wand Recipe	
-10691	1	强化蓝龙石图纸		Elite Iluminate Stone Recipe	
-10692	1	强化大喇叭图纸		Elite Tiamat Flute Recipe	
-10693	1	强化MK3图纸		Elite Drakan Rocket Recipe	
-10694	1	暗夜骑士头（红）		Dark Knight Head Ren	
-10695	1	暗夜骑士盔甲（红）		Dark Knight Shirt Ren	
-10696	1	暗夜骑士护腿（红）		Dark Knight Pants Ren	
-10697	1	暗夜骑士鞋（红）		Dark Knight Shoes Ren	
-10698	1	EventPVPHeroHelmet		Event PVP Hero Helmet	
-10699	1	EventPVPHeroArmor		Event PVP Hero Armor	
-10700	1	EventPVPHeroLegs		Event PVP Hero Legs	
-10701	1	EventPVPHeroBoots		Event PVP Hero Boots	
-10702	1	OgreClawsSummonStone		Ogre Claws Summon Stone	
-10703	1	ChristmasBulkan_AItem		Christmas Bulkan_A Item	
-10704	1	ChristmasBulkan_SItem		Christmas Bulkan_S Item	
-10705	1	ChristmasKailiptonItem		Christmas Kailipton Item	
-10706	1	ChristmasHumanItem		Christmas Human Item	
-10707	1	ChristmasAidiaItem		Christmas Aidia Item	
-10708	1	ChristmasHybrider_SItem		Christmas Hybrider_S Item	
-10709	1	ChristmasHybrider_HItem		Christmas Hybrider_H Item	
-10710	1	ChristmasPeronItem		Christmas Peron Item	
-10711	1	ChristmasBack		Christmas Back	
-10712	1	ChristmasShield		Christmas Shield	
-10820	1	UnstableVenomPartsRecipe		Unstable  Venom Parts Recipe	
-10821	1	UnstableShakulaDemolitionRecipe		Unstable Shakula Demolition Recipe	
-10822	1	UnstableNebulaWandRecipe		Unstable Nebula Wand Recipe	
-10823	1	UnstablePoisonStoneRecipe		Unstable Poison Stone Recipe	
-10824	1	UnstableDivineHarpsRecipe		Unstable Divine Flute Recipe	
-10825	1	UnstableMiniLayer-DrakanVitriaRecipe		Unstable Mini Layer-Drakan Vitria Recipe	
-10826	1	SubWeaponFragment01		Sub Weapon Fragment 01	
-10827	1	SubWeaponFragment02		Sub Weapon Fragment 02	
-10828	1	SubWeaponFragment03		Sub Weapon Fragment 03	
-10829	1	超级红药500装		Supreme HP Potion(500Pack)	
-10830	1	超级蓝药500装		Supreme MP Potion(500Pack)	
-10831	1	超级电池500装		Supreme EP Potion(500Pack)	
-10832	1	神话的终结者图纸		Venom Parts Recipe	
-10833	1	神话的斩神爆破刀图纸		Shakula Demolition Recipe	
-10834	1	神话的星海副杖图纸		Nebula Wand Recipe	
-10835	1	神话的毒龙石图纸		Poison Stone Recipe	
-10836	1	神话的魔神笛图纸		Divine Flute Recipe	
-10837	1	神话的斩神-MK3(G)图纸		Mini Layer-Drakan Vitria Recipe	
-10838	1	胜者之证		Winners Emblem	
-10839	1	中国斧子		Chinese NewYear Axe	
-10840	1	中国剑		Chinese NewYear Sword	
-10841	1	中国杖		Chinese NewYear Staff	
-10842	1	中国枪		Chinese NewYear Gun	
-10843	1	中国环		Chinese NewYear Ring	
-10844	1	中国双刀		Chinese NewYear Dual Sword	
-10845	1	中国锤		Chinese NewYear Hammer	
-10846	1	中国矛		Chinese NewYear Spear	
-10847	1	中国背饰		Chinese NewYear Wing/Back	
-10848	1	中国龙戒		Chinese NewYear Dragon Ring	
-10849	1	ChineseCoinA		Chinese Coin A	
-10850	1	ChineseCoinB		Chinese Coin B	
-10851	1	ChineseCoinC		Chinese Coin C	
-10852	1	中国盾		Chinese Shield	
-10853	1	CarnivalMask1		Carnival Mask 1	
-10854	1	CarnivalMask2		Carnival Mask 2	
-10855	1	TreasureBoxLP5$		Treasure Box LP 5$	
-10856	1	TreasureBoxLP10$		Treasure Box LP 10$	
-10857	1	TreasureBoxLP25$		Treasure Box LP 25$	
-10858	1	TreasureBoxLP50$		Treasure Box LP 50$	
-10859	1	TreasureBoxLP75$		Treasure Box LP 75$	
-10860	1	TreasureBoxLP100$		Treasure Box LP 100$	
-10861	1	[Divine]RecoveryPotion(500Pack)		[Divine] Recovery Potion(500Pack)	
-10862	1	PandoraAmulet		Pandora Amulet	
-10863	1	PandoraRing		Pandora Ring	
-10864	1	PandoraBracelet		Pandora Bracelet	
-10865	1	900战士头		890 Kronos Bulkan Helmet	
-10866	1	900战士盔甲		890 Kronos Bulkan Armor	
-10867	1	900战士护腿		890 Kronos Bulkan Legs	
-10868	1	900战士鞋		890 Kronos Bulkan Shoes	
-10869	1	900法师头		890 Eudemon Kailipton Helmet	
-10870	1	900法师盔甲		890 Eudemon Kailipton Armor	
-10871	1	900法师护腿		890 Eudemon Kailipton Legs	
-10872	1	900法师鞋		890 Eudemon Kailipton Shoes	
-10873	1	900人类头		890 Jupiter Human Helm	
-10874	1	900人类盔甲		890 Jupiter Human Armor	
-10875	1	900人类护腿		890 Jupiter Human Legs	
-10876	1	900人类鞋		890 Jupiter Human Shoes	
-10877	1	900绿头		890 Titanium Aida Helm	
-10878	1	900绿盔甲		890 Titanium Aida Armor	
-10879	1	900绿护腿		890 Titanium Aida Legs	
-10880	1	900绿鞋		890 Titanium Aida Shoes	
-10881	1	900新族头		890 Janis Hybrid Helm	
-10882	1	900新族盔甲		890 Janis Hybrid Armor	
-10883	1	900新族护腿		890 Janis Hybrid Legs	
-10884	1	900新族鞋		890 Janis Hybrid Shoes	
-10885	1	900机器头		890 Astral Perom Helmet	
-10886	1	900机器盔甲		890 Astral Perom Armor	
-10887	1	900机器护腿		890 Astral Perom Legs	
-10888	1	900机器鞋		890 Astral Perom Shoes	
-10889	1	ImmortalHPPotion(500Pack)		Immortal HP Potion(500Pack)	
-10890	1	ImmortalMPPotion(500Pack)		Immortal MP Potion(500Pack)	
-10891	1	ImmortalEPPotion(500Pack)		Immortal EP Potion(500Pack)	
-10892	1	垃圾头		Oracle Fragment Helmet	
-10893	1	垃圾盔甲		Oracle Fragment Armor	
-10894	1	垃圾长裤		Oracle Fragment Pants	
-10895	1	垃圾鞋		Oracle Fragment Boots	
-10896	1	垃圾武器		Oracle Fragment Weapons	
-10897	1	极品，赶紧抢aaaaaaaaaaaaaaaaaa		Oracle Rune Fragment	
-10898	1	武器灵魂结晶		Soul Absorb Weapon	
-10899	1	装备灵魂结晶		Soul Absorb Armor	
-10900	1	战士斧碎片		Bulkan Axe Fragments	
-10901	1	人类枪碎片		Human Gun Fragments	
-10902	1	绿环碎片		Aidia Ring Fragments	
-10903	1	法师杖碎片		Kailipton Staff Fragments	
-10904	1	新族双刀碎片		Hybrider Dual Sword Fragments	
-10905	1	机器矛碎片		Peron Spear Fragments	
-10906	1	GET870AxeRecipe		GET 870 Axe Recipe	
-10907	1	GET870SwordRecipe		GET 870 Sword Recipe	
-10908	1	GET870StaffRecipe		GET 870 Staff Recipe	
-10909	1	GET870GunRecipe		GET 870 Gun Recipe	
-10910	1	GET870RingRecipe		GET 870 Ring Recipe	
-10911	1	GET870DualSwordRecipe		GET 870 Dual Sword Recipe	
-10912	1	GET870HammerRecipe		GET 870 Hammer Recipe	
-10913	1	GET870SpearRecipe		GET 870 Spear Recipe	
-10914	1	战士剑碎片		Bulkan Sword Fragments	
-10915	1	新族锤碎片		Hybrider Hammer Fragments	
-11000	1	Luminox_BackKailipton		Luminox_Back Kailipton	
-11001	1	Eudemon_BackKailipton		Eudemon_Back Kailipton	
-11002	1	Titanium_BackAidia		Titanium_Back Aidia	
-11003	1	Jupiter_BackHuman		Jupiter_Back Human	
-11004	1	Luminox_BackKailiptonRecipe		Luminox_Back Kailipton Recipe	
-11005	1	870斧图纸		[recipe]-870 Axe Skebjene	
-11006	1	870剑图纸		[recipe]-870 Sword Strea	
-11007	1	870杖图纸		[recipe]-870 Staff Bersek	
-11008	1	870枪图纸		[recipe]-870 Gun Best	
-11009	1	870环图纸		[recipe]-870 Ring Temple	
-11010	1	870双刀图纸		[recipe]-870 Dual Sword Bracker	
-11011	1	870锤图纸		[recipe]-870 Hammer Cutter	
-11012	1	870矛图纸		[recipe]-870 Spear Death Nell	
-11013	1	870战士头图纸		[RECIPE]-870 Constantia Bulkan Helmet	
-11014	1	870战士盔甲图纸		[RECIPE]-870 Constantia Bulkan Armor	
-11015	1	870战士护腿图纸		[RECIPE]-870 Constantia Bulkan Legs	
-11016	1	870战士鞋图纸		[RECIPE]-870 Constantia Bulkan Shoes	
-11017	1	870法师头图纸		[RECIPE]-870 Luminox Kailipton Helmet	
-11018	1	870法师盔甲图纸		[RECIPE]-870 Luminox Kailipton Armor	
-11019	1	870法师护腿图纸		[RECIPE]-870 Luminox Kailipton Legs	
-11020	1	870法师鞋图纸		[RECIPE]-870 Luminox Kailipton Shoes	
-11021	1	870人类头图纸		[RECIPE]-870 Tripton Human Helm	
-11022	1	870人类盔甲图纸		[RECIPE]-870 Tripton Human Armor	
-11023	1	870人类护腿图纸		[RECIPE]-870 Tripton Human Legs	
-11024	1	870人类鞋图纸		[RECIPE]-870 Tripton Human Shoes	
-11025	1	870绿头图纸		[RECIPE]-870 Mercury Aida Helm	
-11026	1	870绿盔甲图纸		[RECIPE]-870 Mercury Aida Armor	
-11027	1	870绿护腿图纸		[RECIPE]-870 Mercury Aida Legs	
-11028	1	870绿鞋图纸		[RECIPE]-870 Mercury Aida Shoes	
-11029	1	870新族头图纸		[RECIPE]-870 Empress Hybrider Helm	
-11030	1	870新族盔甲图纸		[RECIPE]-870 Empress Hybrider Armor	
-11031	1	870新族护腿图纸		[RECIPE]-870 Empress Hybrider Legs	
-11032	1	870新族鞋图纸		[RECIPE]-870 Empress Hybrider Shoes	
-11033	1	870机器头图纸		[RECIPE]-870 Angeligue Perom Helmet	
-11034	1	870机器盔甲图纸		[RECIPE]-870 Angeligue Perom Armor	
-11035	1	870机器护腿图纸		[RECIPE]-870 Angeligue Perom Legs	
-11036	1	870机器鞋图纸		[RECIPE]-870 Angeligue Perom Shoes	
-11037	1	不稳定870战士头图纸		[50%RECIPE]-870 Constantia Bulkan Helmet	
-11038	1	不稳定870战士盔甲图纸		[50%RECIPE]-870 Constantia Bulkan Armor	
-11039	1	不稳定870战士护腿图纸		[50%RECIPE]-870 Constantia Bulkan Legs	
-11040	1	不稳定870战士鞋图纸		[50%RECIPE]-870 Constantia Bulkan Shoes	
-11041	1	不稳定870法师头图纸		[50%RECIPE]-870 Luminox Kai Helmet	
-11042	1	不稳定870法师盔甲图纸		[50%RECIPE]-870 Luminox Kai Armor	
-11043	1	不稳定870法师护腿图纸		[50%RECIPE]-870 Luminox Kai Legs	
-11044	1	不稳定870法师鞋图纸		[50%RECIPE]-870 Luminox Kai Shoes	
-11045	1	不稳定870人类头图纸		[50%RECIPE]-870 Tripton Human Helm	
-11046	1	不稳定870人类盔甲图纸		[50%RECIPE]-870 Tripton Human Armor	
-11047	1	不稳定870人类护腿图纸		[50%RECIPE]-870 Tripton Human Legs	
-11048	1	不稳定870人类鞋图纸		[50%RECIPE]-870 Tripton Human Shoes	
-11049	1	不稳定870绿头图纸		[50%RECIPE]-870 Mercury Aida Helm	
-11050	1	不稳定870绿盔甲图纸		[50%RECIPE]-870 Mercury Aida Armor	
-11051	1	不稳定870绿护腿图纸		[50%RECIPE]-870 Mercury Aida Legs	
-11052	1	不稳定870绿鞋图纸		[50%RECIPE]-870 Mercury Aida Shoes	
-11053	1	不稳定870新族头图纸		[50%RECIPE]-870 Empress Helm	
-11054	1	不稳定870新族盔甲图纸		[50%RECIPE]-870 Empress Armor	
-11055	1	不稳定870新族护腿图纸		[50%RECIPE]-870 Empress Legs	
-11056	1	不稳定870新族鞋图纸		[50%RECIPE]-870 Empress Shoes	
-11057	1	不稳定870机器头图纸		[50%RECIPE]-870 Angeligue Helmet	
-11058	1	不稳定870机器盔甲图纸		[50%RECIPE]-870 Angeligue Armor	
-11059	1	不稳定870机器护腿图纸		[50%RECIPE]-870 Angeligue Legs	
-11060	1	不稳定870机器鞋图纸		[50%RECIPE]-870 Angeligue Shoes	
-11061	1	宇宙终结者		Drahawk Parts	
-11062	1	宇宙砍刀		Catastrophe Demolition	
-11063	1	宇宙副杖		Frost Wand	
-11064	1	宇宙蓝龙石		Evil Stone	
-11065	1	宇宙大喇叭		Eternity Flute	
-11066	1	宇宙MK4		Magur Laser MK4	
-11067	1	Mine Layer - Pursuit		Mine Layer - Pursuit	
-11068	1	不稳定宇宙终结者图纸		[30%RECIPE]-Drahawk Parts	
-11069	1	不稳定宇宙砍刀图纸		[30%RECIPE]-Catastrophe Demolition	
-11070	1	不稳定宇宙副杖图纸		[30%RECIPE]-Frost Wand	
-11071	1	不稳定宇宙蓝龙石图纸		[30%RECIPE]-Evil Stone	
-11072	1	不稳定宇宙大喇叭图纸		[30%RECIPE]-Eternity Flute	
-11073	1	不稳定宇宙MK4图纸		[30%RECIPE]-Magur Laser MK4	
-11074	1	[30%RECIPE]-Mine Layer - Pursuit		[30%RECIPE]-Mine Layer - Pursuit	
-11075	1	宇宙终结者图纸		[100%RECIPE]-Drahawk Parts	
-11076	1	宇宙砍刀图纸		[100%RECIPE]-Catastrophe Demolition	
-11077	1	宇宙副杖图纸		[100%RECIPE]-Frost Wand	
-11078	1	宇宙蓝龙石图纸		[100%RECIPE]-Evil Stone	
-11079	1	宇宙大喇叭图纸		[100%RECIPE]-Eternity Flute	
-11080	1	宇宙MK4图纸		[100%RECIPE]-Magur Laser MK4	
-11081	1	[100%RECIPE]-Mine Layer - Pursuit		[100%RECIPE]-Mine Layer - Pursuit	
-11082	1	Mystic Parts		Mystic Parts	
-11083	1	Mithos Blade		Mithos Blade	
-11084	1	RLK Wand		RLK Wand	
-11085	1	MKT Stone		MKT Stone	
-11086	1	Demoniac Flute		Demoniac Flute	
-11087	1	Mine Layer - OTH		Mine Layer - OTH	
-11088	1	[30%RECIPE]-Mystic Parts		[30%RECIPE]-Mystic Parts	
-11089	1	[30%RECIPE]-Mithos Blade		[30%RECIPE]-Mithos Blade	
-11090	1	[30%RECIPE]-RLK Wand		[30%RECIPE]-RLK Wand	
-11091	1	[30%RECIPE]-MKT Stone		[30%RECIPE]-MKT Stone	
-11092	1	[30%RECIPE]-Demoniac Flute		[30%RECIPE]-Demoniac Flute	
-11093	1	[30%RECIPE]-Mine Layer - OTH		[30%RECIPE]-Mine Layer - OTH	
-11094	1	[100%RECIPE]-Mystic Parts		[100%RECIPE]-Mystic Parts	
-11095	1	[100%RECIPE]-Mithos Blade		[100%RECIPE]-Mithos Blade	
-11096	1	[100%RECIPE]-RLK Wand		[100%RECIPE]-RLK Wand	
-11097	1	[100%RECIPE]-MKT Stone		[100%RECIPE]-MKT Stone	
-11098	1	[100%RECIPE]-Demoniac Flute		[100%RECIPE]-Demoniac Flute	
-11099	1	[100%RECIPE]-Mine Layer - OTH		[100%RECIPE]-Mine Layer - OTH	
-11100	1	Kelial Summon Stone		Kelial Summon Stone	
-11101	1	Deneb Summon Stone		Deneb Summon Stone	
-11102	1	890斧子图纸		[Recipe]-890 Axe Destroyer Death	
-11103	1	890剑图纸		[Recipe]-890 Sword Divaga	
-11104	1	890杖图纸		[Recipe]-890 Staff Dragons Paw	
-11105	1	890枪图纸		[Recipe]-890 Gun Firebird	
-11106	1	890环图纸		[Recipe]-890 Ring Elite	
-11107	1	890双刀图纸		[Recipe]-890 Dual Sword Reliquia Two	
-11108	1	890锤子图纸		[Recipe]-890 Hammer Eye Red	
-11109	1	890矛图纸		[Recipe]-890 Spear Fangd	
-11110	1	890战士头图纸		[Recipe]-890 Kronos Bulkan Helmet	
-11111	1	890战士盔甲图纸		[Recipe]-890 Kronos Bulkan Armor	
-11112	1	890战士护腿图纸		[Recipe]-890 Kronos Bulkan Legs	
-11113	1	890战士鞋子图纸		[Recipe]-890 Kronos Bulkan Shoes	
-11114	1	890法师头图纸		[Recipe]-890 Eudemon Kailipton Helmet	
-11115	1	890法师盔甲图纸		[Recipe]-890 Eudemon Kailipton Armor	
-11116	1	890法师护腿图纸		[Recipe]-890 Eudemon Kailipton Legs	
-11117	1	890法师鞋子图纸		[Recipe]-890 Eudemon Kailipton Shoes	
-11118	1	890人类头图纸		[Recipe]-890 Jupiter Human Helm	
-11119	1	890人类盔甲图纸		[Recipe]-890 Jupiter Human Armor	
-11120	1	890人类护腿图纸		[Recipe]-890 Jupiter Human Legs	
-11121	1	890人类鞋子图纸		[Recipe]-890 Jupiter Human Shoes	
-11122	1	890绿头图纸		[Recipe]-890 Titanium Aida Helm	
-11123	1	890绿盔甲图纸		[Recipe]-890 Titanium Aida Armor	
-11124	1	890绿护腿图纸		[Recipe]-890 Titanium Aida Legs	
-11125	1	890绿鞋子图纸		[Recipe]-890 Titanium Aida Shoes	
-11126	1	890新族头图纸		[Recipe]-890 Janis Hybrid Helm	
-11127	1	890新族盔甲图纸		[Recipe]-890 Janis Hybrid Armor	
-11128	1	890新族护腿图纸		[Recipe]-890 Janis Hybrid Legs	
-11129	1	890新族鞋子图纸		[Recipe]-890 Janis Hybrid Shoes	
-11130	1	890机器头图纸		[Recipe]-890 Astral Perom Helmet	
-11131	1	890机器盔甲图纸		[Recipe]-890 Astral Perom Armor	
-11132	1	890机器护腿图纸		[Recipe]-890 Astral Perom Legs	
-11133	1	890机器鞋子图纸		[Recipe]-890 Astral Perom Shoes	
-11134	1	不稳定890战士头图纸		[Recipe35%]-890 Kronos Bulkan Helmet	
-11135	1	不稳定890战士盔甲图纸		[Recipe35%]-890 Kronos Bulkan Armor	
-11136	1	不稳定890战士护腿图纸		[Recipe35%]-890 Kronos Bulkan Legs	
-11137	1	不稳定890战士鞋子图纸		[Recipe35%]-890 Kronos Bulkan Shoes	
-11138	1	不稳定890法师头图纸		[Recipe35%]-890 Eudemon Kailipton Helmet	
-11139	1	不稳定890法师盔甲图纸		[Recipe35%]-890 Eudemon Kailipton Armor	
-11140	1	不稳定890法师护腿图纸		[Recipe35%]-890 Eudemon Kailipton Legs	
-11141	1	不稳定890法师鞋子图纸		[Recipe35%]-890 Eudemon Kailipton Shoes	
-11142	1	不稳定890人类头图纸		[Recipe35%]-890 Jupiter Human Helm	
-11143	1	不稳定890人类盔甲图纸		[Recipe35%]-890 Jupiter Human Armor	
-11144	1	不稳定890人类护腿图纸		[Recipe35%]-890 Jupiter Human Legs	
-11145	1	不稳定890人类鞋子图纸		[Recipe35%]-890 Jupiter Human Shoes	
-11146	1	不稳定890绿头图纸		[Recipe35%]-890 Titanium Aida Helm	
-11147	1	不稳定890绿盔甲图纸		[Recipe35%]-890 Titanium Aida Armor	
-11148	1	不稳定890绿护腿图纸		[Recipe35%]-890 Titanium Aida Legs	
-11149	1	不稳定890绿鞋子图纸		[Recipe35%]-890 Titanium Aida Shoes	
-11150	1	不稳定890新族头图纸		[Recipe35%]-890 Janis Hybrid Helm	
-11151	1	不稳定890新族盔甲图纸		[Recipe35%]-890 Janis Hybrid Armor	
-11152	1	不稳定890新族护腿图纸		[Recipe35%]-890 Janis Hybrid Legs	
-11153	1	不稳定890新族鞋子图纸		[Recipe35%]-890 Janis Hybrid Shoes	
-11154	1	不稳定890机器头图纸		[Recipe35%]-890 Astral Perom Helmet	
-11155	1	不稳定890机器盔甲图纸		[Recipe35%]-890 Astral Perom Armor	
-11156	1	不稳定890机器护腿图纸		[Recipe35%]-890 Astral Perom Legs	
-11157	1	不稳定890机器鞋子图纸		[Recipe35%]-890 Astral Perom Shoes	
-11158	1	Venatus Crystal Gem 1x		Venatus Crystal Gem 1x	
-11159	1	Venatus Crystal Gem 2x		Venatus Crystal Gem 2x	
-11160	1	Venatus Crystal Gem 3x		Venatus Crystal Gem 3x	
-11161	1	Space Adventurer		Space Adventurer	
-11162	1	a		Fragments of VENATUS A	
-11163	1	b		Fragments of VENATUS B	
-11164	1	c		Fragments of VENATUS C	
-11165	1	d		Fragments of VENATUS D	
-11166	1	e		Fragments of VENATUS E	
-11167	1	[Recipe]-Venatus Sign		[Recipe]-Venatus Sign	
-11168	1	Space Adventurer Stone 1		Space Adventurer Stone 1	
-11169	1	Space Adventurer Stone 2		Space Adventurer Stone 2	
-11170	1	Space Adventurer Stone 3		Space Adventurer Stone 3	
-11171	1	900宝石碎片1		Produce GS 900 Fragment 1	
-11172	1	900宝石碎片2		Produce GS 900 Fragment 2	
-11173	1	900宝石碎片3		Produce GS 900 Fragment 3	
-11174	1	900宝石碎片4		Produce GS 900 Fragment 4	
-11175	1	900宝石碎片5		Produce GS 900 Fragment 5	
-11176	1	900宝石碎片6		Produce GS 900 Fragment 6	
-11177	1	Venatus Sign		Venatus Sign	
-11178	1	Bulkan 45x Armor Fragment		Bulkan 45x Armor Fragment	
-11179	1	Kailipton 45x Armor Fragment		Kailipton 45x Armor Fragment	
-11180	1	Human 45x Armor Fragment		Human 45x Armor Fragment	
-11181	1	Aidia 45x Armor Fragment		Aidia 45x Armor Fragment	
-11182	1	Hybrider 45x Armor Fragment		Hybrider 45x Armor Fragment	
-11183	1	Perom 45x Armor Fragment		Perom 45x Armor Fragment	
-11184	1	Bulkan 60x Armor Fragment		Bulkan 60x Armor Fragment	
-11185	1	Kailipton 60x Armor Fragment		Kailipton 60x Armor Fragment	
-11186	1	Human 60x Armor Fragment		Human 60x Armor Fragment	
-11187	1	Aidia 60x Armor Fragment		Aidia 60x Armor Fragment	
-11188	1	Hybrider 60x Armor Fragment		Hybrider 60x Armor Fragment	
-11189	1	Perom 60x Armor Fragment		Perom 60x Armor Fragment	
-11190	1	[Gem890-Armor]Bulkan		[Gem890-Armor]Bulkan	
-11191	1	[Gem890-Armor]Kailipton		[Gem890-Armor]Kailipton	
-11192	1	[Gem890-Armor]Human		[Gem890-Armor]Human	
-11193	1	[Gem890-Armor]Aidia		[Gem890-Armor]Aidia	
-11194	1	[Gem890-Armor]Hybrider		[Gem890-Armor]Hybrider	
-11195	1	[Gem890-Armor]Perom		[Gem890-Armor]Perom	
-11196	1	[Gem890-SubWeapon]Bulkan		[Gem890-SubWeapon]Bulkan	
-11197	1	[Gem890-SubWeapon]Kailipton		[Gem890-SubWeapon]Kailipton	
-11198	1	[Gem890-SubWeapon]Human		[Gem890-SubWeapon]Human	
-11199	1	[Gem890-SubWeapon]Aidia		[Gem890-SubWeapon]Aidia	
-11200	1	[Gem890-SubWeapon]Hybrider		[Gem890-SubWeapon]Hybrider	
-11201	1	[Gem890-SubWeapon]Perom		[Gem890-SubWeapon]Perom	
-11202	1	[Gem890-Weapon]Bulkan Axe		[Gem890-Weapon]Bulkan Axe	
-11203	1	[Gem890-Weapon]Kailipton Staff		[Gem890-Weapon]Kailipton Staff	
-11204	1	[Gem890-Weapon]Human Gun		[Gem890-Weapon]Human Gun	
-11205	1	[Gem890-Weapon]Aidia Ring		[Gem890-Weapon]Aidia Ring	
-11206	1	[Gem890-Weapon]Hybrider Hammer		[Gem890-Weapon]Hybrider Hammer	
-11207	1	[Gem890-Weapon]Perom Spear		[Gem890-Weapon]Perom Spear	
-11208	1	[Gem890-Weapon]Bulkan Sword		[Gem890-Weapon]Bulkan Sword	
-11209	1	[Gem890-Weapon]Hybrider Sword		[Gem890-Weapon]Hybrider Sword	
-11210	1	副武器材料  AAAAAAAAAAAAAAAAAAAAAAAAAA		Artifact Relique SubWeapon	
-11211	1	武器材料    AAAAAAAAAAAAAAAAAAAAAAAAAA		Artifact Relique Weapon	
-11212	1	装备材料    DDDDDDDDDDDDDDDDDDDDDDDDDD		Artifact Relique Armor	
-11213	1	[Recipe]-Venatus Crystal Gem 2x		[Recipe]-Venatus Crystal Gem 2x	
-11214	1	[Recipe]-Venatus Crystal Gem 3x		[Recipe]-Venatus Crystal Gem 3x	
-11215	1	Artifact Relique SubWeapon V2		Artifact Relique SubWeapon V2	
-11216	1	Artifact Relique Weapon V2		Artifact Relique Weapon V2	
-11217	1	Artifact Relique Armor V2		Artifact Relique Armor V2	
-11218	1	Christmas Stick 2019		Christmas Stick 2019	
-11219	1	Christmas Star 2019		Christmas Star 2019	
-11220	1	Christmas Bell 2019		Christmas Bell 2019	
-11221	1	Christmas Tree 2019		Christmas Tree 2019	
-11222	1	Christmas Coin 2019		Christmas Coin 2019	
-11223	1	Christmas Special Event 2019		Christmas Special Event 2019	
-11224	1	Easter Event LP		Easter Event LP	
-11225	1	Easter  Event Egg		Easter  Event Egg	
-11226	1	Easter Event Axe		Easter Event Axe	
-11227	1	Easter Event Sword		Easter Event Sword	
-11228	1	Easter Event Staff		Easter Event Staff	
-11229	1	Easter Event Gun		Easter Event Gun	
-11230	1	Easter Event Ring		Easter Event Ring	
-11231	1	Easter Event Dual Sword		Easter Event Dual Sword	
-11232	1	Easter Event Hammer		Easter Event Hammer	
-11233	1	Easter Event Spear		Easter Event Spear	
-11234	1	Easter Event Wing/Back		Easter Event Wing/Back	
-11235	1	Easter Event Shield		Easter Event Shield	
-12000	1	[Royale]-HP Potion Lv.1	[Royale]-HP Potion Lv.1
-12001	1	[Royale]-HP Potion Lv.2	[Royale]-HP Potion Lv.2
-12002	1	[Royale]-HP Potion Lv.3	[Royale]-HP Potion Lv.3
-12003	1	[Royale]-HP Potion Lv.4	[Royale]-HP Potion Lv.4
-12004	1	[Royale]-HP Potion Lv.5	[Royale]-HP Potion Lv.5
-12005	1	[Royale]-HP Potion Lv.6	[Royale]-HP Potion Lv.6
-12006	1	[Royale]-HP Potion Lv.7	[Royale]-HP Potion Lv.7
-12007	1	[Royale]-HP Potion Lv.8	[Royale]-HP Potion Lv.8
-12008	1	[Royale]-HP Potion Lv.9	[Royale]-HP Potion Lv.9
-12009	1	[Royale]-HP Potion Lv.10	[Royale]-HP Potion Lv.10
-12010	1	[Royale]-HP EXTEND Lv.1	[Royale]-HP EXTEND Lv.1
-12011	1	[Royale]-HP EXTEND Lv.2	[Royale]-HP EXTEND Lv.2
-12012	1	[Royale]-HP EXTEND Lv.3	[Royale]-HP EXTEND Lv.3
-12013	1	[Royale]-HP EXTEND Lv.5	[Royale]-HP EXTEND Lv.5
-12014	1	[Royale]-HP EXTEND Lv.5	[Royale]-HP EXTEND Lv.5
-12015	1	[Royale]-HP EXTEND Lv.6	[Royale]-HP EXTEND Lv.6
-12050	1	#Basic_Weapon	#Basic_Weapon
-12051	1	#Crude_Weapon	#Crude_Weapon
-12052	1	#Grand_Weapon	#Grand_Weapon
-12053	1	#Rare_Weapon	#Rare_Weapon
-12054	1	#Arcane_Weapon	#Arcane_Weapon
-12055	1	#Unique_Weapon	#Unique_Weapon
-12056	1	#Heroic_Weapon	#Heroic_Weapon
-12057	1	#Divine_Weapon	#Divine_Weapon
-12058	1	#Celestial_Weapon	#Celestial_Weapon
-12059	1	#Epic_Weapon	#Epic_Weapon
-12060	1	#Legendary_Weapon	#Legendary_Weapon
-12061	1	#Mythic_Weapon	#Mythic_Weapon
-12062	1	[T.H]-Weapon Lv.13	[T.H]-Weapon Lv.13
-12063	1	[T.H]-Weapon Lv.14	[T.H]-Weapon Lv.14
-12064	1	[T.H]-Weapon Lv.15	[T.H]-Weapon Lv.15
-12065	1	[T.H]-Weapon Lv.16	[T.H]-Weapon Lv.16
-12100	1	[Royale]-Helmet Lv.1	[Royale]-Helmet Lv.1
-12101	1	[Royale-Armor Lv.1	[Royale]-Armor Lv.1
-12102	1	[Royale]-Pants Lv.1	[Royale]-Pants Lv.1
-12103	1	[Royale]-Boots Lv.1	[Royale]-Boots Lv.1
-12104	1	[Royale]-Helmet Lv.2	[Royale]-Helmet Lv.2
-12105	1	[Royale]-Armor Lv.2	[Royale]-Armor Lv.2
-12106	1	[Royale]-Pants Lv.2	[Royale]-Pants Lv.2
-12107	1	[Royale]-Boots Lv.2	[Royale]-Boots Lv.2
-12108	1	[Royale]-Helmet Lv.3	[Royale]-Helmet Lv.3
-12109	1	[Royale]-Armor Lv.3	[Royale]-Armor Lv.3
-12110	1	[Royale]-Pants Lv.3	[Royale]-Pants Lv.3
-12111	1	[Royale]-Boots Lv.3	[Royale]-Boots Lv.3
-12112	1	[Royale]-Helmet Lv.4	[Royale]-Helmet Lv.4
-12113	1	[Royale]-Armor Lv.4	[Royale]-Armor Lv.4
-12114	1	[Royale]-Pants Lv.4	[Royale]-Pants Lv.4
-12115	1	[Royale]-Boots Lv.4	[Royale]-Boots Lv.4
-12116	1	[Royale]-Helmet Lv.5	[Royale]-Helmet Lv.5
-12117	1	[Royale]-Armor Lv.5	[Royale]-Armor Lv.5
-12118	1	[Royale]-Pants Lv.5	[Royale]-Pants Lv.5
-12119	1	[Royale]-Boots Lv.5	[Royale]-Boots Lv.5
-12120	1	[Royale]-Helmet Lv.6	[Royale]-Helmet Lv.6
-12121	1	[Royale]-Armor Lv.6	[Royale]-Armor Lv.6
-12122	1	[Royale]-Pants Lv.6	[Royale]-Pants Lv.6
-12123	1	[Royale]-Boots Lv.6	[Royale]-Boots Lv.6
-12124	1	[Royale]-Helmet Lv.7	[Royale]-Helmet Lv.7
-12125	1	[Royale]-Armor Lv.7	[Royale]-Armor Lv.7
-12126	1	[Royale]-Pants Lv.7	[Royale]-Pants Lv.7
-12127	1	[Royale]-Boots Lv.7	[Royale]-Boots Lv.7
-12128	1	[Royale]-Helmet Lv.8	[Royale]-Helmet Lv.8
-12129	1	[Royale]-Armor Lv.8	[Royale]-Armor Lv.8
-12130	1	[Royale]-Pants Lv.8	[Royale]-Pants Lv.8
-12131	1	[Royale]-Boots Lv.8	[Royale]-Boots Lv.8
-12132	1	[Royale]-Helmet Lv.9	[Royale]-Helmet Lv.9
-12133	1	[Royale]-Armor Lv.9	[Royale]-Armor Lv.9
-12134	1	[Royale]-Pants Lv.9	[Royale]-Pants Lv.9
-12135	1	[Royale]-Boots Lv.9	[Royale]-Boots Lv.9
-12500	1	[Royale]-Sword Lv.1	[Royale]-Sword Lv.1
-12501	1	[Royale]-Axe Lv.1	[Royale]-Axe Lv.1
-12502	1	[Royale]-Staff Lv.1	[Royale]-Staff Lv.1
-12503	1	[Royale]-Gun Lv.1	[Royale]-Gun Lv.1
-12504	1	[Royale]-Ring Lv.1	[Royale]-Ring Lv.1
-12505	1	[Royale]-Dual Sword Lv.1	[Royale]-Dual Sword Lv.1
-12506	1	[Royale]-Hammer Lv.1	[Royale]-Hammer Lv.1
-12507	1	[Royale]-Spear Lv.1	[Royale]-Spear Lv.1
-12508	1	[Royale]-Sword Lv.2	[Royale]-Sword Lv.2
-12509	1	[Royale]-Axe Lv.2	[Royale]-Axe Lv.2
-12510	1	[Royale]-Staff Lv.2	[Royale]-Staff Lv.2
-12511	1	[Royale]-Gun Lv.2	[Royale]-Gun Lv.2
-12512	1	[Royale]-Ring Lv.2	[Royale]-Ring Lv.2
-12513	1	[Royale]-Dual Sword Lv.2	[Royale]-Dual Sword Lv.2
-12514	1	[Royale]-Hammer Lv.2	[Royale]-Hammer Lv.2
-12515	1	[Royale]-Spear Lv.2	[Royale]-Spear Lv.2
-12516	1	[Royale]-Sword Lv.3	[Royale]-Sword Lv.3
-12517	1	[Royale]-Axe Lv.3	[Royale]-Axe Lv.3
-12518	1	[Royale]-Staff Lv.3	[Royale]-Staff Lv.3
-12519	1	[Royale]-Gun Lv.3	[Royale]-Gun Lv.3
-12520	1	[Royale]-Ring Lv.3	[Royale]-Ring Lv.3
-12521	1	[Royale]-Dual Sword Lv.3	[Royale]-Dual Sword Lv.3
-12522	1	[Royale]-Hammer Lv.3	[Royale]-Hammer Lv.3
-12523	1	[Royale]-Spear Lv.3	[Royale]-Spear Lv.3
-12600	1	[Royale]-Pandora Amulet	[Royale]-Pandora Amulet
-12601	1	[Royale]-Pandora Ring 2.0	[Royale]-Pandora Ring 2.0
-12602	1	[Royale]-Pandora Bracelet 2.0	[Royale]-Pandora Bracelet 2.0
-12603	1	Battle Royale Pass	Battle Royale Pass
-12604	1	[Royale]-Box Kit	[Royale]-Box Kit
-12605	1	Event Ring Royale Lv1	Event Ring Royale Lv1
-12606	1	Event Ring Royale Lv2	Event Ring Royale Lv2
-12607	1	Event Ring Royale Lv3	Event Ring Royale Lv3
-12608	1	Event Ring Royale Lv4	Event Ring Royale Lv4
-12609	1	Event Ring Royale Lv5	Event Ring Royale Lv5
-12610	1	Event Ring Royale Lv6	Event Ring Royale Lv6
-12611	1	Event Ring Royale Lv7	Event Ring Royale Lv7
-12612	1	Event Ring Royale Lv8	Event Ring Royale Lv8
-12613	1	Event Ring Royale Lv9	Event Ring Royale Lv9
-12614	1	Event Ring Royale Lv10	Event Ring Royale Lv10
-12615	1	Event Ring Royale Lv11	Event Ring Royale Lv11
-12616	1	Event Ring Royale Lv12	Event Ring Royale Lv12
-12617	1	Event Ring Royale Lv13	Event Ring Royale Lv13
-12618	1	Event Ring Royale Lv14	Event Ring Royale Lv14
-12619	1	Event Ring Royale Lv15	Event Ring Royale Lv15
-12650	1	Royale Artifacts (Gem)	Royale Artifacts (Gem)
-12651	1	[Recipe]-Event Ring Royale Lv1	[Recipe]-Event Ring Royale Lv1
-12652	1	[Recipe]-Event Ring Royale Lv2	[Recipe]-Event Ring Royale Lv2
-12653	1	[Recipe]-Event Ring Royale Lv3	[Recipe]-Event Ring Royale Lv3
-12654	1	[Recipe]-Event Ring Royale Lv4	[Recipe]-Event Ring Royale Lv4
-12655	1	[Recipe]-Event Ring Royale Lv5	[Recipe]-Event Ring Royale Lv5
+10000	1	Lv400 神铸巨剑
+10001	1	Lv400 神铸巨斧
+10002	1	Lv400 神铸法杖
+10003	1	Lv400 神铸之枪
+10004	1	Lv400 神铸之环
+10005	1	Lv400 神铸双刃
+10006	1	Lv400 神铸战锤
+10007	1	Lv400 神铸长矛	
+10008	1	+++++++++神石(Lv400)+++++++++
+10009	1	GM 专用武器
+10010	1	Lv400 神铸巨剑图纸
+10011	1	Lv400 神铸巨斧图纸
+10012	1	Lv400 神铸法杖图纸
+10013	1	Lv400 神铸之枪图纸
+10014	1	Lv400 神铸之环图纸
+10015	1	Lv400 神铸双刃图纸
+10016	1	Lv400 神铸战锤图纸
+10017	1	Lv400 神铸长矛图纸	
+10018	1	神铸武器的尘埃
+10019	1	神铸武器零件
+10020	1	神铸武器零件图纸
+10021	1	铂金条(20金条)
+10022	1	赤金条(400金条)
+10023	1	机器人320 + 15装甲盒
+10024	1	Lv500 神铸巨剑
+10025	1	Lv500 神铸战斧
+10026	1	Lv500 神铸法杖
+10027	1	Lv500 神铸之枪
+10028	1	Lv500 神铸之环
+10029	1	Lv500 神铸双刃
+10030	1	Lv500 神铸战锤
+10031	1	Lv500 神铸长矛
+10032	1	+++++++++神石(Lv500)+++++++++
+10033	1	混乱武器任务 A
+10034	1	混乱武器任务 B
+10035	1	混乱武器任务 C
+10036	1	混乱武器任务 D
+10037	1	混乱武器任务 E
+10038	1	400至500交换令牌
+10039	1	古代符文 A
+10040	1	古代符文 B
+10041	1	古代符文 C
+10042	1	古代符文 D
+10043	1	古代符文 E
+10044	1	交换令牌接引
+10045	1	[混乱] HP延长药水
+10118	1	Lv500 布坎头盔
+10119	1	Lv500 布坎盔甲
+10120	1	Lv500 布坎长裤
+10121	1	Lv500 布坎战靴
+10122	1	Lv500 凯利顿头盔
+10123	1	Lv500 凯利顿盔甲
+10124	1	Lv500 凯利顿长裤
+10125	1	Lv500 凯利顿战靴
+10126	1	Lv500 人类头盔
+10127	1	Lv500 人类盔甲
+10128	1	Lv500 人类长裤
+10129	1	Lv500 人类战靴
+10130	1	Lv500 耶蒂亚头盔
+10131	1	Lv500 耶蒂亚盔甲
+10132	1	Lv500 耶蒂亚长裤
+10133	1	Lv500 耶蒂亚战靴
+10134	1	Lv500 海伯德头盔
+10135	1	Lv500 海伯德盔甲
+10136	1	Lv500 海伯德长裤
+10137	1	Lv500 海伯德战靴
+10138	1	Lv500 机器人头盔
+10139	1	Lv500 机器人盔甲
+10140	1	Lv500 机器人长裤
+10141	1	Lv500 机器人战靴
+10142	1	Lv600 布坎头盔
+10143	1	Lv600 布坎盔甲
+10144	1	Lv600 布坎长裤
+10145	1	Lv600 布坎战靴
+10146	1	Lv600 凯利顿头盔
+10147	1	Lv600 凯利顿盔甲
+10148	1	Lv600 凯利顿长裤
+10149	1	Lv600 凯利顿战靴
+10150	1	Lv600 人类头盔
+10151	1	Lv600 人类盔甲
+10152	1	Lv600 人类长裤
+10153	1	Lv600 人类战靴
+10154	1	Lv600 耶蒂亚头盔
+10155	1	Lv600 耶蒂亚盔甲
+10156	1	Lv600 耶蒂亚长裤
+10157	1	Lv600 耶蒂亚战靴
+10158	1	Lv600 海伯德头盔
+10159	1	Lv600 海伯德盔甲
+10160	1	Lv600 海伯德长裤
+10161	1	Lv600 海伯德战靴
+10162	1	Lv600 机器人头盔
+10163	1	Lv600 机器人盔甲
+10164	1	Lv600 机器人长裤
+10165	1	Lv600 机器人战靴
+10166	1	Lv700 布坎头盔
+10167	1	Lv700 布坎盔甲
+10168	1	Lv700 布坎长裤
+10169	1	Lv700 布坎战靴
+10170	1	Lv700 凯利顿头盔
+10171	1	Lv700 凯利顿盔甲
+10172	1	Lv700 凯利顿长裤
+10173	1	Lv700 凯利顿战靴
+10174	1	Lv700 人类头盔
+10175	1	Lv700 人类盔甲
+10176	1	Lv700 人类长裤
+10177	1	Lv700 人类战靴
+10178	1	Lv700 耶蒂亚头盔
+10179	1	Lv700 耶蒂亚盔甲
+10180	1	Lv700 耶蒂亚长裤
+10181	1	Lv700 耶蒂亚战靴
+10182	1	Lv700 海伯德头盔
+10183	1	Lv700 海伯德盔甲
+10184	1	Lv700 海伯德长裤
+10185	1	Lv700 海伯德战靴
+10186	1	Lv700 机器人头盔
+10187	1	Lv700 机器人盔甲
+10188	1	Lv700 机器人长裤
+10189	1	Lv700 机器人战靴
+10190	1	Lv600 布坎梅塔盾牌
+10191	1	Lv600 凯利顿神异披风
+10192	1	Lv600 人类梅塔盾牌
+10193	1	Lv600 耶蒂亚神异之翼
+10194	1	Lv600 海伯德盾牌
+10195	1	Lv600 海伯德围巾
+10196	1	Lv700 布坎梅塔盾牌
+10197	1	Lv700 凯利顿神异披风
+10198	1	Lv700 人类梅塔盾牌
+10199	1	Lv700 耶蒂亚神异之翼
+10200	1	Lv700 海伯德高级盾牌
+10201	1	Lv700 海伯德高级围巾
+10202	1	Lv550 戒指
+10203	1	Lv600 戒指
+10204	1	Lv650 戒指
+10205	1	Lv700 戒指
+10206	1	卓越的清音笛
+10207	1	卓越的圣蛇召唤石
+10208	1	金色光辉头盔
+10209	1	金色光辉盔甲
+10210	1	金色光辉护腿
+10211	1	金色光辉长靴
+10212	1	血弗兰兹帽
+10213	1	血弗兰兹护甲
+10214	1	血弗兰兹裤子
+10215	1	血弗兰兹靴
+10216	1	神秘的卢克帽
+10217	1	神秘的卢克衣
+10218	1	神秘的卢克裤
+10219	1	神秘的卢克鞋
+10220	1	我们harces帽
+10221	1	我们harces护甲
+10222	1	我们harces裤
+10223	1	我们harces靴
+10224	1	神圣的祝福头盔
+10225	1	神圣的祝福护甲
+10226	1	神圣的祝福裤子
+10227	1	神圣的祝福靴子
+10228	1	type02幻影头盔
+10229	1	type02幽灵盔甲
+10230	1	type02幽灵裤子
+10231	1	type02幻影靴
+10232	1	ISIS的头盔
+10233	1	ISIS装甲
+10234	1	isisl裤子
+10235	1	ISIS的靴子
+10236	1	克里格的头盔
+10237	1	克里格的装甲
+10238	1	克里格的裤子
+10239	1	克里格的靴子
+10240	1	普莱达头盔
+10241	1	普莱达装甲
+10242	1	普莱达裤子
+10243	1	普莱达靴
+10244	1	征服头盔
+10245	1	征服装甲
+10246	1	征服裤子
+10247	1	征服靴子
+10248	1	火焰头盔
+10249	1	火焰盔甲
+10250	1	火焰长裤
+10251	1	火焰靴
+10252	1	type03幻影头盔
+10253	1	type03幻影铠甲
+10254	1	type03幻影裤子
+10255	1	type03幻影靴
+10256	1	Lv700 布坎恶魔头盔
+10257	1	Lv700 布坎恶魔护甲
+10258	1	Lv700 布坎恶魔裤子
+10259	1	Lv700 布坎恶魔靴子
+10260	1	Lv700 耶蒂亚恶魔头盔
+10261	1	Lv700 耶蒂亚恶魔护甲
+10262	1	Lv700 耶蒂亚恶魔裤子
+10263	1	Lv700 耶蒂亚恶魔靴子
+10264	1	Lv700 凯利顿恶魔头盔
+10265	1	Lv700 凯利顿恶魔护甲
+10266	1	Lv700 凯利顿恶魔裤子
+10267	1	Lv700 凯利顿恶魔靴
+10268	1	Lv700 海伯德恶魔头盔
+10269	1	Lv700 海伯德恶魔护甲
+10270	1	Lv700 海伯德恶魔裤子
+10271	1	Lv700 海伯德恶魔靴子
+10272	1	Lv700 人类恶魔头盔
+10273	1	Lv700 人类恶魔护甲
+10274	1	Lv700 人类恶魔裤子
+10275	1	Lv700 人类恶魔靴子
+10276	1	Lv700 机器人恶魔头盔
+10277	1	Lv700 机器人恶魔护甲
+10278	1	Lv700 机器人恶魔裤子
+10279	1	Lv700 机器人恶魔靴子
+10280	1	Lv750 戒指
+10281	1	Lv800 戒指
+10282	1	+++++++++神石(Lv600)+++++++++
+10283	1	+++++++++神石(Lv700)+++++++++
+10284	1	+++++++++神石(Lv800)+++++++++
+10285	1	Lv500 布坎头盔图纸
+10286	1	Lv500 布坎盔甲图纸
+10287	1	Lv500 布坎长裤图纸
+10288	1	Lv500 布坎战靴图纸
+10289	1	Lv500 凯利顿头盔图纸
+10290	1	Lv500 凯利顿盔甲图纸
+10291	1	Lv500 凯利顿长裤图纸
+10292	1	Lv500 凯利顿战靴图纸
+10293	1	Lv500 人类头盔图纸
+10294	1	Lv500 人类盔甲图纸
+10295	1	Lv500 人类长裤图纸
+10296	1	Lv500 人类战靴图纸
+10297	1	Lv500 耶蒂亚头盔图纸
+10298	1	Lv500 耶蒂亚盔甲图纸
+10299	1	Lv500 耶蒂亚长裤图纸
+10300	1	Lv500 耶蒂亚战靴图纸
+10301	1	Lv500 海伯德头盔图纸
+10302	1	Lv500 海伯德盔甲图纸
+10303	1	Lv500 海伯德长裤图纸
+10304	1	Lv500 海伯德战靴图纸
+10305	1	Lv500 机器人头盔图纸
+10306	1	Lv500 机器人盔甲图纸
+10307	1	Lv500 机器人长裤图纸
+10308	1	Lv500 机器人战靴图纸
+10309	1	Lv600 布坎头盔图纸
+10310	1	Lv600 布坎盔甲图纸
+10311	1	Lv600 布坎长裤图纸
+10312	1	Lv600 布坎战靴图纸
+10313	1	Lv600 凯利顿头盔图纸
+10314	1	Lv600 凯利顿盔甲图纸
+10315	1	Lv600 凯利顿长裤图纸
+10316	1	Lv600 凯利顿战靴图纸
+10317	1	Lv600 人类头盔图纸
+10318	1	Lv600 人类盔甲图纸
+10319	1	Lv600 人类长裤图纸
+10320	1	Lv600 人类战靴图纸
+10321	1	Lv600 耶蒂亚头盔图纸
+10322	1	Lv600 耶蒂亚盔甲图纸
+10323	1	Lv600 耶蒂亚长裤图纸
+10324	1	Lv600 耶蒂亚战靴图纸
+10325	1	Lv600 海伯德头盔图纸
+10326	1	Lv600 海伯德盔甲图纸
+10327	1	Lv600 海伯德长裤图纸
+10328	1	Lv600 海伯德战靴图纸
+10329	1	Lv600 机器人头盔图纸
+10330	1	Lv600 机器人盔甲图纸
+10331	1	Lv600 机器人长裤图纸
+10332	1	Lv600 机器人战靴图纸
+10333	1	Lv700 布坎头盔图纸
+10334	1	Lv700 布坎盔甲图纸
+10335	1	Lv700 布坎长裤图纸
+10336	1	Lv700 布坎战靴图纸
+10337	1	Lv700 凯利顿头盔图纸
+10338	1	Lv700 凯利顿盔甲图纸
+10339	1	Lv700 凯利顿长裤图纸
+10340	1	Lv700 凯利顿战靴图纸
+10341	1	Lv700 人类头盔图纸
+10342	1	Lv700 人类盔甲图纸
+10343	1	Lv700 人类长裤图纸
+10344	1	Lv700 人类战靴图纸
+10345	1	Lv700 耶蒂亚头盔图纸
+10346	1	Lv700 耶蒂亚盔甲图纸
+10347	1	Lv700 耶蒂亚长裤图纸
+10348	1	Lv700 耶蒂亚战靴图纸
+10349	1	Lv700 海伯德头盔图纸
+10350	1	Lv700 海伯德盔甲图纸
+10351	1	Lv700 海伯德长裤图纸
+10352	1	Lv700 海伯德战靴图纸
+10353	1	Lv700 机器人头盔图纸
+10354	1	Lv700 机器人盔甲图纸
+10355	1	Lv700 机器人长裤图纸
+10356	1	Lv700 机器人战靴图纸
+10357	1	Lv600 布坎梅塔盾牌图纸
+10358	1	Lv600 凯利顿神异披风图纸
+10359	1	Lv600 人类梅塔盾牌图纸
+10360	1	Lv600 耶蒂亚神异之翼图纸
+10361	1	Lv600 海伯德盾牌图纸
+10362	1	Lv600 海伯德围巾图纸
+10363	1	Lv700 布坎梅塔盾牌图纸
+10364	1	Lv700 凯利顿神异披风图纸
+10365	1	Lv700 人类梅塔盾牌图纸
+10366	1	Lv700 耶蒂亚神异之翼图纸
+10367	1	Lv700 海伯德高级盾牌图纸
+10368	1	Lv700 海伯德高级围巾图纸
+10369	1	A
+10370	1	B
+10371	1	精致的屠龙爆破刀
+10372	1	精致的恶灵法帐
+10373	1	精致的蓝龙石
+10374	1	精致的战斧-MK3
+10375	1	精致的终结者部件
+10376	1	不稳定的精致的终结者部件图纸
+10377	1	不稳定的精致的屠龙爆破刀图纸
+10378	1	不稳定的精致的恶灵法帐图纸
+10379	1	不稳定的精致的蓝龙石图纸
+10380	1	不稳定的精致的清音笛图纸
+10381	1	不稳定的精致的战斧-MK3图纸
+10388	1	30000生命药水（10个）
+10389	1	30000生命药水（100个）
+10390	1	20000魔法药水（10个）
+10391	1	20000魔法药水（100个）
+10392	1	20000电力药水（10个）
+10393	1	20000电力药水（100个）
+10394	1	万圣节惊喜盒
+10395	1	雪人白头
+10396	1	雪人白上身
+10397	1	雪人白下身
+10398	1	雪人黄头
+10399	1	雪人黄上身
+10400	1	雪人黄下身
