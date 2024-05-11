@@ -14,7 +14,8 @@ end of skip
 57	1	GM专用双刃		GM Dual Sword	
 60	1	喷射手枪		Blaster Pistol	
 61	1	喷射步枪		Blaster Rifle	
-121	1	黄金盾牌		Golden Shield	
+121	1	黄金盾牌		Golden Shield
+133	1	中型红色药水	
 140	1	小型红色药水
 142	1	狼肉
 143	1	虎肉
@@ -272,7 +273,8 @@ end of skip
 466	1	雷射枪		Laser Shot Gun	
 467	1	杀手步枪		Killer Rifle	
 468	1	贤者之杖		Wiseman Staff	
-469	1	水晶之杖		Crystal Staff	
+469	1	水晶之杖		Crystal Staff
+470	1	强力红色药水	
 471	1	疾风剑		Cyclone Blade	
 472	1	狂啸斧		Scream Axe	
 473	1	隼之杖		Falcon Staff	
@@ -549,11 +551,15 @@ end of skip
 752	1	雷射-MK2		Laser Weapon-MK2	
 753	1	地雷埋设器-MK2		Mine Layer-MK2	
 754	1	小型火箭炮-MK2		Rocket Gun-MK2	
-755	1	中型火箭炮		Rocket Launcher	
+755	1	中型火箭炮		Rocket Launcher
+757	1	充电炮弹丸	
 756	1	小型核子发射筒		Mini Nuclear Launcher	
-758	1	充电炮弹组		Charging Shell Set	
-760	1	火焰胶囊组		Flame Capsule Set	
-762	1	雷射胶囊组		Laser Capsule Set	
+758	1	充电炮弹组		Charging Shell Set
+759	1	火焰弹丸	
+760	1	火焰胶囊组		Flame Capsule Set
+761	1	雷射弹丸	
+762	1	雷射胶囊组		Laser Capsule Set
+763	1	地雷弹丸	
 764	1	小型地雷组		Mini Mine Set	
 766	1	中型火箭		Rocket Cannon	
 767	1	核子飞弹		Nuclear Missile	
