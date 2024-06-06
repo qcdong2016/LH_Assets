@@ -1,10 +1,10 @@
 10
-Productions: through the recipe items
-????????? A system for making an item
+制  作 : 通过物品制作图纸的 
+         一个系统.(似乎这么翻译的)
 
-Unplug the machine: High buff to buff items of material
-????????? Systems that can pull an item
+抽  取 : 通过从物品中抽取材料
+         完成新图纸制作的系统
 
-Lagrange medals: the festival Lagrange medal Items
-??????????? Which replace the constant item
-??????????? System
+勋  章 : 通过一定数量的奖牌物品
+         兑换到勋章(可以做什么?
+         不知道)

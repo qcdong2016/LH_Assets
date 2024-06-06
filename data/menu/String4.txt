@@ -1,13 +1,13 @@
 13
-Strengthened: the new upgrade
-????????? The items in the system
-????????? Special options granted
-????????? System
+Reinforce : New upgrade
+         System to items
+         Special options
+         System
 
-Productions: the Platinum items
-????????? A system for making
+Production : Platinum items
+         Production system
 
-Reset: you can strengthen your items
-????????? So the current item
-????????? The options granted special
-????????? System initialization
+reset : Items can be strengthened
+         So that the current item
+         Special options granted
+         System to initialize

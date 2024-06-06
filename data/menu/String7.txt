@@ -1,7 +1,8 @@
 7
-Productions: through the recipe items
-????????? A system for making an item
+制  作 : 通过图纸物品和相应材料
+         来制作一个新的物品。
 
-Min year: Jean rating than the item
-????????? Disassemble the item making material
-????????? System that can be changed
+分  解 : 通过分解物品得到一些制作 
+         材料,根据不同的物品能分 
+         分解出不同的材料
+		 
