@@ -1318,8 +1318,8 @@ end of skip
 1590	1	妖刀村正		Muramasa Sword	
 1591	1	公会升级凭证		Guild Upgrade	
 1592	1	训练用布衣		Training Jacket	
-1593	1	训练用布鞋		Training Pants	
-1594	1	训练用长裤		Training Boots	
+1593	1	训练用长裤		Training Pants	
+1594	1	训练用布鞋		Training Boots	
 1595	1	训练用头盔		Training Hair Band	
 1596	1	智慧之书		Book of Wisdom	
 1597	1	惊喜彩球		Ball of Joy	
