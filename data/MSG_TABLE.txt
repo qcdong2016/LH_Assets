@@ -1107,7 +1107,7 @@ end of skip
 1140	合成时，额外功能会消失	Plus will disappear in fusion.
 1141	IMAGE	IMAGE
 1142	最少需输入1000金币	Insert not less than 1000 lime.
-1143	[%s] 金块:[%d] 银块:[%d] 铜块:[%d] 金币:[%I64d] 确定贩卖吗？	[%s] per gold bar: [%d] silver bar: [%d] copper bar: [%d] lime: [%d] sell?
+1143	[%s] 金块:[%d] 银块:[%d] 铜块:[%d] 金币:[%d] 确定贩卖吗？	[%s] per gold bar: [%d] silver bar: [%d] copper bar: [%d] lime: [%d] sell?
 1144	%s 物品持有时间，剩余时间 % d分 .	%s item's limit time remains %d minutes.
 1145	丢弃时同时删除	Delete when it is dropped. 
 1146	"时限物品如果丢弃将不可恢复,确定？"	"If a time limit item is dropped, it will be deleted. Do you want to drop? "
