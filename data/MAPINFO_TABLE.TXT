@@ -1,27 +1,28 @@
 zone index	Description	filename	map path	deco path	dungeon	Detail Ground	new dungeon	new terrain	music id	snow	Floor
 end of skip											
-0	·Î½ºÆ®·¼¸§	neogeo	map/neogeo/	data/building/neogeo/	0	1	0	1	0	0	-1
-1	µ¥Ä«·»	dungeon1	map/dungeon1/	data/building/dungeon1/	0	1	1	1	1	0	-1
-2	µ¥Ä«µĞ	dungeon1.lod	map/dungeon2/	data/building/dungeon2/	1	1	0	0	2	0	0
-3	È­ÀÌÆ®È¥	base	map/base/	data/building/base/	0	1	0	1	3	0	-1
-4	¶ó±×¶ó¹Ì¾Æ	start	map/start/	data/building/start/	0	1	0	1	4	0	-1
-5	½Ã·ç½ºÆ®	mapdungeon3.lod	map/dungeon3/	data/building/dungeon3/	1	1	0	0	5	0	-1
-6	Ãµ°øÀÇ¼º	mapsky.lod	map/sky/	data/building/sky/	0	0	0	0	6	0	-1
-7	È­ÀÌÆ®È¥	whitehorn	map/whitehorn/	data/building/whitehorn/	0	1	0	1	4	1	-1
-8	Á¦´©½º·¹¹ö³ÊÆ¼	dungeon4	map/dungeon4/	data/building/dungeon4/	0	1	1	1	0	1	-1
-9	µå¹ÌÆ®·Ğ	dmitron	map/dmitron/	data/building/dmitron/	0	1	0	1	0	0	-1
-10	¸ÅÆ®¸¯½º(¹Ì»ç¿ë)	matrix	map/matrix/	data/building/matrix/	0	1	0	1	4	0	-1
-11	±æµå¹èÆ²	gbattle	map/gbattle/	data/building/gbattle/	0	1	0	1	4	0	-1
-12	µå¹ÌÆ®·Ğ Á¡·ÉÀü	dmitron_battle	map/dmitron/	data/building/dmitron/	0	1	0	1	0	0	-1
-13	ºÒÄ­º¸½ºÁ¸	bulkan_boss	map/bulkan_boss/	data/building/bulkan_boss/	0	1	0	1	0	0	-1
-14	Ä«ÀÌº¸½ºÁ¸	kailipton_boss	map/kailipton_boss/	data/building/kailipton_boss/	0	1	0	1	0	0	-1
-15	¿¡ÀÌµğ¾Æº¸½ºÁ¸	aidia_boss	map/aidia_boss/	data/building/aidia_boss/	0	1	0	1	0	0	-1
-16	ÈŞ¸Õº¸½ºÁ¸	human_boss	map/human_boss/	data/building/human_boss/	0	1	0	1	0	0	-1
-17	ÇÏÀÌºê¸®´õº¸½ºÁ¸	hybrid_boss	map/hybrid_boss/	data/building/hybrid_boss/	0	1	0	1	0	1	-1
-18	ÃÖÁ¾º¸½ºÀü	final_boss	map/final_boss/	data/building/final_boss/	0	1	0	1	0	0	-1
-19	¸şºñ¿ì½º¾Æ·¡³ª	moebius	map/moebius/	data/building/moebius/	0	1	0	1	0	0	-1
-20	ÆŞ·Ğ·çÀÎ	forlom_zon01	map/forlom_zon01/	data/building/forlom_zon01/	0	1	0	1	0	0	-1
-21	À¯ÇÇÅÚ	aidia	map/aidia/	data/building/aidia/	0	1	0	1	0	0	-1
-22	ÆŞ·Ğ·çÀÎS2	forlorn_zone02	map/forlorn_zone02/	data/building/forlorn_zone02/	0	1	0	1	0	0	-1
-23	¿À¿°µÈ »ç¸·	forlorn_zone03	map/forlorn_zone03/	data/building/forlorn_zone03/	0	1	0	1	0	0	-1
-24	ÆŞ·Ğ·çÀÎS4	forlorn_zone04	map/forlorn_zone04/	data/building/forlorn_zone04/	0	1	0	1	0	0	-1
+0	ã÷ÕªàòÜÂ	neogeo	map/neogeo/	data/building/neogeo/	0	1	0	1	0	0	-1
+1	Óã??	dungeon1	map/dungeon1/	data/building/dungeon1/	0	1	1	1	1	0	-1
+2	Óã??	dungeon1.lod	map/dungeon2/	data/building/dungeon2/	1	1	0	0	2	0	0
+3	ù¾×ÌøÁê«	base	map/base/	data/building/base/	0	1	0	1	3	0	-1
+4	ÕÃÌ«ÕÃÚ·???	start	map/start/	data/building/start/	0	1	0	1	4	0	-1
+5	ıñ?ŞÙ÷åò¢ù»àò	mapdungeon3.lod	map/dungeon3/	data/building/dungeon3/	1	1	0	0	5	0	-1
+6	ô¸Íöñıàò	mapsky.lod	map/sky/	data/building/sky/	0	0	0	0	6	0	-1
+7	?àä?ò¢	whitehorn	map/whitehorn/	data/building/whitehorn/	0	1	0	1	4	1	-1
+8	?ïÜÔ×Ïß	dungeon4	map/dungeon4/	data/building/dungeon4/	0	1	1	1	0	1	-1
+9	Ú·?÷å	dmitron	map/dmitron/	data/building/dmitron/	0	1	0	1	0	0	-1
+10	Ø°İï?ŞÙ-ä¹Öô?	matrix	map/matrix/	data/building/matrix/	0	1	0	1	4	0	-1
+11	Íë?ÛÉÙ£?	gbattle	map/gbattle/	data/building/gbattle/	0	1	0	1	4	0	-1
+12	ÓìÚ·÷å×Ì	dmitron_battle	map/dmitron/	data/building/dmitron/	0	1	0	1	0	0	-1
+13	??	bulkan_boss	map/bulkan_boss/	data/building/bulkan_boss/	0	1	0	1	0	0	-1
+14	÷é?××?	kailipton_boss	map/kailipton_boss/	data/building/kailipton_boss/	0	1	0	1	0	0	-1
+15	÷éŞŞ	aidia_boss	map/aidia_boss/	data/building/aidia_boss/	0	1	0	1	0	0	-1
+16	?ì¥	human_boss	map/human_boss/	data/building/human_boss/	0	1	0	1	0	0	-1
+17	??Ì«×ìÓì	hybrid_boss	map/hybrid_boss/	data/building/hybrid_boss/	0	1	0	1	0	1	-1
+18	?ÜÆÔôÜÂ	final_boss	map/final_boss/	data/building/final_boss/	0	1	0	1	0	0	-1
+19	Ø°İï?ŞÙ-??	moebius	map/moebius/	data/building/moebius/	0	1	0	1	0	0	-1
+20	Ûö??ì×s1	forlom_zon01	map/forlom_zon01/	data/building/forlom_zon01/	0	1	0	1	0	0	-1
+21	éÖù«÷å?	aidia	map/aidia/	data/building/aidia/	0	1	0	1	0	0	-1
+22	Ûö??ì×S2	forlorn_zone02	map/forlorn_zone02/	data/building/forlorn_zone02/	0	1	0	1	0	0	-1
+23	?æøîÜŞŞØ®S3	forlorn_zone03	map/forlorn_zone03/	data/building/forlorn_zone03/	0	1	0	1	0	0	-1
+24	Ûö??ì×S4	forlorn_zone04	map/forlorn_zone04/	data/building/forlorn_zone04/	0	1	0	1	0	0	-1
+25	Óã???îé	DekaranOld	map/DekaranOld/	data/building/DekaranOld/	1	1	0	0	1	0	-1
