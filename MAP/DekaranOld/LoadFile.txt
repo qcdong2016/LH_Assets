@@ -1,8 +1,0 @@
-// 헤더 파일 : 파일 이름외에는 바꾸지 마세요.
-1						
-map\\dungeon1\\dungeon1.raw			
-map\\dungeon1\\d1_height257.ht			
-data\dwave.lol				
-map\\dungeon1\\dcolor.tbl			
-map\\dungeon1\\dungeon_cli.att			
-map\\dungeon1\\d1_al.raw	
