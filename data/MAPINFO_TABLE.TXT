@@ -1,6 +1,6 @@
 zone index	Description	filename	map path	deco path	dungeon	Detail Ground	new dungeon	new terrain	music id	snow	Floor
 end of skip											
-0	失落城堡	neogeo	map/neogeo/	data/building/neogeo/	0	1	0	1	0	0	-1
+0	失落之城堡	neogeo	map/neogeo/	data/building/neogeo/	0	1	0	1	0	0	-1
 1	戴卡兰	dungeon1	map/dungeon1/	data/building/dungeon1/	0	1	1	1	1	0	-1
 2	戴卡顿	dungeon1.lod	map/dungeon2/	data/building/dungeon2/	1	1	0	0	2	0	0
 3	夏隆平原	base	map/base/	data/building/base/	0	1	0	1	3	0	-1
