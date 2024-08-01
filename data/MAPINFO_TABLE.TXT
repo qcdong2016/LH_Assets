@@ -20,9 +20,9 @@ end of skip
 17	贝尔格里德	hybrid_boss	map/hybrid_boss/	data/building/hybrid_boss/	0	1	0	1	0	1	-1
 18	马步登堡	final_boss	map/final_boss/	data/building/final_boss/	0	1	0	1	0	0	-1
 19	莫比乌斯-试炼	moebius	map/moebius/	data/building/moebius/	0	1	0	1	0	0	-1
-20	s1	forlom_zon01	map/forlom_zon01/	data/building/forlom_zon01/	0	1	0	1	0	0	-1
+20	荒凉的废墟s1	forlom_zon01	map/forlom_zon01/	data/building/forlom_zon01/	0	1	0	1	0	0	-1
 21	尤皮特	aidia	map/aidia/	data/building/aidia/	0	1	0	1	0	0	-1
-22	S2	forlorn_zone02	map/forlorn_zone02/	data/building/forlorn_zone02/	0	1	0	1	0	0	-1
-23	S3	forlorn_zone03	map/forlorn_zone03/	data/building/forlorn_zone03/	0	1	0	1	0	0	-1
-24	S4	forlorn_zone04	map/forlorn_zone04/	data/building/forlorn_zone04/	0	1	0	1	0	0	-1
+22	荒凉的废墟S2	forlorn_zone02	map/forlorn_zone02/	data/building/forlorn_zone02/	0	1	0	1	0	0	-1
+23	污染的沙漠S3	forlorn_zone03	map/forlorn_zone03/	data/building/forlorn_zone03/	0	1	0	1	0	0	-1
+24	荒凉的废墟S4	forlorn_zone04	map/forlorn_zone04/	data/building/forlorn_zone04/	0	1	0	1	0	0	-1
 25	戴卡伦的遗迹	DekaranOld	map/DekaranOld/	data/building/DekaranOld/	1	1	0	1	1	0	-1
