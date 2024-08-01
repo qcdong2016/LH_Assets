@@ -25,4 +25,4 @@ end of skip
 22	荒凉的废墟S2	forlorn_zone02	map/forlorn_zone02/	data/building/forlorn_zone02/	0	1	0	1	0	0	-1
 23	污染的沙漠S3	forlorn_zone03	map/forlorn_zone03/	data/building/forlorn_zone03/	0	1	0	1	0	0	-1
 24	荒凉的废墟S4	forlorn_zone04	map/forlorn_zone04/	data/building/forlorn_zone04/	0	1	0	1	0	0	-1
-25	戴卡伦的遗迹	DekaranOld	map/DekaranOld/	data/building/DekaranOld/	1	1	0	1	1	0	-1
+25	戴卡伦的遗迹	DekaranOld	map/DekaranOld/	data/building/DekaranOld/	0	1	1	1	1	1	-1
