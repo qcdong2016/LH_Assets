@@ -2045,8 +2045,8 @@ end of skip
 3224	大喇叭在使用过程中发现错误.	An error has occurred loudspeaker is in use.
 3225	物品数量不足.	Insufficient number of items.
 3226	你已经超过了信的信息.	You have exceeded the number of messages that letter.
-3240	%1% 金币回收率.	% 1% lime was recovered.
-3241	在回收的21亿金币中，回收率为1%.	In excess of 2.1 billion in recovered lime% 1% were recovered.
+3240	回收了%1%金币.	%1% lime was recovered.
+3241	在回收的21亿金币中，只回收了%1%.	In excess of 2.1 billion in recovered lime% 1% were recovered.
 3242	不能回收的金币.	The lime can not be recovered.
 3243	只有当个人商店的物品被出售，你才可以回收金币.	"Only when the individual store is being sold, you can recover the lime."
 3260	你将能够在攻城期间离开公会.	You will be able to leave the guild during the siege.
