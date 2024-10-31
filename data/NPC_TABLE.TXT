@@ -986,3 +986,4 @@ end of skip
 7014	#Celestial_Box
 7015	#Epic_Box
 7016	#Legendary_Box  X
+10033	戴卡兰遗迹出口
