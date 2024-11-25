@@ -3155,6 +3155,7 @@ end of skip
 3923	1	[this]破产安瓿		[This] Ruin ampoules	
 3924	1	[this]节日礼物		[This] constant gift of the festival	
 3925	1	[this]第十一周年拉什药水		[this] 11th anniversary Rush potion	
+4000	1	520药水		攻?、防御、??提高 200% 持??? 60 分?
 10000	1	Lv400 神铸巨剑
 10001	1	Lv400 神铸巨斧
 10002	1	Lv400 神铸法杖
