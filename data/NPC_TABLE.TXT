@@ -128,7 +128,7 @@ end of skip
 167	希斯曼
 168	Tumbling Chimpanzee
 169	主持人
-170	Guard Tower
+170	攻城守护塔
 171	Goalkeeper Khan
 172	Striker Khan
 173	球
