@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Window" skin="ButtonSkin_Dark" position="105 135 330 90" align="Center" layer="Modal">
+        <Widget type="TextBox" skin="TextBox_Dark" position="55 15 220 25" align="HCenter Top" name="t1">
+            <Property key="TextAlign" value="Center"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextShadowColour" value="0 0 0"/>
+        </Widget>
+        <Widget type="TextBox" skin="TextBox_Dark" position="55 50 220 25" align="HCenter Top" name="t2">
+            <Property key="TextAlign" value="Center"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextShadowColour" value="0 0 0"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>
