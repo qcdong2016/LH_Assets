@@ -6,4 +6,5 @@
 	<List file="UI_DarkTemplate.xml"/>
 	<List file="UI_Layers.xml"/>
 	<List file="UI_GameSkin.xml"/>
+	<List file="UI_GameTemplate.xml"/>
 </MyGUI>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Resource">
+    <Resource type="ResourceLayout" name="TextBox_Game" version="3.2.0">
+        <Widget type="Widget" skin="TextBoxSkin" position="0 0 16 16" name="Root">
+            <Property key="TextAlign" value="Default"/>
+            <Property key="FontName" value="GameFont"/>
+            <Property key="TextColour" value="1 1 1"/>
+            <UserString key="LE_TargetWidgetType" value="TextBox"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="Window_Game" version="3.2.0">
+        <Widget type="Widget" skin="AWindow" position="55 60 165 120" name="Root">
+            <UserString key="LE_TargetWidgetType" value="Window"/>
+            <Widget type="TextBox" skin="TextBox_Game" position="25 0 115 25" align="HStretch Top" name="Caption">
+                <Property key="FontName" value="GameFont"/>
+                <Property key="TextAlign" value="Center"/>
+            </Widget>
+            <Widget type="Widget" skin="PanelEmpty" position="15 25 135 80" align="Stretch" name="Client"/>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+</MyGUI>

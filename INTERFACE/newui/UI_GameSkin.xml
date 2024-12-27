@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MyGUI type="Resource" version="1.1">
-	<Resource type="ResourceSkin" name="POP_UP" size="44 32" texture="POP_UP.png">
+	<Resource type="ResourceSkin" name="Popup_Game" size="44 32" texture="POP_UP.png">
 		<BasisSkin type="SubSkin" offset="0 0 10 10" align="Left Top">
 			<State name="normal" offset="0 0 10 10"/>
 		</BasisSkin>
@@ -30,6 +30,317 @@
 		</BasisSkin>
 		<BasisSkin type="SimpleText" offset="10 10 24 12" align="Stretch">
 			<State name="normal" colour="1 1 1" shift="0"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="AWindow" size="148 114" texture="WIN2.png">
+		<BasisSkin type="SubSkin" offset="0 0 70 55" align="Left Top">
+			<State name="normal" offset="0 0 70 55"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="70 0 5 55" align="HStretch Top">
+			<State name="normal" offset="70 0 5 55"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="75 0 73 55" align="Right Top">
+			<State name="normal" offset="75 0 73 55"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="75 55 73 3" align="Right VStretch">
+			<State name="normal" offset="75 55 73 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="75 58 73 56" align="Right Bottom">
+			<State name="normal" offset="75 58 73 56"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="70 58 5 56" align="HStretch Bottom">
+			<State name="normal" offset="70 58 5 56"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 58 70 56" align="Left Bottom">
+			<State name="normal" offset="0 58 70 56"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 55 70 3" align="Left VStretch">
+			<State name="normal" offset="0 55 70 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="70 55 5 3" align="Stretch">
+			<State name="normal" offset="70 55 5 3"/>
+		</BasisSkin>
+		<BasisSkin type="SimpleText" offset="16 25 116 73" align="Stretch">
+			<State name="normal" colour="1 1 1" shift="0"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="AWindow2" size="150 50" texture="WIN1.png">
+		<BasisSkin type="SubSkin" offset="0 0 72 25" align="Left Top">
+			<State name="normal" offset="0 0 72 25"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="72 0 3 25" align="HStretch Top">
+			<State name="normal" offset="72 0 3 25"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="75 0 75 25" align="Right Top">
+			<State name="normal" offset="75 0 75 25"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="75 25 75 18" align="Right VStretch">
+			<State name="normal" offset="75 25 75 18"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="75 43 75 7" align="Right Bottom">
+			<State name="normal" offset="75 43 75 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="72 43 3 7" align="HStretch Bottom">
+			<State name="normal" offset="72 43 3 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 43 72 7" align="Left Bottom">
+			<State name="normal" offset="0 43 72 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 25 72 18" align="Left VStretch">
+			<State name="normal" offset="0 25 72 18"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="72 25 3 18" align="Stretch">
+			<State name="normal" offset="72 25 3 18"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="AGreenButton" size="69 25" texture="BTN_GREEN.png">
+		<BasisSkin type="SubSkin" offset="0 0 7 7" align="Left Top">
+			<State name="disabled" offset="0 75 7 7"/>
+			<State name="normal" offset="0 25 7 7"/>
+			<State name="highlighted" offset="0 0 7 7"/>
+			<State name="pushed" offset="0 50 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 0 55 7" align="HStretch Top">
+			<State name="disabled" offset="7 75 55 7"/>
+			<State name="normal" offset="7 25 55 7"/>
+			<State name="highlighted" offset="7 0 55 7"/>
+			<State name="pushed" offset="7 50 55 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 0 7 7" align="Right Top">
+			<State name="disabled" offset="62 75 7 7"/>
+			<State name="normal" offset="62 25 7 7"/>
+			<State name="highlighted" offset="62 0 7 7"/>
+			<State name="pushed" offset="62 50 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 7 7 11" align="Right VStretch">
+			<State name="disabled" offset="62 82 7 11"/>
+			<State name="normal" offset="62 32 7 11"/>
+			<State name="highlighted" offset="62 7 7 11"/>
+			<State name="pushed" offset="62 57 7 11"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 18 7 7" align="Right Bottom">
+			<State name="disabled" offset="62 93 7 7"/>
+			<State name="normal" offset="62 43 7 7"/>
+			<State name="highlighted" offset="62 18 7 7"/>
+			<State name="pushed" offset="62 68 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 18 55 7" align="HStretch Bottom">
+			<State name="disabled" offset="7 93 55 7"/>
+			<State name="normal" offset="7 43 55 7"/>
+			<State name="highlighted" offset="7 18 55 7"/>
+			<State name="pushed" offset="7 68 55 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 18 7 7" align="Left Bottom">
+			<State name="disabled" offset="0 93 7 7"/>
+			<State name="normal" offset="0 43 7 7"/>
+			<State name="highlighted" offset="0 18 7 7"/>
+			<State name="pushed" offset="0 68 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 7 7 11" align="Left VStretch">
+			<State name="disabled" offset="0 82 7 11"/>
+			<State name="normal" offset="0 32 7 11"/>
+			<State name="highlighted" offset="0 7 7 11"/>
+			<State name="pushed" offset="0 57 7 11"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 7 55 11" align="Stretch">
+			<State name="disabled" offset="7 82 55 11"/>
+			<State name="normal" offset="7 32 55 11"/>
+			<State name="highlighted" offset="7 7 55 11"/>
+			<State name="pushed" offset="7 57 55 11"/>
+		</BasisSkin>
+		<BasisSkin type="SimpleText" offset="4 4 61 17" align="Stretch">
+			<State name="disabled" colour="1 1 1" shift="0"/>
+			<State name="normal" colour="1 1 1" shift="0"/>
+			<State name="highlighted" colour="1 1 1" shift="0"/>
+			<State name="pushed" colour="1 1 1" shift="0"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="ABlueButton" size="69 25" texture="BTN_BLUE.png">
+		<BasisSkin type="SubSkin" offset="0 0 7 7" align="Left Top">
+			<State name="disabled" offset="0 75 7 7"/>
+			<State name="normal" offset="0 25 7 7"/>
+			<State name="highlighted" offset="0 0 7 7"/>
+			<State name="pushed" offset="0 50 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 0 55 7" align="HStretch Top">
+			<State name="disabled" offset="7 75 55 7"/>
+			<State name="normal" offset="7 25 55 7"/>
+			<State name="highlighted" offset="7 0 55 7"/>
+			<State name="pushed" offset="7 50 55 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 0 7 7" align="Right Top">
+			<State name="disabled" offset="62 75 7 7"/>
+			<State name="normal" offset="62 25 7 7"/>
+			<State name="highlighted" offset="62 0 7 7"/>
+			<State name="pushed" offset="62 50 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 7 7 11" align="Right VStretch">
+			<State name="disabled" offset="62 82 7 11"/>
+			<State name="normal" offset="62 32 7 11"/>
+			<State name="highlighted" offset="62 7 7 11"/>
+			<State name="pushed" offset="62 57 7 11"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 18 7 7" align="Right Bottom">
+			<State name="disabled" offset="62 93 7 7"/>
+			<State name="normal" offset="62 43 7 7"/>
+			<State name="highlighted" offset="62 18 7 7"/>
+			<State name="pushed" offset="62 68 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 18 55 7" align="HStretch Bottom">
+			<State name="disabled" offset="7 93 55 7"/>
+			<State name="normal" offset="7 43 55 7"/>
+			<State name="highlighted" offset="7 18 55 7"/>
+			<State name="pushed" offset="7 68 55 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 18 7 7" align="Left Bottom">
+			<State name="disabled" offset="0 93 7 7"/>
+			<State name="normal" offset="0 43 7 7"/>
+			<State name="highlighted" offset="0 18 7 7"/>
+			<State name="pushed" offset="0 68 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 7 7 11" align="Left VStretch">
+			<State name="disabled" offset="0 82 7 11"/>
+			<State name="normal" offset="0 32 7 11"/>
+			<State name="highlighted" offset="0 7 7 11"/>
+			<State name="pushed" offset="0 57 7 11"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 7 55 11" align="Stretch">
+			<State name="disabled" offset="7 82 55 11"/>
+			<State name="normal" offset="7 32 55 11"/>
+			<State name="highlighted" offset="7 7 55 11"/>
+			<State name="pushed" offset="7 57 55 11"/>
+		</BasisSkin>
+		<BasisSkin type="SimpleText" offset="4 4 61 17" align="Stretch">
+			<State name="disabled" colour="1 1 1" shift="0"/>
+			<State name="normal" colour="1 1 1" shift="0"/>
+			<State name="highlighted" colour="1 1 1" shift="0"/>
+			<State name="pushed" colour="1 1 1" shift="0"/>
+		</BasisSkin>
+	</Resource>
+
+	<Resource type="ResourceSkin" name="ARedButton" size="69 25" texture="BTN_RED.png">
+		<BasisSkin type="SubSkin" offset="0 0 7 7" align="Left Top">
+			<State name="disabled" offset="0 75 7 7"/>
+			<State name="normal" offset="0 25 7 7"/>
+			<State name="highlighted" offset="0 0 7 7"/>
+			<State name="pushed" offset="0 50 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 0 55 7" align="HStretch Top">
+			<State name="disabled" offset="7 75 55 7"/>
+			<State name="normal" offset="7 25 55 7"/>
+			<State name="highlighted" offset="7 0 55 7"/>
+			<State name="pushed" offset="7 50 55 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 0 7 7" align="Right Top">
+			<State name="disabled" offset="62 75 7 7"/>
+			<State name="normal" offset="62 25 7 7"/>
+			<State name="highlighted" offset="62 0 7 7"/>
+			<State name="pushed" offset="62 50 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 7 7 11" align="Right VStretch">
+			<State name="disabled" offset="62 82 7 11"/>
+			<State name="normal" offset="62 32 7 11"/>
+			<State name="highlighted" offset="62 7 7 11"/>
+			<State name="pushed" offset="62 57 7 11"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 18 7 7" align="Right Bottom">
+			<State name="disabled" offset="62 93 7 7"/>
+			<State name="normal" offset="62 43 7 7"/>
+			<State name="highlighted" offset="62 18 7 7"/>
+			<State name="pushed" offset="62 68 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 18 55 7" align="HStretch Bottom">
+			<State name="disabled" offset="7 93 55 7"/>
+			<State name="normal" offset="7 43 55 7"/>
+			<State name="highlighted" offset="7 18 55 7"/>
+			<State name="pushed" offset="7 68 55 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 18 7 7" align="Left Bottom">
+			<State name="disabled" offset="0 93 7 7"/>
+			<State name="normal" offset="0 43 7 7"/>
+			<State name="highlighted" offset="0 18 7 7"/>
+			<State name="pushed" offset="0 68 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 7 7 11" align="Left VStretch">
+			<State name="disabled" offset="0 82 7 11"/>
+			<State name="normal" offset="0 32 7 11"/>
+			<State name="highlighted" offset="0 7 7 11"/>
+			<State name="pushed" offset="0 57 7 11"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 7 55 11" align="Stretch">
+			<State name="disabled" offset="7 82 55 11"/>
+			<State name="normal" offset="7 32 55 11"/>
+			<State name="highlighted" offset="7 7 55 11"/>
+			<State name="pushed" offset="7 57 55 11"/>
+		</BasisSkin>
+		<BasisSkin type="SimpleText" offset="4 4 61 17" align="Stretch">
+			<State name="disabled" colour="1 1 1" shift="0"/>
+			<State name="normal" colour="1 1 1" shift="0"/>
+			<State name="highlighted" colour="1 1 1" shift="0"/>
+			<State name="pushed" colour="1 1 1" shift="0"/>
+		</BasisSkin>
+	</Resource>
+
+	<Resource type="ResourceSkin" name="AYellowButton" size="69 25" texture="BTN_YELLOW.png">
+		<BasisSkin type="SubSkin" offset="0 0 7 7" align="Left Top">
+			<State name="disabled" offset="0 75 7 7"/>
+			<State name="normal" offset="0 25 7 7"/>
+			<State name="highlighted" offset="0 0 7 7"/>
+			<State name="pushed" offset="0 50 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 0 55 7" align="HStretch Top">
+			<State name="disabled" offset="7 75 55 7"/>
+			<State name="normal" offset="7 25 55 7"/>
+			<State name="highlighted" offset="7 0 55 7"/>
+			<State name="pushed" offset="7 50 55 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 0 7 7" align="Right Top">
+			<State name="disabled" offset="62 75 7 7"/>
+			<State name="normal" offset="62 25 7 7"/>
+			<State name="highlighted" offset="62 0 7 7"/>
+			<State name="pushed" offset="62 50 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 7 7 11" align="Right VStretch">
+			<State name="disabled" offset="62 82 7 11"/>
+			<State name="normal" offset="62 32 7 11"/>
+			<State name="highlighted" offset="62 7 7 11"/>
+			<State name="pushed" offset="62 57 7 11"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="62 18 7 7" align="Right Bottom">
+			<State name="disabled" offset="62 93 7 7"/>
+			<State name="normal" offset="62 43 7 7"/>
+			<State name="highlighted" offset="62 18 7 7"/>
+			<State name="pushed" offset="62 68 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 18 55 7" align="HStretch Bottom">
+			<State name="disabled" offset="7 93 55 7"/>
+			<State name="normal" offset="7 43 55 7"/>
+			<State name="highlighted" offset="7 18 55 7"/>
+			<State name="pushed" offset="7 68 55 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 18 7 7" align="Left Bottom">
+			<State name="disabled" offset="0 93 7 7"/>
+			<State name="normal" offset="0 43 7 7"/>
+			<State name="highlighted" offset="0 18 7 7"/>
+			<State name="pushed" offset="0 68 7 7"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 7 7 11" align="Left VStretch">
+			<State name="disabled" offset="0 82 7 11"/>
+			<State name="normal" offset="0 32 7 11"/>
+			<State name="highlighted" offset="0 7 7 11"/>
+			<State name="pushed" offset="0 57 7 11"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 7 55 11" align="Stretch">
+			<State name="disabled" offset="7 82 55 11"/>
+			<State name="normal" offset="7 32 55 11"/>
+			<State name="highlighted" offset="7 7 55 11"/>
+			<State name="pushed" offset="7 57 55 11"/>
+		</BasisSkin>
+		<BasisSkin type="SimpleText" offset="4 4 61 17" align="Stretch">
+			<State name="disabled" colour="1 1 1" shift="0"/>
+			<State name="normal" colour="1 1 1" shift="0"/>
+			<State name="highlighted" colour="1 1 1" shift="0"/>
+			<State name="pushed" colour="1 1 1" shift="0"/>
 		</BasisSkin>
 	</Resource>
 </MyGUI>
