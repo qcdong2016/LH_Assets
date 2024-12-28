@@ -75,4 +75,19 @@
         </Widget>
         <CodeGeneratorSettings/>
     </Resource>
+    <Resource type="ResourceLayout" name="SliderH_Game" version="3.2.0">
+        <Widget type="Widget" skin="ANothing" position="25 50 50 35" name="Root">
+            <Property key="MoveToClick" value="true"/>
+            <Property key="VerticalAlignment" value="false"/>
+            <UserString key="LE_TargetWidgetType" value="ScrollBar"/>
+            <Widget type="Widget" skin="" position="1 0 48 35" align="Stretch" name="TrackPlace">
+                <Property key="NeedKey" value="false"/>
+                <Property key="InheritsPick" value="true"/>
+                <Widget type="Widget" skin="ASliderBGL" position="0 15 25 10" align="Left Top" name="FirstPart"/>
+                <Widget type="Widget" skin="ASliderBGR" position="25 15 24 10" align="Right Top" name="SecondPart"/>
+                <Widget type="Button" skin="ASilderButton" position="20 0 15 33" align="Left Top" name="Track"/>
+            </Widget>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
 </MyGUI>

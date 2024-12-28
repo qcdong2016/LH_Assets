@@ -411,4 +411,112 @@
 			<State name="pushed_checked" colour="1 1 1" shift="0"/>
 		</BasisSkin>
 	</Resource>
+	<Resource type="ResourceSkin" name="ASilderButton" size="11 26" texture="game.png">
+		<BasisSkin type="SubSkin" offset="0 0 4 6" align="Left Top">
+			<State name="normal" offset="252 186 4 6"/>
+			<State name="highlighted" offset="252 186 4 6"/>
+			<State name="pushed" offset="239 186 4 6"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="4 0 3 6" align="HStretch Top">
+			<State name="normal" offset="256 186 3 6"/>
+			<State name="highlighted" offset="256 186 3 6"/>
+			<State name="pushed" offset="243 186 3 6"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 0 4 6" align="Right Top">
+			<State name="normal" offset="259 186 4 6"/>
+			<State name="highlighted" offset="259 186 4 6"/>
+			<State name="pushed" offset="246 186 4 6"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 6 4 14" align="Right VStretch">
+			<State name="normal" offset="259 192 4 14"/>
+			<State name="highlighted" offset="259 192 4 14"/>
+			<State name="pushed" offset="246 192 4 14"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="7 20 4 6" align="Right Bottom">
+			<State name="normal" offset="259 206 4 6"/>
+			<State name="highlighted" offset="259 206 4 6"/>
+			<State name="pushed" offset="246 206 4 6"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="4 20 3 6" align="HStretch Bottom">
+			<State name="normal" offset="256 206 3 6"/>
+			<State name="highlighted" offset="256 206 3 6"/>
+			<State name="pushed" offset="243 206 3 6"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 20 4 6" align="Left Bottom">
+			<State name="normal" offset="252 206 4 6"/>
+			<State name="highlighted" offset="252 206 4 6"/>
+			<State name="pushed" offset="239 206 4 6"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 6 4 14" align="Left VStretch">
+			<State name="normal" offset="252 192 4 14"/>
+			<State name="highlighted" offset="252 192 4 14"/>
+			<State name="pushed" offset="239 192 4 14"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="4 6 3 14" align="Stretch">
+			<State name="normal" offset="256 192 3 14"/>
+			<State name="highlighted" offset="256 192 3 14"/>
+			<State name="pushed" offset="243 192 3 14"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="ASliderBGL" size="8 10" texture="game.png">
+		<BasisSkin type="SubSkin" offset="0 0 3 3" align="Left Top">
+			<State name="normal" offset="266 201 3 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="3 0 5 3" align="HStretch Top">
+			<State name="normal" offset="269 201 5 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="8 0 0 3" align="Right Top">
+			<State name="normal" offset="274 201 0 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="8 3 0 4" align="Right VStretch">
+			<State name="normal" offset="274 204 0 4"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="8 7 0 3" align="Right Bottom">
+			<State name="normal" offset="274 208 0 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="3 7 5 3" align="HStretch Bottom">
+			<State name="normal" offset="269 208 5 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 7 3 3" align="Left Bottom">
+			<State name="normal" offset="266 208 3 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 3 3 4" align="Left VStretch">
+			<State name="normal" offset="266 204 3 4"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="3 3 5 4" align="Stretch">
+			<State name="normal" offset="269 204 5 4"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="ASliderBGR" size="9 10" texture="game.png">
+		<BasisSkin type="SubSkin" offset="0 0 0 3" align="Left Top">
+			<State name="normal" offset="283 201 0 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 0 5 3" align="HStretch Top">
+			<State name="normal" offset="283 201 5 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 0 4 3" align="Right Top">
+			<State name="normal" offset="288 201 4 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 3 4 4" align="Right VStretch">
+			<State name="normal" offset="288 204 4 4"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 7 4 3" align="Right Bottom">
+			<State name="normal" offset="288 208 4 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 7 5 3" align="HStretch Bottom">
+			<State name="normal" offset="283 208 5 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 7 0 3" align="Left Bottom">
+			<State name="normal" offset="283 208 0 3"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 3 0 4" align="Left VStretch">
+			<State name="normal" offset="283 204 0 4"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 3 5 4" align="Stretch">
+			<State name="normal" offset="283 204 5 4"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="ANothing" size="16 16" texture="game.png">
+		<BasisSkin type="SubSkin" offset="0 0 16 16" align="Stretch"/>
+	</Resource>
 </MyGUI>
