@@ -313,8 +313,32 @@
 		</BasisSkin>
 	</Resource>
 	<Resource type="ResourceSkin" name="AScrollBar" size="17 11" texture="game.png">
-		<BasisSkin type="SubSkin" offset="0 0 17 11" align="Stretch">
-			<State name="normal" offset="216 115 17 11"/>
+		<BasisSkin type="SubSkin" offset="0 0 5 5" align="Left Top">
+			<State name="normal" offset="216 115 5 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 0 7 5" align="HStretch Top">
+			<State name="normal" offset="221 115 7 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="12 0 5 5" align="Right Top">
+			<State name="normal" offset="228 115 5 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="12 5 5 1" align="Right VStretch">
+			<State name="normal" offset="228 120 5 1"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="12 6 5 5" align="Right Bottom">
+			<State name="normal" offset="228 121 5 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 6 7 5" align="HStretch Bottom">
+			<State name="normal" offset="221 121 7 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 6 5 5" align="Left Bottom">
+			<State name="normal" offset="216 121 5 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 5 5 1" align="Left VStretch">
+			<State name="normal" offset="216 120 5 1"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 5 7 1" align="Stretch">
+			<State name="normal" offset="221 120 7 1"/>
 		</BasisSkin>
 	</Resource>
 	<Resource type="ResourceSkin" name="AScrollBarUp" size="17 17" texture="game.png">
@@ -363,6 +387,28 @@
 		</BasisSkin>
 		<BasisSkin type="SimpleText" offset="4 4 16 16" align="Stretch">
 			<State name="normal" colour="1 1 1" shift="0"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="ACheckbox" size="26 22" texture="game.png">
+		<BasisSkin type="SubSkin" offset="0 0 22 22" align="Left Top">
+			<State name="disabled" offset="189 181 22 22"/>
+			<State name="normal" offset="189 181 22 22"/>
+			<State name="highlighted" offset="189 203 22 22"/>
+			<State name="pushed" offset="189 203 22 22"/>
+			<State name="disabled_checked" offset="189 137 22 22"/>
+			<State name="normal_checked" offset="189 137 22 22"/>
+			<State name="highlighted_checked" offset="189 159 22 22"/>
+			<State name="pushed_checked" offset="189 159 22 22"/>
+		</BasisSkin>
+		<BasisSkin type="SimpleText" offset="23 2 3 18" align="Stretch">
+			<State name="disabled" colour="0.5 0.5 0.5" shift="0"/>
+			<State name="normal" colour="1 1 1" shift="0"/>
+			<State name="highlighted" colour="1 1 1" shift="0"/>
+			<State name="pushed" colour="1 1 1" shift="0"/>
+			<State name="disabled_checked" colour="0.5 0.5 0.5" shift="0"/>
+			<State name="normal_checked" colour="1 1 1" shift="0"/>
+			<State name="highlighted_checked" colour="1 1 1" shift="0"/>
+			<State name="pushed_checked" colour="1 1 1" shift="0"/>
 		</BasisSkin>
 	</Resource>
 </MyGUI>
