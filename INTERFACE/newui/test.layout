@@ -1,14 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MyGUI type="Layout" version="3.2.0">
-    <Widget type="Window" skin="WindowCX2_Dark" position="40 55 427 311" layer="Overlapped" name="_Main">
+    <Widget type="Window" skin="Window_Game" position="40 55 427 311" layer="Overlapped" name="_Main">
         <Property key="Caption" value="EditBox"/>
         <Property key="MinSize" value="150 150"/>
-        <Widget type="EditBox" skin="EditBoxSkin_Dark" position="0 5 420 205" align="Stretch" name="Edit">
-            <Property key="Caption" value="Select text in this EditBox\nand then select colour to colour it."/>
-            <Property key="TabPrinting" value="true"/>
+        <Widget type="Button" skin="GreenButton_Game" position="30 140 135 40">
+            <Property key="Caption" value="testreg12"/>
         </Widget>
-        <Widget type="Button" skin="Button_Dark" position="60 235 275 40">
-            <Property key="Caption" value="testreg123456abc你好"/>
+        <Widget type="ComboBox" skin="ComboBox_Game" position="50 35 195 30">
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+            <Property key="AddItem" value="123123"/>
+        </Widget>
+        <Widget type="Button" skin="CheckBox_Game" position="40 80 140 25">
+            <Property key="Caption" value="44444"/>
+        </Widget>
+        <Widget type="Button" skin="BlueButton_Game" position="200 135 160 40">
+            <Property key="Caption" value="1222"/>
+        </Widget>
+        <Widget type="Button" skin="RedButton_Game" position="80 200 130 35">
+            <Property key="Caption" value="3333"/>
+        </Widget>
+        <Widget type="Button" skin="YellowButton_Game" position="250 195 120 45">
+            <Property key="Caption" value="2222"/>
         </Widget>
     </Widget>
     <CodeGeneratorSettings/>

@@ -519,4 +519,73 @@
 	<Resource type="ResourceSkin" name="ANothing" size="16 16" texture="game.png">
 		<BasisSkin type="SubSkin" offset="0 0 16 16" align="Stretch"/>
 	</Resource>
+	<Resource type="ResourceSkin" name="AListBoxItem" size="20 20" texture="game.png">
+		<BasisSkin type="SubSkin" offset="0 0 5 5" align="Left Top">
+			<State name="normal" offset="296 194 5 5"/>
+			<State name="highlighted" offset="296 149 5 5"/>
+			<State name="normal_checked" offset="296 127 5 5"/>
+			<State name="highlighted_checked" offset="296 105 5 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 0 10 5" align="HStretch Top">
+			<State name="normal" offset="301 194 10 5"/>
+			<State name="highlighted" offset="301 149 10 5"/>
+			<State name="normal_checked" offset="301 127 10 5"/>
+			<State name="highlighted_checked" offset="301 105 10 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="15 0 5 5" align="Right Top">
+			<State name="normal" offset="311 194 5 5"/>
+			<State name="highlighted" offset="311 149 5 5"/>
+			<State name="normal_checked" offset="311 127 5 5"/>
+			<State name="highlighted_checked" offset="311 105 5 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="15 5 5 10" align="Right VStretch">
+			<State name="normal" offset="311 199 5 10"/>
+			<State name="highlighted" offset="311 154 5 10"/>
+			<State name="normal_checked" offset="311 132 5 10"/>
+			<State name="highlighted_checked" offset="311 110 5 10"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="15 15 5 5" align="Right Bottom">
+			<State name="normal" offset="311 209 5 5"/>
+			<State name="highlighted" offset="311 164 5 5"/>
+			<State name="normal_checked" offset="311 142 5 5"/>
+			<State name="highlighted_checked" offset="311 120 5 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 15 10 5" align="HStretch Bottom">
+			<State name="normal" offset="301 209 10 5"/>
+			<State name="highlighted" offset="301 164 10 5"/>
+			<State name="normal_checked" offset="301 142 10 5"/>
+			<State name="highlighted_checked" offset="301 120 10 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 15 5 5" align="Left Bottom">
+			<State name="normal" offset="296 209 5 5"/>
+			<State name="highlighted" offset="296 164 5 5"/>
+			<State name="normal_checked" offset="296 142 5 5"/>
+			<State name="highlighted_checked" offset="296 120 5 5"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="0 5 5 10" align="Left VStretch">
+			<State name="normal" offset="296 199 5 10"/>
+			<State name="highlighted" offset="296 154 5 10"/>
+			<State name="normal_checked" offset="296 132 5 10"/>
+			<State name="highlighted_checked" offset="296 110 5 10"/>
+		</BasisSkin>
+		<BasisSkin type="SubSkin" offset="5 5 10 10" align="Stretch">
+			<State name="normal" offset="301 199 10 10"/>
+			<State name="highlighted" offset="301 154 10 10"/>
+			<State name="normal_checked" offset="301 132 10 10"/>
+			<State name="highlighted_checked" offset="301 110 10 10"/>
+		</BasisSkin>
+		<BasisSkin type="SimpleText" offset="2 2 16 16" align="Stretch">
+			<State name="normal" colour="1 1 1" shift="0"/>
+			<State name="highlighted" colour="1 1 1" shift="0"/>
+			<State name="normal_checked" colour="1 1 1" shift="0"/>
+			<State name="highlighted_checked" colour="1 1 1" shift="0"/>
+		</BasisSkin>
+	</Resource>
+	<Resource type="ResourceSkin" name="AXButton" size="10 10" texture="game.png">
+		<BasisSkin type="SubSkin" offset="0 0 10 10" align="Stretch">
+			<State name="normal" offset="220 136 10 10"/>
+			<State name="highlighted" offset="220 148 10 10"/>
+			<State name="pushed" offset="220 148 10 10"/>
+		</BasisSkin>
+	</Resource>
 </MyGUI>

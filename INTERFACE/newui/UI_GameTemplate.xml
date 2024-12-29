@@ -9,13 +9,16 @@
         </Widget>
     </Resource>
     <Resource type="ResourceLayout" name="Window_Game" version="3.2.0">
-        <Widget type="Widget" skin="AWindow" position="55 60 165 120" name="Root">
+        <Widget type="Widget" skin="AWindow" position="55 60 145 120" name="Root">
             <UserString key="LE_TargetWidgetType" value="Window"/>
-            <Widget type="TextBox" skin="TextBox_Game" position="25 0 115 25" align="HStretch Top" name="Caption">
+            <Widget type="TextBox" skin="TextBox_Game" position="25 0 95 25" align="HStretch Top" name="Caption">
                 <Property key="FontName" value="GameFont"/>
                 <Property key="TextAlign" value="Center"/>
+                <Property key="TextShadow" value="true"/>
+                <Property key="TextShadowColour" value="0 0 0"/>
             </Widget>
-            <Widget type="Widget" position="15 25 135 80" align="Stretch" name="Client"/>
+            <Widget type="Widget" skin="" position="15 25 115 80" align="Stretch" name="Client"/>
+            <Widget type="Button" skin="AXButton" position="127 7 10 10" align="Right Top"/>
         </Widget>
         <CodeGeneratorSettings/>
     </Resource>
@@ -59,9 +62,9 @@
         <CodeGeneratorSettings/>
     </Resource>
     <Resource type="ResourceLayout" name="ListBoxItem_Game" version="3.2.0">
-        <Widget type="Widget" skin="ListBoxItemSkin_Dark" position="20 20 20 20" name="Root">
+        <Widget type="Widget" skin="AListBoxItem" position="20 20 20 20" name="Root">
             <Property key="TextAlign" value="Left VCenter"/>
-            <Property key="FontName" value="DejaVuSansFont_13"/>
+            <Property key="FontName" value="GameFont"/>
             <UserString key="LE_TargetWidgetType" value="Button"/>
         </Widget>
     </Resource>
@@ -89,5 +92,59 @@
             </Widget>
         </Widget>
         <CodeGeneratorSettings/>
+    </Resource>
+    <Resource type="ResourceLayout" name="ComboBox_Game" version="3.2.0">
+        <Widget type="Widget" skin="AEmpty" position="15 15 55 30" name="Root">
+            <Property key="MaxListLength" value="200"/>
+            <UserString key="LE_TargetWidgetType" value="ComboBox"/>
+            <Widget type="TextBox" skin="TextBoxSkin" position="5 5 25 20" align="Stretch" name="Client">
+                <Property key="FontName" value="GameFont"/>
+                <Property key="TextAlign" value="Left VCenter"/>
+                <Property key="Pointer" value="beam"/>
+            </Widget>
+            <Widget type="Button" skin="ScrollBarDown_Game" position="30 5 20 20" align="Right Top" name="Button"/>
+            <Widget type="ListBox" skin="ListBox_Game" position="15 45 55 40" style="Popup" layer="Popup" name="List">
+                <Property key="Visible" value="false"/>
+            </Widget>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+    <Resource type="ResourceLayout" name="GreenButton_Game" version="3.2.0">
+        <Widget type="Widget" skin="AGreenButton" position="20 20 50 20" name="Root">
+            <Property key="FontName" value="GameFont"/>
+            <Property key="TextAlign" value="Center"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextShadowColour" value="0 0 0"/>
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+    <Resource type="ResourceLayout" name="BlueButton_Game" version="3.2.0">
+        <Widget type="Widget" skin="ABlueButton" position="20 20 50 20" name="Root">
+            <Property key="FontName" value="GameFont"/>
+            <Property key="TextAlign" value="Center"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextShadowColour" value="0 0 0"/>
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="RedButton_Game" version="3.2.0">
+        <Widget type="Widget" skin="ARedButton" position="20 20 50 20" name="Root">
+            <Property key="FontName" value="GameFont"/>
+            <Property key="TextAlign" value="Center"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextShadowColour" value="0 0 0"/>
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+    <Resource type="ResourceLayout" name="YellowButton_Game" version="3.2.0">
+        <Widget type="Widget" skin="AYellowButton" position="20 20 50 20" name="Root">
+            <Property key="FontName" value="GameFont"/>
+            <Property key="TextAlign" value="Center"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextShadowColour" value="0 0 0"/>
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
     </Resource>
 </MyGUI>
