@@ -1225,7 +1225,7 @@ end of skip
 1258	你想提升公会等级吗?	Do you wish to proceed guild Level up?
 1259	你想解散公会吗?	Do you wish to dismiss your guild?
 1260	你真的要解散公会吗?	Do you really wish to dismiss your guild?
-1261	确定要离开吗?100万金钱将扣除并且48小时内不可申请加入公会.	Ten million lime will be spent 48 hours after joining (application). Do you wish to leave the guild?
+1261	离开公会将扣除1000万金钱且48小时候才可离开公会，确定吗？	Ten million lime will be spent 48 hours after joining (application). Do you wish to leave the guild?
 1262	请输入公会名称。	Please enter guild name
 1263	请输入4~20个字符的公会名.	Please enter guild name with 4 ~ 20 letters.
 1264	%'%s%' 不允许出现在公会名中.	%'%s%' is not allowed in guild name.
