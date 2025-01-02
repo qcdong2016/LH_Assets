@@ -799,6 +799,8 @@
 	},
 	"SET_51" :
 	{
+		"Effect": "color.efkefc",
+		"EffectScale": 20,
 		"STATUS":[
 			[0,200],
 			[1,100],
