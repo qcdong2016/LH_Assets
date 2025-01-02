@@ -660,6 +660,8 @@
 	},
 	"SET_42" :
 	{
+		"Effect": "snowDown.efkefc",
+		"EffectScale": 10,
 		"STATUS":[
 			[0,1200],
 			[1,300],
