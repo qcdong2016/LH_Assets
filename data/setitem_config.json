@@ -628,8 +628,6 @@
 	},
 	"SET_40" :
 	{
-		"Effect": "snowDown.efkefc",
-		"EffectScale": 20,
 		"STATUS":[
 			[0,1200],
 			[1,300],
@@ -646,8 +644,6 @@
 	},
 	"SET_41" :
 	{
-		"Effect": "snowDown.efkefc",
-		"EffectScale": 20,
 		"STATUS":[
 			[0,1200],
 			[1,300],
@@ -665,7 +661,7 @@
 	"SET_42" :
 	{
 		"Effect": "snowDown.efkefc",
-		"EffectScale": 20,
+		"EffectScale": 10,
 		"STATUS":[
 			[0,1200],
 			[1,300],
@@ -682,8 +678,6 @@
 	},
 	"SET_43" :
 	{
-		"Effect": "organgered.efkefc",
-		"EffectScale": 20,
 		"STATUS":[
 			[0,2700],
 			[1,1000],
@@ -807,6 +801,8 @@
 	},
 	"SET_51" :
 	{
+		"Effect": "color.efkefc",
+		"EffectScale": 20,
 		"STATUS":[
 			[0,200],
 			[1,100],
@@ -835,37 +831,17 @@
 			[4,1852]
 		]
 	},
-	"SET_53":
-	{
-		"Effect": "snowDown.efkefc",
-		"EffectScale": 20,
-		"STATUS":[
-			[0,1200],
-			[1,300],
-			[2,300],
-			[3,300],
-			[4,1],
-			[5,1]
-		],
-		"ITEM":[
-			[0,2084],
-			[1,2089],
-			[2,2094]
-		]
-	},
-	"SET_54":
+	"SET_53" :
 	{
 		"Effect": "black_color.efkefc",
 		"EffectScale": 20,
 		"STATUS":[
-			[0,7000],
-			[1,5000],
-			[2,5000],
-			[3,5000],
-			[4,2],
-			[5,2]
+			[0,200],
+			[1,100],
+			[2,100],
+			[3,100]			
 		],
-		"ITEM":[
+		"ITEM":[			
 			[0,2439],
 			[1,2440],
 			[2,2441],
