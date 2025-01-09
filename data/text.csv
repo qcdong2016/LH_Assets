@@ -3,3 +3,6 @@ teleporting,正在传送
 text_1,一件或多件相同类型的魔法珠宝（最多 12 件）
 text_2,如果您选择 1 至6 中的其中一个按钮
 text_3,消耗10点LP，你将获得
+need_content,需要如下内容:
+x_gold,x{} 金币
+rate_ok,{}% 成功率
