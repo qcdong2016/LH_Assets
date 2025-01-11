@@ -588,4 +588,9 @@
 			<State name="pushed" offset="220 148 10 10"/>
 		</BasisSkin>
 	</Resource>
+	<Resource type="ResourceSkin" name="AWhite" size="1 1" texture="game.png">
+		<BasisSkin type="SubSkin" offset="0 0 1 1" align="Stretch">
+			<State name="normal" offset="340 175 1 1"/>
+		</BasisSkin>
+	</Resource>
 </MyGUI>

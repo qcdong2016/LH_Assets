@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MyGUI type="Resource" version="1.1">
-	<Resource type="ResourceTrueTypeFont" name="GameFont">
+	<Resource type="MyGuiSdlFont" name="GameFont">
     <Property key="Source" value="C:/Windows/Fonts/simsun.ttc"/>
-    <Property key="Size" value="19"/>
+    <Property key="Size" value="20"/>
     <Property key="Resolution" value="50"/>
     <Property key="Antialias" value="false"/>
     <Property key="TabWidth" value="8"/>

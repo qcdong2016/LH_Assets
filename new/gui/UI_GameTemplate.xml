@@ -18,7 +18,9 @@
                 <Property key="TextShadowColour" value="0 0 0"/>
             </Widget>
             <Widget type="Widget" skin="" position="15 25 115 80" align="Stretch" name="Client"/>
-            <Widget type="Button" skin="AXButton" position="127 7 10 10" align="Right Top"/>
+            <Widget type="Button" skin="AXButton" position="127 7 10 10" align="Right Top" name="Button">
+                <UserString key="Event" value="close"/>
+            </Widget>
         </Widget>
         <CodeGeneratorSettings/>
     </Resource>
@@ -145,6 +147,43 @@
             <Property key="TextShadow" value="true"/>
             <Property key="TextShadowColour" value="0 0 0"/>
             <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="ScrollView" version="3.2.0">
+        <Widget type="Widget" skin="PanelSkin" position="5 5 65 65" name="Root">
+            <UserString key="LE_TargetWidgetType" value="ScrollView"/>
+            <Widget type="Widget" skin="ANothing" position="3 3 37 57" align="Stretch" name="Client"/>
+            <Widget type="ScrollBar" skin="ScrollBarV_Game" position="40 3 20 57" align="Right VStretch" name="VScroll"/>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+    <Resource type="ResourceLayout" name="EditBox_Game" version="3.2.0">
+        <Widget type="Widget" skin="AEmpty" position="65 10 35 26" name="Root">
+            <UserString key="LE_TargetWidgetType" value="EditBox"/>
+            <Widget type="TextBox" skin="ANothing" position="3 3 29 20" align="Stretch" name="Client">
+                <Property key="TextAlign" value="Left VCenter"/>
+                <Property key="FontName" value="GameFont"/>
+                <Property key="TextColour" value="1 1 1"/>
+                <Property key="Pointer" value="beam"/>
+            </Widget>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+    <Resource type="ResourceLayout" name="HyperTextBox">
+        <Widget type="Widget" skin="PanelEmpty" position="0 0 16 16" name="Root">
+            <Property key="Spacer" value="3 3"/>
+            <Property key="DefaultFont" value="GameFont"/>
+            <Property key="BoldFont" value="GameFont"/>
+            <Property key="ItalicFont" value="GameFont"/>
+            <Property key="BoldItalicFont" value="GameFont"/>
+            <Property key="Header1Font" value="GameFont"/>
+            <Property key="Header2Font" value="GameFont"/>
+            <Property key="Header3Font" value="GameFont"/>
+            <Widget type="ScrollViewPanel" skin="ScrollView" position="0 0 16 16" align="Stretch" name="ScrollViewPanel">
+                <Property key="CanvasAlign" value="Default"/>
+                <Property key="VisibleHScroll" value="false"/>
+                <Widget type="StackPanel" skin="PanelEmpty" position="0 0 16 16" align="Default" name="StackPanel"/>
+            </Widget>
         </Widget>
     </Resource>
 </MyGUI>
