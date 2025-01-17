@@ -6,3 +6,5 @@ text_3,消耗10点LP，你将获得
 need_content,需要如下内容:
 x_gold,x{} 金币
 rate_ok,{}% 成功率
+level,({}级)
+low_level,等级不足{}
