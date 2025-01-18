@@ -8,3 +8,4 @@ x_gold,x{} 金币
 rate_ok,{}% 成功率
 level,({}级)
 low_level,等级不足{}
+pet_slot,装备在{}号宠物位
