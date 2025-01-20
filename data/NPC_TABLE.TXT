@@ -638,7 +638,7 @@ end of skip
 702	Azure Quetzalcoatl
 703	Bone Spear
 704	Demon Valkr
-705	Mojo Golem
+705	废墟S2魔力石巨人
 706	Ruddy Quetzalcoatl
 707	废墟S1提拉龙
 708	Tentacle Goggles
@@ -650,7 +650,7 @@ end of skip
 714	Slayer Goathead
 715	残暴的食人魔机器
 716	残暴的铁钳蟹怪
-717	Cerberos
+717	三头地狱犬
 718	General Dealer Jenny
 719	Great Platonius
 720	Scalper Cion
@@ -705,7 +705,7 @@ end of skip
 769	General Store Roony
 770	冒险家助手(新人兑换)
 771	R2T2
-772	阿克拉Zakra
+772	扎克拉
 773	测绘机器人
 774	火炮机器人
 775	废墟S2蓝蝎子
