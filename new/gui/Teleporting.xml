@@ -1,0 +1,12 @@
+<div
+    class="panel"
+    width="330"
+    height="90"
+    align-items="center"
+    justify-content="center"
+    position="absolute"
+    gap="5"
+>
+    <text id="up"></text>
+    <text id="dl"></text>
+</div>
