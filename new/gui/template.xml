@@ -7,6 +7,13 @@
         size="14"
     ></font>
 
+     <style name="window">
+        <normal
+            background="stretch game.png 3 111 148 114 70 55 73 56"
+            padding="25 16 16 16"
+        />
+    </style>
+
     <style name="red_button">
         <normal
             color="#fff"
@@ -137,7 +144,7 @@
     <style name="panel">
         <normal
             background="stretch game.png 324 126 46 34 10 10 10 10"
-            padding="5"
+            padding="10"
         ></normal>
     </style>
 
@@ -156,7 +163,7 @@
             min-height="24"
             min-width="24"
         >
-            <text id="text" background="#00f"></text>
+            <text id="text"></text>
         </input>
     </template>
 
@@ -194,14 +201,23 @@
         </slider>
     </template>
 
-    <template name="checkbox_game">
+    <template name="game_checkbox">
         <checkbox
             align-items="center"
             flex-direction="row"
-            background="#f0f"
         >
             <div id="mark" class="checkbox" width="26" height="22"></div>
             <text id="text"></text>
+        </checkbox>
+    </template>
+
+    <template name="game_checkbox_right">
+        <checkbox
+            align-items="center"
+            flex-direction="row"
+        >
+            <text id="text"></text>
+            <div id="mark" class="checkbox" width="26" height="22"></div>
         </checkbox>
     </template>
 
@@ -210,6 +226,7 @@
             class="blue_button"
             align-items="center"
             justify-content="center"
+            padding="5"
         >
             <text id="text"
             ></text>
@@ -221,6 +238,7 @@
             class="red_button"
             align-items="center"
             justify-content="center"
+            padding="5"
         >
             <text id="text"
             ></text>
@@ -232,6 +250,7 @@
             class="green_button"
             align-items="center"
             justify-content="center"
+            padding="5"
         >
             <text id="text"
             ></text>
@@ -243,6 +262,7 @@
             class="yellow_button"
             align-items="center"
             justify-content="center"
+            padding="5"
         >
             <text id="text"
             ></text>
