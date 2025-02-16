@@ -1,18 +1,18 @@
-<div
-    class="window"
+<game_window
     width="280"
     height="410"
     left="270"
     top="100"
     gap="10"
 >
-
+    <slot id="title">
+        <text>登 陆</text>
+    </slot>
     <div
-        class="panel"
+        class="box"
         width="100%"
         height="190"
         padding="10"
-        margin-top="25"
     >
         <text color="#f0f">龙腾</text>
         <text color="#f0f">测试</text>
@@ -33,17 +33,25 @@
         <green_button width="80">登 陆</green_button>
     </div>
 
-    <game_checkbox_right
-        margin-left="71"
-    >记住密码</game_checkbox_right>
+    <div
+        flex-direction="row"
+    >
+        <game_checkbox_right
+            margin-left="71"
+            color="#666"
+        >记住密码</game_checkbox_right>
+
+        <div flex-grow="1"></div>
+    </div>
 
     <div
         flex-direction="row"
         justify-content="center"
         gap="10"
+        margin-top="20"
     >
         <green_button width="80">设置</green_button>
         <red_button width="80">退出</red_button>
 
     </div>
-</div>
+</game_window>

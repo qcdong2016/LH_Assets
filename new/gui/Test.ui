@@ -1,0 +1,15 @@
+<game_window
+    width="280"
+    height="410"
+>
+
+    <slot id="title">
+        <text>窗口标题</text>
+    </slot>
+
+    <div id="content"
+        width="100%"
+        flex-grow="1"
+        background="#f00">
+    </div>
+</game_window>

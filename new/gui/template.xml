@@ -7,12 +7,6 @@
         size="14"
     ></font>
 
-     <style name="window">
-        <normal
-            background="stretch game.png 3 111 148 114 70 55 73 56"
-            padding="25 16 16 16"
-        />
-    </style>
 
     <style name="red_button">
         <normal
@@ -20,11 +14,11 @@
             background="stretch game.png 74 3 69 25 7 7 7 7"
         />
         <hover
-            color="#f00"
+            color="#dfd"
             background="stretch game.png 74 53 69 25 7 7 7 7"
         />
         <pressed
-            color="#f0f"
+            color="#afa"
             background="stretch game.png 74 28 69 25 7 7 7 7"
         />
         <disabled
@@ -39,11 +33,11 @@
             background="stretch game.png 218 3 69 25 7 7 7 7"
         />
         <hover
-            color="#f00"
+            color="#dfd"
             background="stretch game.png 218 53 69 25 7 7 7 7"
         />
         <pressed
-            color="#f0f"
+            color="#afa"
             background="stretch game.png 218 28 69 25 7 7 7 7"
         />
         <disabled
@@ -58,11 +52,11 @@
             background="stretch game.png 3 3 69 25 7 7 7 7"
         />
         <hover
-            color="#f00"
+            color="#dfd"
             background="stretch game.png 3 53 69 25 7 7 7 7"
         />
         <pressed
-            color="#f0f"
+            color="#afa"
             background="stretch game.png 3 28 69 25 7 7 7 7"
         />
         <disabled
@@ -77,51 +71,43 @@
             background="stretch game.png 146 3 69 25 7 7 7 7"
         />
         <hover
-            color="#f00"
+            color="#dfd"
             background="stretch game.png 146 53 69 25 7 7 7 7"
         />
         <pressed
-            color="#f0f"
+            color="#afa"
             background="stretch game.png 146 28 69 25 7 7 7 7"
         />
         <disabled
-            color="#fff"
+            color="#666"
             background="stretch game.png 146 78 69 25 7 7 7 7"
         />
     </style>
 
     <style name="checkbox">
         <normal
-            color="#fff"
             background="image game.png 189 181 26 22"
         />
         <hover
-            color="#f00"
             background="image game.png 189 203 26 22"
         />
         <pressed
-            color="#f0f"
             background="image game.png 189 203 26 22"
         />
         <disabled
-            color="#fff"
             background="image game.png 189 181 26 22"
         />
 
         <checked_normal
-            color="#fff"
             background="image game.png 189 137 26 22"
         />
         <checked_hover
-            color="#f00"
             background="image game.png 189 159 26 22"
         />
         <checked_pressed
-            color="#f0f"
             background="image game.png 189 159 26 22"
         />
         <checked_disabled
-            color="#fff"
             background="image game.png 189 159 26 22"
         />
     </style>
@@ -139,6 +125,13 @@
         <disabled
             background="stretch game.png 160 111 24 24 6 6 6 6"
         />
+    </style>
+
+    <style name="box">
+        <normal
+            background="stretch game.png 160 111 24 24 6 6 6 6"
+            padding="6"
+        ></normal>
     </style>
 
     <style name="panel">
@@ -267,5 +260,21 @@
             <text id="text"
             ></text>
         </button>
+    </template>
+
+    <template name="game_window">
+        <div
+            background="stretch game.png 3 111 148 114 70 55 73 56"
+            padding="0 16 16 16"
+        >
+            <div
+                width="100%"
+                height="25"
+                justify-content="center"
+                align-items="center"
+            >
+                <slot id="title"> </slot>
+            </div>
+        </div>
     </template>
 </root>
