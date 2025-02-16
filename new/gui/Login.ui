@@ -8,15 +8,15 @@
     <slot id="title">
         <text>登 陆</text>
     </slot>
-    <div
+    <listbox
         class="box"
         width="100%"
         height="190"
         padding="10"
     >
-        <text color="#f0f">龙腾</text>
-        <text color="#f0f">测试</text>
-    </div>
+        <listitem> <text >龙腾</text> </listitem>
+        <listitem> <text >测试</text> </listitem>
+    </listbox>
 
     <div flex-direction="row" gap="10">
         <div>
