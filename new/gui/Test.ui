@@ -1,15 +1,24 @@
 <game_window
-    width="280"
+    width="250"
     height="410"
+    align-items="center"
 >
 
     <slot id="title">
         <text>窗口标题</text>
     </slot>
 
-    <div id="content"
-        width="100%"
-        flex-grow="1"
-        background="#f00">
+    <div
+        gap="20"
+        align-items="center"
+        width="168"
+        margin-top="20"
+    >
+        <icon_list></icon_list>
+        <div class="box" width="100%">
+            <text>双击交换</text>
+        </div>
+        <icon_list></icon_list>
     </div>
+
 </game_window>

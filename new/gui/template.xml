@@ -85,46 +85,22 @@
     </style>
 
     <style name="checkbox">
-        <normal
-            background="image game.png 189 181 26 22"
-        />
-        <hover
-            background="image game.png 189 203 26 22"
-        />
-        <pressed
-            background="image game.png 189 203 26 22"
-        />
-        <disabled
-            background="image game.png 189 181 26 22"
-        />
+        <normal background="image game.png 189 181 26 22" />
+        <hover background="image game.png 189 203 26 22" />
+        <pressed background="image game.png 189 203 26 22" />
+        <disabled background="image game.png 189 181 26 22" />
 
-        <checked_normal
-            background="image game.png 189 137 26 22"
-        />
-        <checked_hover
-            background="image game.png 189 159 26 22"
-        />
-        <checked_pressed
-            background="image game.png 189 159 26 22"
-        />
-        <checked_disabled
-            background="image game.png 189 159 26 22"
-        />
+        <checked_normal background="image game.png 189 137 26 22" />
+        <checked_hover background="image game.png 189 159 26 22" />
+        <checked_pressed background="image game.png 189 159 26 22" />
+        <checked_disabled background="image game.png 189 159 26 22" />
     </style>
 
     <style name="input">
-        <normal
-            background="stretch game.png 160 111 24 24 6 6 6 6"
-        />
-        <hover
-            background="stretch game.png 160 136 24 24 6 6 6 6"
-        />
-        <pressed
-            background="stretch game.png 160 161 24 24 6 6 6 6"
-        />
-        <disabled
-            background="stretch game.png 160 111 24 24 6 6 6 6"
-        />
+        <normal background="stretch game.png 160 111 24 24 6 6 6 6" />
+        <hover background="stretch game.png 160 136 24 24 6 6 6 6" />
+        <pressed background="stretch game.png 160 161 24 24 6 6 6 6" />
+        <disabled background="stretch game.png 160 111 24 24 6 6 6 6" />
     </style>
 
     <style name="box">
@@ -142,22 +118,16 @@
     </style>
 
     <style name="listitem">
-        <normal background="stretch game.png 296 194 20 20 5 5 5 5" ></normal>
-        <hover background="stretch game.png 296 149 20 20 5 5 5 5" ></hover>
-        <checked_normal background="stretch game.png 296 127 20 20 5 5 5 5" ></checked_normal>
-        <checked_hover background="stretch game.png 296 105 20 20 5 5 5 5" ></checked_hover>
+        <normal background="stretch game.png 296 194 20 20 5 5 5 5"></normal>
+        <hover background="stretch game.png 296 149 20 20 5 5 5 5"></hover>
+        <checked_normal background="stretch game.png 296 127 20 20 5 5 5 5"></checked_normal>
+        <checked_hover background="stretch game.png 296 105 20 20 5 5 5 5"></checked_hover>
     </style>
 
     <template name="listitem">
         <checkbox class="listitem"
-        padding="2"></checkbox>
+            padding="2"></checkbox>
     </template>
-
-    <style name="test">
-        <normal
-            background="#f00"
-        ></normal>
-    </style>
 
 
     <template name="game_input">
@@ -173,18 +143,9 @@
     </template>
 
     <style name="sliderButton">
-        <normal
-            color="#fff"
-            background="image game.png 252 186 11 26"
-        />
-        <hover
-            color="#f00"
-            background="image game.png 239 186 11 26"
-        />
-        <pressed
-            color="#f0f"
-            background="image game.png 239 186 11 26"
-        />
+        <normal background="image game.png 252 186 11 26" />
+        <hover background="image game.png 239 186 11 26" />
+        <pressed background="image game.png 239 186 11 26" />
     </style>
 
     <template name="slider_game">
@@ -288,5 +249,48 @@
                 <slot id="title"> </slot>
             </div>
         </div>
+    </template>
+
+    <style name="icon_bg">
+        <normal background="image game.png 321 93 28 28" width="28" height="28"></normal>
+        <hover background="image game.png 349 93 28 28"></hover>
+        <pressed background="image game.png 377 93 28 28"></pressed>
+        <disabled background="image game.png 405 93 28 28"></disabled>
+    </style>
+    <template name="icon_list">
+        <ItemList
+        max-width="168" 
+        height="112"
+        flex-direction="row"
+        flex-wrap="wrap"
+        >
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+            <div class="icon_bg"></div>
+        </ItemList>
     </template>
 </root>
