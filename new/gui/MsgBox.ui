@@ -1,0 +1,25 @@
+<div
+    class="panel"
+    width="350"
+    height="170"
+    padding="20"
+    gap="10"
+>
+    <div
+        class="box"
+        flex-grow="1"
+    >
+        <text 
+        width="100%"
+        ></text>
+    </div>
+
+    <div
+        flex-direction="row"
+        justify-content="center"
+        gap="10"
+    >
+        <green_button min-width="70">确定</green_button>
+        <red_button min-width="70">取消</red_button>
+    </div>
+</div>
