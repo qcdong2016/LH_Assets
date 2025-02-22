@@ -125,8 +125,8 @@
     </style>
 
     <template name="listitem">
-        <checkbox class="listitem"
-            padding="2"></checkbox>
+        <CheckBox class="listitem"
+            padding="2"></CheckBox>
     </template>
 
 
@@ -149,7 +149,7 @@
     </style>
 
     <template name="slider_game">
-        <slider
+        <Slider
             align-items="center"
             flex-direction="row"
             min-height="26"
@@ -164,27 +164,27 @@
                 ></div>
             </div>
             <div id="slider" class="sliderButton" width="11" height="26" position="absolute"></div>
-        </slider>
+        </Slider>
     </template>
 
     <template name="game_checkbox">
-        <checkbox
+        <CheckBox
             align-items="center"
             flex-direction="row"
         >
             <div id="mark" class="checkbox" width="26" height="22"></div>
             <text id="text"></text>
-        </checkbox>
+        </CheckBox>
     </template>
 
     <template name="game_checkbox_right">
-        <checkbox
+        <CheckBox
             align-items="center"
             flex-direction="row"
         >
             <text id="text"></text>
             <div id="mark" class="checkbox" width="26" height="22"></div>
-        </checkbox>
+        </CheckBox>
     </template>
 
     <template name="blue_button">
