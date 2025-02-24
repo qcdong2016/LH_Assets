@@ -5,7 +5,7 @@
 >
 
     <slot id="title">
-        <text>交换</text>
+        <text id="tt"></text>
     </slot>
 
     <div
@@ -16,7 +16,7 @@
     >
         <icon_list id="up"></icon_list>
         <div class="box" width="100%">
-            <text>双击交换</text>
+            <text id="desc"></text>
         </div>
         <icon_list id="dl"></icon_list>
     </div>
