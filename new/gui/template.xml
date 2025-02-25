@@ -1,12 +1,9 @@
 <root>
     <font
-        name="default"
-        type="sdlttf"
-        iter="war3"
-        file="C:/Windows/Fonts/simsun.ttc"
-        size="14"
+        name="simsun"
+        data="sdl C:/Windows/Fonts/simsun.ttc 14"
+        default="1"
     ></font>
-
 
     <style name="red_button">
         <normal
