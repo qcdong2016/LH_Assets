@@ -912,7 +912,7 @@
 	},
 	"SET_61":
 	{
-		"Effect": "magic_circle.efkefc",
+		"Effect": "tdjh.efkefc",
 		"EffectScale": 4,
 		"STATUS":[
 			[0,7500],
