@@ -9,3 +9,7 @@ rate_ok,{}% 成功率
 level,({}级)
 low_level,等级不足{}
 pet_slot,装备在{}号宠物位
+lv_limit,等级要求
+get_exp,获得经验值
+get_laim,获得金钱
+no_quest,当前无任务
