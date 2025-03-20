@@ -13,3 +13,6 @@ lv_limit,等级要求
 get_exp,获得经验值
 get_laim,获得金钱
 no_quest,当前无任务
+target_val,目标值
+get_val,获取值
+remain_val,剩余值
