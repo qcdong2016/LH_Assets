@@ -3,6 +3,7 @@
     height="460"
     align-items="center"
     gap="10"
+    right="0"
 >
 
     <slot id="title">
