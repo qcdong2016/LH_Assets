@@ -9,27 +9,21 @@
         <text id="tt">签 到</text>
     </slot>
 
-    <text margin="20" color="#ff0">当前积分：100</text>
+    <text margin="20" color="#ff0" id="score"></text>
 
-    <div flex-direction="row"
+    <ItemList 
+        id="list"
+        flex-direction="row"
         flex-grow="1"
         width="240"
         flex-wrap="wrap" justify-content="center">
         <repeat count="8">
-            <div class="box" width="60" height="60">
-                <text
-                    background="#88888888"
-                    text-align="center"
-                    position="absolute"
-                    bottom="6"
-                    left="6" right="6"
-                >900</text>
-            </div>
+            <div class="box" width="60" height="60" > </div>
         </repeat>
-    </div>
+    </ItemList>
 
     <text color="#888">双击上面的物品即可兑换</text>
 
-    <green_button width="100" height="40" margin="20">立即签到</green_button>
+    <green_button width="100" height="40" margin="20" id="ok">立即签到</green_button>
 
 </game_window>

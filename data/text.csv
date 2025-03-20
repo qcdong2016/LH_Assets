@@ -16,3 +16,5 @@ no_quest,当前无任务
 target_val,目标值
 get_val,获取值
 remain_val,剩余值
+current_point,当前积分
+need_point,需要积分
