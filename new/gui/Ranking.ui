@@ -1,0 +1,52 @@
+<game_window
+    width="500"
+    height="460"
+    align-items="center"
+    align-self="center"
+    top="60"
+>
+
+    <slot id="title">
+        <text id="tt">排行榜</text>
+    </slot>
+
+    <ListBox
+        id="race"
+        flex-direction="row">
+        <tab_button class="tab_button"></tab_button>
+        <tab_button class="tab_button"></tab_button>
+        <tab_button class="tab_button"></tab_button>
+        <tab_button class="tab_button"></tab_button>
+        <tab_button class="tab_button"></tab_button>
+        <tab_button class="tab_button"></tab_button>
+    </ListBox>
+
+    <div
+        id="rank"
+        margin-bottom="10" width="100%">
+        <repeat count="10">
+            <div class="box" width="100%" height="30"
+                flex-direction="row"
+                padding-left="10"
+                padding-right="10">
+                <text id="no" width="100"></text>
+                <text id="name" flex-grow="1"></text>
+                <text id="lv" width="100"></text>
+            </div>
+        </repeat>
+    </div>
+
+    <div id="me"
+        class="box1"
+        width="100%" height="30"
+        flex-direction="row"
+        padding-left="10"
+        padding-right="10">
+        <text id="no" width="100"></text>
+        <text id="name" flex-grow="1"></text>
+        <text id="lv" width="100"></text>
+    </div>
+
+    <green_button width="100" height="30" margin="10" id="ok">确认</green_button>
+
+</game_window>

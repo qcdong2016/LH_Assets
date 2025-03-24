@@ -81,6 +81,18 @@
         />
     </style>
 
+    <style name="tab_button">
+        <normal background="image game.png 424 0 78 25" color="#B6A776"></normal>
+        <hover background="image game.png 424 50 78 25" color="#FEE8A0"></hover>
+        <pressed background="image game.png 424 25 78 25" color="#FEE8A0"></pressed>
+        <disabled background="image game.png 424 75 78 25" color="#767676"></disabled>
+
+        <checked_normal background="image game.png 424 25 78 25" color="#FEE8A0"/>
+        <checked_hover background="image game.png 424 25 78 25" color="#FEE8A0"/>
+        <checked_pressed background="image game.png 424 25 78 25" color="#FEE8A0"/>
+    </style>
+
+
     <style name="checkbox">
         <normal background="image game.png 189 181 26 22" />
         <hover background="image game.png 189 203 26 22" />
@@ -103,6 +115,13 @@
     <style name="box">
         <normal
             background="stretch game.png 160 111 24 24 6 6 6 6"
+            padding="6"
+        ></normal>
+    </style>
+
+    <style name="box1">
+        <normal
+            background="stretch game.png 160 161 24 24 6 6 6 6"
             padding="6"
         ></normal>
     </style>
@@ -191,8 +210,7 @@
             justify-content="center"
             padding="5"
         >
-            <text id="text"
-            ></text>
+            <text id="text"></text>
         </button>
     </template>
 
@@ -203,8 +221,7 @@
             justify-content="center"
             padding="5"
         >
-            <text id="text"
-            ></text>
+            <text id="text"></text>
         </button>
     </template>
 
@@ -215,8 +232,7 @@
             justify-content="center"
             padding="5"
         >
-            <text id="text"
-            ></text>
+            <text id="text"></text>
         </button>
     </template>
 
@@ -227,9 +243,21 @@
             justify-content="center"
             padding="5"
         >
-            <text id="text"
-            ></text>
+            <text id="text"></text>
         </button>
+    </template>
+
+    <template name="tab_button">
+        <CheckBox
+            class="tab_button"
+            align-items="center"
+            justify-content="center"
+            padding="5"
+            width="78" 
+            height="25" 
+        >
+            <text id="text"></text>
+        </CheckBox>
     </template>
 
     <template name="game_window">
@@ -253,14 +281,14 @@
         <normal background="image game.png 321 93 28 28" width="28" height="28"></normal>
         <hover background="image game.png 349 93 28 28"></hover>
         <pressed background="image game.png 377 93 28 28"></pressed>
-        <disabled background="image game.png 405 93 28 28"></disabled>
+        <disabled background="image game.png 377 121  28 28"></disabled>
     </style>
     <template name="icon_list">
         <ItemList
-        max-width="168" 
-        height="112"
-        flex-direction="row"
-        flex-wrap="wrap"
+            max-width="168"
+            height="112"
+            flex-direction="row"
+            flex-wrap="wrap"
         >
             <div class="icon_bg"></div>
             <div class="icon_bg"></div>
