@@ -18,3 +18,6 @@ get_val,获取值
 remain_val,剩余值
 current_point,当前积分
 need_point,需要积分
+txt_rank,排行
+txt_player,玩家
+txt_lv,等级
