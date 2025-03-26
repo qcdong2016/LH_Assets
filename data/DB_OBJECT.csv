@@ -1833,7 +1833,7 @@ id,type,lol,ko,zh
 9025,5,data/building/dmitron/LOLOS/d9a_art03a.LOL,마대자루02,마대자루02
 9026,5,data/building/dmitron/LOLOS/d9a_art03b.LOL,마대자루03,마대자루03
 9027,5,data/building/dmitron/LOLOS/d9a_art03c.LOL,마대자루04,마대자루04
-9028,5,data/building/dmitron/LOLOS/050628d9t_tree15a.LOL,낙엽떨어지는나무,낙엽떨어지는나무
+9028,5,data/building/moebius/LOLOS/050628d9t_tree15a.LOL,낙엽떨어지는나무,낙엽떨어지는나무
 9029,5,data/building/dmitron/LOLOS/d9a_art03d.LOL,마대자루05,마대자루05
 9030,5,data/building/dmitron/LOLOS/d9a_art06m.LOL,벽01,벽01
 9031,5,data/building/dmitron/LOLOS/d9a_art06s.LOL,벽02,벽02
@@ -1871,9 +1871,9 @@ id,type,lol,ko,zh
 9063,5,data/building/dmitron/LOLOS/d9t_tree05l.LOL,나무08,나무08
 9064,5,data/building/dmitron/LOLOS/d9t_tree05m.LOL,나무09,나무09
 9065,5,data/building/dmitron/LOLOS/d9t_tree05s.LOL,나무10,나무10
-9066,5,data/building/dmitron/LOLOS/050628d9t_tree15.LOL,나무11,나무11
-9067,5,data/building/dmitron/LOLOS/050628d9t_tree15b.LOL,낙엽떨어지는나무02,낙엽떨어지는나무02
-9068,5,data/building/dmitron/LOLOS/050628d9t_tree15c.LOL,낙엽떨어지는나무03,낙엽떨어지는나무03
+9066,5,data/building/moebius/LOLOS/050628d9t_tree15.LOL,나무11,나무11
+9067,5,data/building/moebius/LOLOS/050628d9t_tree15b.LOL,낙엽떨어지는나무02,낙엽떨어지는나무02
+9068,5,data/building/moebius/LOLOS/050628d9t_tree15c.LOL,낙엽떨어지는나무03,낙엽떨어지는나무03
 9069,5,data/building/dmitron/LOLOS/d9t_tree06l.LOL,나무11,나무11
 9070,5,data/building/dmitron/LOLOS/d9t_tree06m.LOL,나무12,나무12
 9071,5,data/building/dmitron/LOLOS/d9t_tree06s.LOL,나무13,나무13
@@ -2504,7 +2504,7 @@ id,type,lol,ko,zh
 12025,5,data/building/dmitron/LOLOS/d9a_art03a.LOL,마대자루02,마대자루02
 12026,5,data/building/dmitron/LOLOS/d9a_art03b.LOL,마대자루03,마대자루03
 12027,5,data/building/dmitron/LOLOS/d9a_art03c.LOL,마대자루04,마대자루04
-12028,5,data/building/dmitron/LOLOS/050628d9t_tree15a.LOL,낙엽떨어지는나무,낙엽떨어지는나무
+12028,5,data/building/moebius/LOLOS/050628d9t_tree15a.LOL,낙엽떨어지는나무,낙엽떨어지는나무
 12029,5,data/building/dmitron/LOLOS/d9a_art03d.LOL,마대자루05,마대자루05
 12030,5,data/building/dmitron/LOLOS/d9a_art06m.LOL,벽01,벽01
 12031,5,data/building/dmitron/LOLOS/d9a_art06s.LOL,벽02,벽02
@@ -2542,9 +2542,9 @@ id,type,lol,ko,zh
 12063,5,data/building/dmitron/LOLOS/d9t_tree05l.LOL,나무08,나무08
 12064,5,data/building/dmitron/LOLOS/d9t_tree05m.LOL,나무09,나무09
 12065,5,data/building/dmitron/LOLOS/d9t_tree05s.LOL,나무10,나무10
-12066,5,data/building/dmitron/LOLOS/050628d9t_tree15.LOL,나무11,나무11
-12067,5,data/building/dmitron/LOLOS/050628d9t_tree15b.LOL,낙엽떨어지는나무02,낙엽떨어지는나무02
-12068,5,data/building/dmitron/LOLOS/050628d9t_tree15c.LOL,낙엽떨어지는나무03,낙엽떨어지는나무03
+12066,5,data/building/moebius/LOLOS/050628d9t_tree15.LOL,나무11,나무11
+12067,5,data/building/moebius/LOLOS/050628d9t_tree15b.LOL,낙엽떨어지는나무02,낙엽떨어지는나무02
+12068,5,data/building/moebius/LOLOS/050628d9t_tree15c.LOL,낙엽떨어지는나무03,낙엽떨어지는나무03
 12069,5,data/building/dmitron/LOLOS/d9t_tree06l.LOL,나무11,나무11
 12070,5,data/building/dmitron/LOLOS/d9t_tree06m.LOL,나무12,나무12
 12071,5,data/building/dmitron/LOLOS/d9t_tree06s.LOL,나무13,나무13
@@ -2912,8 +2912,8 @@ id,type,lol,ko,zh
 12433,5,data/building/dmitron/LOLOS/battle_wall_005_C_003.LOL,오염지대기둥03,오염지대기둥03
 12434,5,data/building/dmitron/LOLOS/Battle_wall.LOL,점령전기초벽돌,점령전기초벽돌
 13000,2,data/building/bulkan_boss/LOLOS/B_boss_tree01.LOL,마른나무,마른나무
-13001,2,data/building/bulkan_boss/LOLOS/050628d9t_tree15.LOL,나무00,나무00
-13002,2,data/building/bulkan_boss/LOLOS/050628d9t_tree15b.LOL,나무01,나무01
+13001,2,data/building/moebius/LOLOS/050628d9t_tree15.LOL,나무00,나무00
+13002,2,data/building/moebius/LOLOS/050628d9t_tree15b.LOL,나무01,나무01
 13003,1,data/building/bulkan_boss/LOLOS/big_acc.LOL,기울어진 탑,기울어진 탑
 13004,12,data/building/bulkan_boss/LOLOS/big_bridge.LOL,다리00,다리00
 13005,1,data/building/bulkan_boss/LOLOS/big_bridge_lion.LOL,사자석상,사자석상
@@ -3072,7 +3072,7 @@ id,type,lol,ko,zh
 15004,5,data/building/aidia_boss/LOLOS/aidia_tree-B00.LOL,큰나무00,큰나무00
 15005,5,data/building/aidia_boss/LOLOS/aidia_tree-B01.LOL,큰나무01,큰나무01
 15006,1,data/building/aidia_boss/LOLOS/d_tree_003.LOL,작은나무01,작은나무01
-15007,1,data/building/aidia_boss/LOLOS/050628d9t_tree15b.LOL,작은나무02,작은나무02
+15007,1,data/building/moebius/LOLOS/050628d9t_tree15b.LOL,작은나무02,작은나무02
 15008,1,data/building/aidia_boss/LOLOS/m_junggujo.LOL,풀01,풀01
 15009,1,data/building/aidia_boss/LOLOS/a_corner.LOL,풀02,풀02
 15010,1,data/building/aidia_boss/LOLOS/kkh0218_coconut tree06.LOL,풀03,풀03
