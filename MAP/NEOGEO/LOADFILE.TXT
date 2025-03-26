@@ -1,7 +1,0 @@
-// 헤더 파일 : 파일 이름외에는 바꾸지 마세요.
-0
-map\\neogeo\\earth_0514_256.map			
-map\\neogeo\\height257.ht			
-data\wave.lol				
-map\\neogeo\\dcolor.tbl			
-map\\neogeo\\field_cli.att

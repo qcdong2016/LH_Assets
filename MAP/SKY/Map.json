@@ -1,0 +1,8 @@
+{
+    "d": 3,
+    "map": "earth_0514_256.map",
+    "height": "height257.ht",
+    "color": "dcolor.tbl",
+    "att": "field_cli.att",
+    "mask": "sky.ut"
+}

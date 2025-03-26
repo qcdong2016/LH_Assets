@@ -1,7 +1,0 @@
-// 헤더 파일 : 파일 이름외에는 바꾸지 마세요.
-0
-map\\matrix\\matrix.map			
-map\\matrix\\height257.ht			
-data\wave.lol				
-map\\matrix\\dcolor.tbl			
-map\\matrix\\field_cli.att

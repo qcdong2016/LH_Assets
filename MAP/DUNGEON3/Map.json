@@ -1,0 +1,8 @@
+{
+    "d": 1,
+    "map": "dungeon3.raw",
+    "height": "d1_height257.ht",
+    "color": "dcolor.tbl",
+    "alpha": "d1_al.raw",
+    "att": "dungeon_cli.att"
+}
