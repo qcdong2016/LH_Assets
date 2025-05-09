@@ -52,6 +52,7 @@ ID,Name,File
 412,拉格拉米亚广场-12,map/start/stone2.dds
 413,拉格拉米亚广场-13,map/start/stone3.dds
 414,拉格拉米亚广场-14,map/start/desert3.dds
+700,冰雪极地-0,map/whitehorn/grass_dark.dds
 701,冰雪极地-1,map/whitehorn/rock.dds
 702,冰雪极地-2,map/whitehorn/rock_snow.dds
 703,冰雪极地-3,map/whitehorn/snow1.dds
@@ -72,8 +73,12 @@ ID,Name,File
 805,冰晶洞窟-5,map/dungeon4/bg_kkh0510_16 copy.dds
 806,冰晶洞窟-6,map/dungeon4/bg_kkh0510_10 copy_1.dds
 807,冰晶洞窟-7,map/dungeon4/bg_kkh0510_10 copy_2.dds
+900,米伦特-0,map/dmitron/00.dds
 901,米伦特-1,map/dmitron/lord.dds
+902,米伦特-2,map/dmitron/02.dds
 903,米伦特-3,map/dmitron/05.dds
+904,米伦特-4,map/dmitron/01.dds
+905,米伦特-5,map/dmitron/ground_cliff.dds
 906,米伦特-6,map/dmitron/04.dds
 907,米伦特-7,map/dmitron/lord01.dds
 908,米伦特-8,map/dmitron/ground01.dds
@@ -82,8 +87,20 @@ ID,Name,File
 911,米伦特-11,map/dmitron/dengen1_tile08.dds
 912,米伦特-12,map/dmitron/kkh_0414_background02.dds
 913,米伦特-13,map/dmitron/bg_kkh0510_05 copy.dds
+1000,莫比乌斯-阿雷纳-0,map/matrix/desert1.dds
+1001,莫比乌斯-阿雷纳-1,map/matrix/03.dds
+1002,莫比乌斯-阿雷纳-2,map/matrix/05.dds
+1003,莫比乌斯-阿雷纳-3,map/matrix/s_castlestone_005.dds
+1004,莫比乌斯-阿雷纳-4,map/matrix/snow2.dds
+1005,莫比乌斯-阿雷纳-5,map/matrix/rock.dds
 1006,莫比乌斯-阿雷纳-6,map/matrix/st3.dds
+1007,莫比乌斯-阿雷纳-7,map/matrix/00.dds
+1008,莫比乌斯-阿雷纳-8,map/matrix/04.dds
 1009,莫比乌斯-阿雷纳-9,map/matrix/grass2.dds
+1010,莫比乌斯-阿雷纳-10,map/matrix/bg_kkh0510_07 copy.dds
+1011,莫比乌斯-阿雷纳-11,map/matrix/marvel2.dds
+1012,莫比乌斯-阿雷纳-12,map/matrix/tile1.dds
+1013,莫比乌斯-阿雷纳-13,map/matrix/tile2.dds
 1014,莫比乌斯-阿雷纳-14,map/matrix/background.dds
 1100,公会排名区-0,map/gbattle/mot022.dds
 1101,公会排名区-1,map/gbattle/floor_grass3&soil_transition.dds
@@ -92,9 +109,26 @@ ID,Name,File
 1104,公会排名区-4,map/gbattle/gbattle_star2.dds
 1105,公会排名区-5,map/gbattle/gbattle_bluck.dds
 1106,公会排名区-6,map/gbattle/gbattle_star1.dds
+1200,米特伦-0,map/dmitron/00.dds
+1201,米特伦-1,map/dmitron/lord.dds
+1202,米特伦-2,map/dmitron/02.dds
+1203,米特伦-3,map/dmitron/05.dds
+1204,米特伦-4,map/dmitron/01.dds
+1205,米特伦-5,map/dmitron/ground_cliff.dds
+1206,米特伦-6,map/dmitron/04.dds
+1207,米特伦-7,map/dmitron/lord01.dds
+1208,米特伦-8,map/dmitron/ground01.dds
+1209,米特伦-9,map/dmitron/kkh_0414_background11.dds
+1210,米特伦-10,map/dmitron/moltenrock3.dds
+1211,米特伦-11,map/dmitron/dengen1_tile08.dds
+1212,米特伦-12,map/dmitron/kkh_0414_background02.dds
+1213,米特伦-13,map/dmitron/bg_kkh0510_05 copy.dds
 1300,图兰-0,map/bulkan_boss/floor_soil&grave8.dds
+1301,图兰-1,map/bulkan_boss/desert1.dds
+1302,图兰-2,map/bulkan_boss/desert3.dds
 1303,图兰-3,map/bulkan_boss/floor03_stone00.dds
 1304,图兰-4,map/bulkan_boss/floor_grass3&soil.dds
+1305,图兰-5,map/bulkan_boss/floor_grass3&soil_transition.dds
 1306,图兰-6,map/bulkan_boss/floor_sand.dds
 1307,图兰-7,map/bulkan_boss/floor_soil&grave1.dds
 1308,图兰-8,map/bulkan_boss/floor_soil&grave2.dds
@@ -109,6 +143,7 @@ ID,Name,File
 1317,图兰-17,map/bulkan_boss/floor_pavement_four.dds
 1318,图兰-18,map/bulkan_boss/muv086.dds
 1319,图兰-19,map/bulkan_boss/muv086-1.dds
+1400,巴卡利亚-0,map/kailipton_boss/sup057.dds
 1401,巴卡利亚-1,map/kailipton_boss/aztec029.dds
 1402,巴卡利亚-2,map/kailipton_boss/sup065.dds
 1403,巴卡利亚-3,map/kailipton_boss/sup070.dds
@@ -125,22 +160,36 @@ ID,Name,File
 1414,巴卡利亚-14,map/kailipton_boss/floor_soil&grave1.dds
 1415,巴卡利亚-15,map/kailipton_boss/sup110.dds
 1416,巴卡利亚-16,map/kailipton_boss/floor_grass3&soil.dds
+1500,巴沙-0,map/aidia_boss/floor_grass3&soil.dds
+1501,巴沙-1,map/aidia_boss/sup055.dds
 1502,巴沙-2,map/aidia_boss/ground013.dds
 1503,巴沙-3,map/aidia_boss/stone02.dds
 1504,巴沙-4,map/aidia_boss/newzealand021.dds
+1505,巴沙-5,map/aidia_boss/floor_soil&grave1.dds
+1506,巴沙-6,map/aidia_boss/sup101.dds
+1507,巴沙-7,map/aidia_boss/00.dds
+1508,巴沙-8,map/aidia_boss/04.dds
+1509,巴沙-9,map/aidia_boss/sup047.dds
 1600,库伊-0,map/human_boss/Sand0083_S.dds
 1601,库伊-1,map/human_boss/america026.dds
 1602,库伊-2,map/human_boss/arena.dds
+1603,库伊-3,map/human_boss/aztec029.dds
 1604,库伊-4,map/human_boss/br001.dds
 1605,库伊-5,map/human_boss/germany010.dds
+1606,库伊-6,map/human_boss/ground013.dds
 1607,库伊-7,map/human_boss/gy004.dds
 1608,库伊-8,map/human_boss/h_boss_floor01.dds
+1609,库伊-9,map/human_boss/newzealand021.dds
 1610,库伊-10,map/human_boss/re007.dds
+1611,库伊-11,map/human_boss/stone02.dds
 1612,库伊-12,map/human_boss/sup065.dds
 1613,库伊-13,map/human_boss/tunisia006.dds
+1700,贝尔格里德-0,map/hybrid_boss/snow4.dds
 1701,贝尔格里德-1,map/hybrid_boss/floor_pavement_four.dds
 1702,贝尔格里德-2,map/hybrid_boss/cemento16a.dds
 1703,贝尔格里德-3,map/hybrid_boss/stone02.dds
+1704,贝尔格里德-4,map/hybrid_boss/h_boss_floor01.dds
+1705,贝尔格里德-5,map/hybrid_boss/floor_sand.dds
 1706,贝尔格里德-6,map/hybrid_boss/floor_grass3.dds
 1707,贝尔格里德-7,map/hybrid_boss/floor_pavement_stone5.dds
 1708,贝尔格里德-8,map/hybrid_boss/floor_pavement_stone6.dds
@@ -155,12 +204,32 @@ ID,Name,File
 1800,马步登堡-0,map/final_boss/germany010.dds
 1801,马步登堡-1,map/final_boss/floor_lava.dds
 1802,马步登堡-2,map/final_boss/germany002.dds
+1803,马步登堡-3,map/final_boss/stone02.dds
+1900,莫比乌斯-试炼-0,map/moebius/sup101.dds
+1901,莫比乌斯-试炼-1,map/moebius/germany010.dds
 1902,莫比乌斯-试炼-2,map/moebius/nie036.dds
+1903,莫比乌斯-试炼-3,map/moebius/stone02.dds
+1904,莫比乌斯-试炼-4,map/moebius/floor_lava.dds
 1905,莫比乌斯-试炼-5,map/moebius/floor_sand.dds
+1906,莫比乌斯-试炼-6,map/moebius/sup055.dds
+1907,莫比乌斯-试炼-7,map/moebius/floor_grass3&soil.dds
 1908,莫比乌斯-试炼-8,map/moebius/floor_soil&grave3.dds
 1909,莫比乌斯-试炼-9,map/moebius/floor_grass_yell.dds
 1910,莫比乌斯-试炼-10,map/moebius/stone02-0.dds
+1911,莫比乌斯-试炼-11,map/moebius/moltenrock1 .dds
+1912,莫比乌斯-试炼-12,map/moebius/moltenrock2.dds
+1913,莫比乌斯-试炼-13,map/moebius/moltenrock3.dds
+1914,莫比乌斯-试炼-14,map/moebius/st3.dds
+1915,莫比乌斯-试炼-15,map/moebius/tile1.dds
+1916,莫比乌斯-试炼-16,map/moebius/tile2.dds
+1917,莫比乌斯-试炼-17,map/moebius/00.dds
+1918,莫比乌斯-试炼-18,map/moebius/04.dds
+1919,莫比乌斯-试炼-19,map/moebius/background.dds
+1920,莫比乌斯-试炼-20,map/moebius/desert1.dds
+1921,莫比乌斯-试炼-21,map/moebius/grass2.dds
+1922,莫比乌斯-试炼-22,map/moebius/marvel2.dds
 2000,荒凉的废墟s1-0,map/forlom_zon01/g-1.dds
+2001,荒凉的废墟s1-1,map/forlom_zon01/h_boss_floor01.dds
 2002,荒凉的废墟s1-2,map/forlom_zon01/g-2.dds
 2003,荒凉的废墟s1-3,map/forlom_zon01/g-3.dds
 2004,荒凉的废墟s1-4,map/forlom_zon01/fg-1.dds
