@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Resource">
+    <Resource type="ResourceLayout" name="TextBox_Game" version="3.2.0">
+        <Widget type="Widget" skin="TextBoxSkin" position="0 0 16 16" name="Root">
+            <Property key="TextAlign" value="Default"/>
+            <Property key="FontName" value="GameFont"/>
+            <Property key="TextColour" value="1 1 1"/>
+            <UserString key="LE_TargetWidgetType" value="TextBox"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="Window_Game" version="3.2.0">
+        <Widget type="Widget" skin="AWindow" position="55 60 165 120" name="Root">
+            <UserString key="LE_TargetWidgetType" value="Window"/>
+            <Widget type="TextBox" skin="TextBox_Game" position="25 0 115 25" align="HStretch Top" name="Caption">
+                <Property key="FontName" value="GameFont"/>
+                <Property key="TextAlign" value="Center"/>
+            </Widget>
+            <Widget type="Widget" position="15 25 135 80" align="Stretch" name="Client"/>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+    <Resource type="ResourceLayout" name="CheckBox_Game" version="3.2.0">
+        <Widget type="Widget" skin="ACheckbox" position="20 20 12 12" name="Root">
+            <Property key="FontName" value="GameFont"/>
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="ScrollBarUp_Game" version="3.2.0">
+        <Widget type="Widget" skin="AScrollBarUp" position="20 20 10 6" name="Root">
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="ScrollBarDown_Game" version="3.2.0">
+        <Widget type="Widget" skin="AScrollBarDown" position="20 20 10 6" name="Root">
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="ScrollBarTrackH_Game" version="3.2.0">
+        <Widget type="Widget" skin="AScrollBar" position="20 20 15 8" name="Root">
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="ScrollBarV_Game" version="3.2.0">
+        <Widget type="Widget" skin="" position="25 50 20 125" name="Root">
+            <Property key="VerticalAlignment" value="true"/>
+            <UserString key="LE_TargetWidgetType" value="ScrollBar"/>
+            <Widget type="Widget" skin="" position="0 20 20 85" align="Stretch" name="TrackPlace">
+                <Property key="NeedKey" value="false"/>
+                <Property key="InheritsPick" value="true"/>
+                <Widget type="Button" skin="AScrollBar" position="0 45 20 15" align="HStretch Top" name="Track">
+                    <UserString key="MinTrackSize" value="10"/>
+                </Widget>
+                <Widget type="Widget" skin="" position="0 10 20 35" align="HStretch Top" name="FirstPart"/>
+                <Widget type="Widget" skin="" position="0 60 20 35" align="HStretch Top" name="SecondPart"/>
+            </Widget>
+            <Widget type="Button" skin="ScrollBarUp_Game" position="0 0 20 20" align="HCenter Top" name="Start"/>
+            <Widget type="Button" skin="ScrollBarDown_Game" position="0 105 20 20" align="HCenter Bottom" name="End"/>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+    <Resource type="ResourceLayout" name="ListBoxItem_Game" version="3.2.0">
+        <Widget type="Widget" skin="ListBoxItemSkin_Dark" position="20 20 20 20" name="Root">
+            <Property key="TextAlign" value="Left VCenter"/>
+            <Property key="FontName" value="DejaVuSansFont_13"/>
+            <UserString key="LE_TargetWidgetType" value="Button"/>
+        </Widget>
+    </Resource>
+    <Resource type="ResourceLayout" name="ListBox_Game" version="3.2.0">
+        <Widget type="Widget" skin="AEmpty" position="20 20 70 60" name="Root">
+            <UserString key="LE_TargetWidgetType" value="ListBox"/>
+            <UserString key="HeightLine" value="20"/>
+            <UserString key="SkinLine" value="ListBoxItem_Game"/>
+            <Widget type="Widget" skin="" position="5 5 40 50" align="Stretch" name="Client"/>
+            <Widget type="ScrollBar" skin="ScrollBarV_Game" position="45 5 20 51" align="Right VStretch" name="VScroll"/>
+        </Widget>
+        <CodeGeneratorSettings/>
+    </Resource>
+</MyGUI>
