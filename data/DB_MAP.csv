@@ -25,4 +25,4 @@ ID,Description,FileName,MapPath,DecoPath,Dungeon,DetailGround,NewDungeon,Newterr
 23,污染的沙漠S3,forlorn_zone03,map/forlorn_zone03/,data/building/forlorn_zone03/,0,1,0,1,Forlorn_Ruin.mp3,0,-1
 24,荒凉的废墟S4,forlorn_zone04,map/forlorn_zone04/,data/building/forlorn_zone04/,0,1,0,1,Forlorn_Ruin.mp3,0,-1
 25,戴卡伦的遗迹,DekaranOld,map/DekaranOld/,data/building/DekaranOld/,0,1,1,1,d1_back.mp3,1,-1
-26,拉格拉米亚广场（忆）,ZONE_4,map/ZONE_4/,data/building/ZONE_4/,0,1,0,1,town.mp3,0,-1
+26,拉格拉米亚广场（忆）,map_26,map/ZONE_4/,data/building/ZONE_4/,0,1,0,1,town.mp3,0,-1
