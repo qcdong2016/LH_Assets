@@ -281,6 +281,7 @@ id,type,lol,ko,zh
 279,0,data/building/neogeo/LOLOS/d_store_001_close.LOL,kb_술집_01,kb_술집_01
 280,5,data/building/neogeo/LOLOS/d_grass_001.LOL,kb_들판풀01,kb_들판풀01
 281,5,data/building/neogeo/LOLOS/d_reed_001.LOL,kb_갈대01,kb_갈대01
+282,5,data/building/neogeo/LOLOS/D_GATEWAY2.LOL,door,door
 1000,1,data/building/dungeon1/LOLOS/de_wall_01.LOL,벽_01,벽_01
 1001,1,data/building/dungeon1/LOLOS/de_wall_01-1.LOL,벽_01-기둥하나,벽_01-기둥하나
 1002,1,data/building/dungeon1/LOLOS/de_wall_01-2.LOL,벽_01-기둥둘,벽_01-기둥둘
