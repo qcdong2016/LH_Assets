@@ -848,7 +848,7 @@ end of skip
 868	需要杀戮神力 5点技能	Level 5 bloody Mana skill is required
 869	需要吸血鬼之触 5点技能	Level 5 vampiric touch skill is required
 870	需要连击 5点技能	Level 5 force Attack skill is required
-871	不可指定	not selected
+871	未指定	not selected
 872	传送位置	transport destination
 873	不能移动到该区域	you can not transport to the following zone
 874	传送位置没被储存	the transport destination has not been saved
