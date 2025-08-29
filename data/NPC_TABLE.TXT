@@ -685,7 +685,7 @@ end of skip
 749	LP供应店
 750	LP Pet Shop
 751	LP武器店2
-752	Bless BunnyGirl
+752	兔女郎宝箱兑换
 753	LP服饰店2
 754	LP服饰店3
 755	布坎武器商人
