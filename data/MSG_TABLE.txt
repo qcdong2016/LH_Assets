@@ -2268,3 +2268,4 @@ end of skip
 4523	没有德雷克.	No Drake.
 4524	无法进行德雷克进化.	Drake not.
 4525	恶魔岛	Merac
+4526	PVE(打怪)攻击上升:%d	PVE attack rise:%d
