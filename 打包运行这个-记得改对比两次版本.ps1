@@ -3,8 +3,8 @@ $TARGET_DIR = "exported_files"
 New-Item -ItemType Directory -Path $TARGET_DIR -Force
 
 # 获取差异文件列表
-$commit1 = "834113017d2f8f738199b997c9262cd4cdfc43da"
-$commit2 = "0e13707e4dc4373b199bafc2bc920dd2233e5fb0"
+$commit1 = "26cfcbf24e0134ebb686eb0efa7ea09d132c9f62"
+$commit2 = "476d8ac42b0b2937c2d94fcb917b4a9e8f1258d1"
 $fileListPath = "file_list.txt"
 
 # 使用 git diff --name-only 生成文件列表
