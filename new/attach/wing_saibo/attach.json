@@ -1,6 +1,18 @@
 {
-    "csy": "wing_saibo.csy",
-    "animations": [
-        "wing_saibo.bpd"
-    ]
+ "animations": [
+  "action_0.bpd"
+ ],
+ "csy": "wing_saibo.csy",
+ "materials": [
+  {
+   "baseColorTexture": "wing_saibo_0.png",
+   "doubleSided": true,
+   "lighting": false
+  },
+  {
+   "baseColorTexture": "wing_saibo_1.png",
+   "doubleSided": true,
+   "lighting": true
+  }
+ ]
 }
