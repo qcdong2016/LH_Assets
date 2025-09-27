@@ -1,0 +1,33 @@
+{
+ "animations": [
+  "action_0.bpd"
+ ],
+ "csy": "wing_chihong.csy",
+ "materials": [
+  {
+   "baseColorTexture": "wing_chihong_0.png",
+   "doubleSided": true,
+   "lighting": true
+  },
+  {
+   "baseColorTexture": "wing_chihong_1.png",
+   "doubleSided": true,
+   "lighting": true
+  },
+  {
+   "baseColorTexture": "wing_chihong_2.png",
+   "doubleSided": true,
+   "lighting": true
+  },
+  {
+   "baseColorTexture": "wing_chihong_3.png",
+   "doubleSided": true,
+   "lighting": true
+  },
+  {
+   "baseColorTexture": "wing_chihong_4.png",
+   "doubleSided": true,
+   "lighting": true
+  }
+ ]
+}
