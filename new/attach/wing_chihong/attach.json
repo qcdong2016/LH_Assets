@@ -6,27 +6,44 @@
  "materials": [
   {
    "baseColorTexture": "wing_chihong_0.png",
+   "blending": 1,
    "doubleSided": true,
    "lighting": true
   },
   {
    "baseColorTexture": "wing_chihong_1.png",
+   "blending": 1,
    "doubleSided": true,
    "lighting": true
   },
   {
    "baseColorTexture": "wing_chihong_2.png",
-   "doubleSided": true,
+   "blending": 0,
+   "doubleSided": false,
    "lighting": true
   },
   {
    "baseColorTexture": "wing_chihong_3.png",
-   "doubleSided": true,
+   "blending": 1,
+   "doubleSided": false,
    "lighting": true
   },
   {
    "baseColorTexture": "wing_chihong_4.png",
-   "doubleSided": true,
+   "blending": 0,
+   "doubleSided": false,
+   "lighting": true
+  },
+  {
+   "baseColorTexture": "wing_chihong_5.png",
+   "blending": 0,
+   "doubleSided": false,
+   "lighting": true
+  },
+  {
+   "baseColorTexture": "wing_chihong_6.png",
+   "blending": 1,
+   "doubleSided": false,
    "lighting": true
   }
  ]
