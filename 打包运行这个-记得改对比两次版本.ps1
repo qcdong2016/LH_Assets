@@ -4,7 +4,7 @@ New-Item -ItemType Directory -Path $TARGET_DIR -Force
 
 # 获取差异文件列表
 $commit1 = "5d2213b56af0c6babb9f865eb5c0670f9d4c3685"
-$commit2 = "5d2213b56af0c6babb9f865eb5c0670f9d4c3685"
+$commit2 = "9303fd0aefa533c7bd85549b0f6bcea4020e9027"
 $fileListPath = "file_list.txt"
 
 # 使用 git diff --name-only 生成文件列表
