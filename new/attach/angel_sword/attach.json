@@ -1,0 +1,24 @@
+{
+ "animations": null,
+ "csy": "angel_sword.csy",
+ "materials": [
+  {
+   "baseColorTexture": "angel_sword_0.png",
+   "blending": 0,
+   "doubleSided": false,
+   "lighting": true
+  },
+  {
+   "baseColorTexture": "angel_sword_1.png",
+   "blending": 0,
+   "doubleSided": false,
+   "lighting": true
+  },
+  {
+   "baseColorTexture": "angel_sword_2.png",
+   "blending": 0,
+   "doubleSided": false,
+   "lighting": true
+  }
+ ]
+}
